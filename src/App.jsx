@@ -9,6 +9,7 @@ import MobileNavBtn from './components/MobileNavBtn.jsx';
 import MockExamView from './views/MockExamView.jsx';
 import MyWritingView from './views/MyWritingView.jsx';
 import NavItem from './components/NavItem.jsx';
+import PortfolioView from './views/PortfolioView.jsx';
 import ProgressAnalyticsView from './views/ProgressAnalyticsView.jsx';
 import ReadingRoomView from './views/ReadingRoomView.jsx';
 import SmartReviewView from './views/SmartReviewView.jsx';
@@ -87,7 +88,6 @@ export default function App() {
 
   const [selectedWordPopup, setSelectedWordPopup] = useState(null);
 
-
   const addExp = (amount) => {
     setUserStats(prev => ({
       ...prev,
@@ -101,7 +101,6 @@ export default function App() {
       addExp(15);
     }
   };
-
 
   return (
     <div className="flex h-dvh bg-slate-50 font-sans text-slate-800 overflow-hidden">
@@ -132,7 +131,8 @@ export default function App() {
             <NavItem icon={<FileText />} label="จำลองข้อสอบ HSK (Mock Test)" active={activeTab === 'mock'} onClick={() => setActiveTab('mock')} />
             <NavItem icon={<Clock />} label="ทบทวนอัตโนมัติ (Smart Review)" active={activeTab === 'review'} onClick={() => setActiveTab('review')} />
             <NavItem icon={<BarChart2 />} label="สถิติและวิเคราะห์จุดอ่อน" active={activeTab === 'analytics'} onClick={() => setActiveTab('analytics')} />
-        <NavItem icon={<BookOpen />} label="อ่านมังฮวา (Manhwa)" active={activeTab === 'manhwa'} onClick={() => setActiveTab('manhwa')} />
+            <NavItem icon={<BookOpen />} label="อ่านมังฮวา (Manhwa)" active={activeTab === 'manhwa'} onClick={() => setActiveTab('manhwa')} />
+            <NavItem icon={<FileText />} label="ผลงานของฉัน (Portfolio)" active={activeTab === 'portfolio'} onClick={() => setActiveTab('portfolio')} />
           </nav>
         </div>
 
@@ -167,7 +167,8 @@ export default function App() {
             <MobileNavBtn icon={<Layers />} active={activeTab === 'flashcard'} onClick={() => setActiveTab('flashcard')} />
             <MobileNavBtn icon={<BookMarked />} active={activeTab === 'reading'} onClick={() => setActiveTab('reading')} />
             <MobileNavBtn icon={<FileText />} active={activeTab === 'mock'} onClick={() => setActiveTab('mock')} />
-              <MobileNavBtn icon={<Book />} active={activeTab === 'manhwa'} onClick={() => setActiveTab('manhwa')} />
+            <MobileNavBtn icon={<Book />} active={activeTab === 'manhwa'} onClick={() => setActiveTab('manhwa')} />
+            <MobileNavBtn icon={<FileText />} active={activeTab === 'portfolio'} onClick={() => setActiveTab('portfolio')} />
           </div>
         </header>
 
@@ -186,6 +187,7 @@ export default function App() {
             {activeTab === 'mock' && <MockExamView addExp={addExp} />}
             {activeTab === 'review' && <SmartReviewView vocabList={vocabList} addExp={addExp} />}
             {activeTab === 'analytics' && <ProgressAnalyticsView userStats={userStats} vocabList={vocabList} />}
+            {activeTab === 'portfolio' && <PortfolioView />}
             {activeTab === 'manhwa' && (
               <Suspense fallback={<p className="text-center text-sm text-slate-500 py-12">กำลังโหลดระบบมังฮวา...</p>}>
                 <ManhwaApp />
