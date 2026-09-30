@@ -1,29 +1,56 @@
 import React, { useState } from 'react';
-import { readings } from '../data/readings';
 
 export default function ReadingRoomView() {
+  // ข้อมูลบทความจำลองภายในตัว เพื่อป้องกันปัญหาหาไฟล์ข้อมูลไม่พบ
+  const readings = [
+    {
+      title: "บทที่ 1: สวัสดี (Hello)",
+      level: 1,
+      content: "你好中国，我喜欢学习汉语。我的朋友也喜欢看书。"
+    },
+    {
+      title: "บทที่ 2: ครอบครัวของฉัน (My Family)",
+      level: 2,
+      content: "我家里有四个人。爸爸、妈妈、哥哥和我。"
+    }
+  ];
+
   const [selectedStory, setSelectedStory] = useState(readings[0]);
   const [activeWord, setActiveWord] = useState(null);
 
-  // พจนานุกรมตัวอย่างสำหรับคำศัพท์ในบทอ่าน (สามารถเพิ่มคำอื่นๆ ได้ตามต้องการ)
+  // พจนานุกรมตัวอย่างสำหรับคำศัพท์ในบทอ่าน
   const dict = {
+    "你": { pinyin: "nǐ", meaning: "คุณ" },
+    "好": { pinyin: "hǎo", meaning: "ดี" },
     "你好": { pinyin: "nǐ hǎo", meaning: "สวัสดี" },
     "中国": { pinyin: "Zhōngguó", meaning: "ประเทศจีน" },
-    "学习": { pinyin: "xuéxí", meaning: "เรียนรู้ / ศึกษา" },
-    "汉语": { pinyin: "Hànyǔ", meaning: "ภาษาจีน" },
-    "朋友": { pinyin: "péngyou", meaning: "เพื่อน" },
+    "我": { pinyin: "wǒ", meaning: "ฉัน" },
     "喜欢": { pinyin: "xǐhuan", meaning: "ชอบ" },
+    "学习": { pinyin: "xuéxí", meaning: "เรียนรู้" },
+    "汉语": { pinyin: "Hànyǔ", meaning: "ภาษาจีน" },
+    "的": { pinyin: "de", meaning: "ของ" },
+    "朋友": { pinyin: "péngyou", meaning: "เพื่อน" },
+    "也": { pinyin: "yě", meaning: "...ก็...เหมือนกัน" },
+    "看": { pinyin: "kàn", meaning: "ดู / อ่าน" },
     "书": { pinyin: "shū", meaning: "หนังสือ" },
-    "看书": { pinyin: "kàn shū", meaning: "อ่านหนังสือ" },
+    "家": { pinyin: "jiā", meaning: "บ้าน / ครอบครัว" },
+    "里": { pinyin: "lǐ", meaning: "ข้างใน" },
+    "有": { pinyin: "yǒu", meaning: "มี" },
+    "四": { pinyin: "sì", meaning: "สี่" },
+    "个": { pinyin: "gè", meaning: "ลักษณนาม (คน/อัน)" },
+    "人": { pinyin: "rén", meaning: "คน" },
+    "爸爸": { pinyin: "bàba", meaning: "พ่อ" },
+    "妈妈": { pinyin: "māma", meaning: "แม่" },
+    "哥哥": { pinyin: "gēge", meaning: "พี่ชาย" },
+    "和": { pinyin: "hé", meaning: "และ" }
   };
 
-  const handleWordClick = (word) => {
-    // ตัดเครื่องหมายวรรคตอนออกเพื่อให้ค้นหาในดิกชันนารีได้
-    const cleanWord = word.replace(/[.,\/#!$%\^&\*;:{}=\-_`~()，。！？]/g,"");
+  const handleWordClick = (char) => {
+    const cleanWord = char.replace(/[.,\/#!$%\^&\*;:{}=\-_`~()，。！？]/g,"");
     if (dict[cleanWord]) {
       setActiveWord({ word: cleanWord, ...dict[cleanWord] });
     } else {
-      setActiveWord({ word: cleanWord, pinyin: "cūn zài / คำศัพท์ทั่วไป", meaning: "คำศัพท์นี้กำลังอัปเดตความหมาย" });
+      setActiveWord({ word: cleanWord, pinyin: "pinyin / คำอ่าน", meaning: "คำศัพท์ทั่วไป" });
     }
   };
 
@@ -49,35 +76,29 @@ export default function ReadingRoomView() {
               }`}
             >
               <div className="font-semibold">{item.title}</div>
-              <div className="text-xs text-gray-500 mt-1">ระดับ: HSK {item.level || 1}</div>
+              <div className="text-xs text-gray-500 mt-1">ระดับ: HSK {item.level}</div>
             </button>
           ))}
         </div>
 
-        {/* เนื้อหาบทความและกล่องแสดงผลคำศัพท์ที่คลิก */}
+        {/* เนื้อหาบทความและกล่องแสดงผล */}
         <div className="md:col-span-2 space-y-6">
           <div className="bg-white rounded-2xl p-6 border border-gray-200 shadow-sm">
             <h2 className="text-xl font-bold text-gray-800 mb-4">{selectedStory.title}</h2>
             
-            {/* พื้นแสดงข้อความแบบแยกคำเพื่อให้กดได้ */}
             <div className="text-2xl leading-relaxed text-gray-900 tracking-wide bg-gray-50 p-6 rounded-xl border border-gray-100 mb-6 flex flex-wrap gap-2">
-              {selectedStory.content ? (
-                selectedStory.content.split('').map((char, index) => (
-                  <span
-                    key={index}
-                    onClick={() => handleWordClick(char)}
-                    className="cursor-pointer hover:bg-emerald-200 hover:text-emerald-900 px-1 rounded transition-colors"
-                    title="แตะเพื่อดูคำแปล"
-                  >
-                    {char}
-                  </span>
-                ))
-              ) : (
-                <p>ไม่มีเนื้อหาบทความ</p>
-              )}
+              {selectedStory.content.split('').map((char, index) => (
+                <span
+                  key={index}
+                  onClick={() => handleWordClick(char)}
+                  className="cursor-pointer hover:bg-emerald-200 hover:text-emerald-900 px-1 rounded transition-colors"
+                  title="แตะเพื่อดูคำแปล"
+                >
+                  {char}
+                </span>
+              ))}
             </div>
 
-            {/* กล่องแสดง Pinyin และคำแปลไทยเมื่อผู้ใช้กดที่ตัวจีน */}
             {activeWord ? (
               <div className="bg-emerald-50 border border-emerald-200 rounded-xl p-4 flex items-center justify-between">
                 <div>
