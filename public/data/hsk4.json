@@ -1,0 +1,9002 @@
+[
+ {
+  "id": "h4_001",
+  "chinese": "阿姨",
+  "pinyin": "āyí",
+  "meaning": "คุณน้า, คุณป้า, แม่บ้าน",
+  "example": "请问阿姨，这件衣服多少钱？",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_002",
+  "chinese": "啊",
+  "pinyin": "a",
+  "meaning": "ah, คำอุทาน",
+  "example": "啊，原来是你！",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_003",
+  "chinese": "矮",
+  "pinyin": "ǎi",
+  "meaning": "เตี้ย",
+  "example": "这棵树比较矮。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_004",
+  "chinese": "矮小",
+  "pinyin": "ǎixiǎo",
+  "meaning": "เตี้ยและเล็ก, ตัวเล็ก",
+  "example": "他身材矮小，但很精神。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_005",
+  "chinese": "爱国",
+  "pinyin": "àiguó",
+  "meaning": "รักชาติ",
+  "example": "我们要做一个爱国的公民。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_006",
+  "chinese": "爱护",
+  "pinyin": "àihù",
+  "meaning": "ทะนุถนอม, รักและปกป้อง",
+  "example": "我们要爱护环境。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_007",
+  "chinese": "安",
+  "pinyin": "ān",
+  "meaning": "สงบ, ปลอดภัย",
+  "example": "祝你一路平安。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_008",
+  "chinese": "安置",
+  "pinyin": "ānzhì",
+  "meaning": "จัดวาง, จัดหาที่พักให้",
+  "example": "灾民已经得到了妥善安置。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_009",
+  "chinese": "按时",
+  "pinyin": "ànshí",
+  "meaning": "ตรงเวลา, ตามกำหนด",
+  "example": "请大家按时交作业。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_010",
+  "chinese": "暗",
+  "pinyin": "àn",
+  "meaning": "มืด, มืดทึบ",
+  "example": "天黑了，房间里有点暗。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_011",
+  "chinese": "暗示",
+  "pinyin": "ànshì",
+  "meaning": "ใบ้, เป็นนัย, ส่งสัญญาณ",
+  "example": "他向我使了个眼色，暗示我不要说话。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_012",
+  "chinese": "巴士",
+  "pinyin": "bāshì",
+  "meaning": "รถบัส, รถประจำทาง",
+  "example": "我们坐巴士去市中心。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_013",
+  "chinese": "百货",
+  "pinyin": "bǎihuò",
+  "meaning": "สินค้าเบ็ดเตล็ด, ห้างสรรพสินค้า",
+  "example": "这家百货公司正在搞促销。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_014",
+  "chinese": "摆",
+  "pinyin": "bǎi",
+  "meaning": "วาง, จัดวาง",
+  "example": "桌子上摆着一盆花。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_015",
+  "chinese": "摆动",
+  "pinyin": "bǎidòng",
+  "meaning": "แกว่ง, โยกไปมา",
+  "example": "树枝随风摆动。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_016",
+  "chinese": "摆脱",
+  "pinyin": "bǎituō",
+  "meaning": "สลัดออก, หลุดพ้น",
+  "example": "他终于摆脱了困境。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_017",
+  "chinese": "败",
+  "pinyin": "bài",
+  "meaning": "แพ้, ความพ่ายแพ้",
+  "example": "这场比赛我们没有败。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_018",
+  "chinese": "办事",
+  "pinyin": "bànshì",
+  "meaning": "ทำงาน, จัดการธุระ",
+  "example": "他办事非常认真负责。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_019",
+  "chinese": "包裹",
+  "pinyin": "bāoguǒ",
+  "meaning": "พัสดุ, ห่อของ",
+  "example": "我今天收到一个包裹。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_020",
+  "chinese": "包含",
+  "pinyin": "bāohán",
+  "meaning": "ประกอบด้วย, รวมอยู่ด้วย",
+  "example": "这篇文章包含了很多信息。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_021",
+  "chinese": "包括",
+  "pinyin": "bāokuò",
+  "meaning": "รวมถึง",
+  "example": "这次旅行费用包括机票和酒店。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_022",
+  "chinese": "薄",
+  "pinyin": "báo",
+  "meaning": "บาง",
+  "example": "这本书很薄，一会儿就读完了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_023",
+  "chinese": "宝",
+  "pinyin": "bǎo",
+  "meaning": "ของล้ำค่า, ทรัพย์สมบัติ",
+  "example": "我们要保护国家的文化瑰宝。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_024",
+  "chinese": "宝宝",
+  "pinyin": "bǎobao",
+  "meaning": "ทารก, ลูกน้อย",
+  "example": "这个宝宝长得真可爱。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_025",
+  "chinese": "宝贝",
+  "pinyin": "bǎobèi",
+  "meaning": "แก้วตาดวงใจ, ของรักของหวง",
+  "example": "这块手表是我的宝贝。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_026",
+  "chinese": "宝贵",
+  "pinyin": "bǎoguì",
+  "meaning": "ล้ำค่า, มีค่ามาก",
+  "example": "时间是非常宝贵的。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_027",
+  "chinese": "宝石",
+  "pinyin": "bǎoshí",
+  "meaning": "อัญมณี, พลอย",
+  "example": "戒指上镶嵌着一颗美丽的宝石。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_028",
+  "chinese": "保密",
+  "pinyin": "bǎomì",
+  "meaning": "เก็บเป็นความลับ",
+  "example": "这件事情请务必保密。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_029",
+  "chinese": "保守",
+  "pinyin": "bǎoshǒu",
+  "meaning": "อนุรักษ์นิยม, สงวนไว้",
+  "example": "他的思想比较保守。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_030",
+  "chinese": "抱",
+  "pinyin": "bào",
+  "meaning": "กอด, อุ้ม",
+  "example": "妈妈紧紧地抱住孩子。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_031",
+  "chinese": "背景",
+  "pinyin": "bèijing",
+  "meaning": "ฉากหลัง, เบื้องหลัง, ภูมิหลัง",
+  "example": "这张照片的背景是长城。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_032",
+  "chinese": "倍",
+  "pinyin": "bèi",
+  "meaning": "เท่า (เช่น สองเท่า)",
+  "example": "今年的收入比去年增加了两倍。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_033",
+  "chinese": "被迫",
+  "pinyin": "bèipò",
+  "meaning": "ถูกบังคับ",
+  "example": "由于天气原因，航班被迫取消了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_034",
+  "chinese": "本科",
+  "pinyin": "běnkē",
+  "meaning": "ปริญญาตรี",
+  "example": "他大学读的是本科专业。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_035",
+  "chinese": "笨",
+  "pinyin": "bèn",
+  "meaning": "โง่, ทึบ, เก้งก้าง",
+  "example": "我怎么这么笨，这么简单的题都不会。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_036",
+  "chinese": "比分",
+  "pinyin": "bǐfēn",
+  "meaning": "คะแนนการแข่งขัน",
+  "example": "目前的比分是二比一。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_037",
+  "chinese": "毕业",
+  "pinyin": "bìyè",
+  "meaning": "จบการศึกษา",
+  "example": "他明年就要大学毕业了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_038",
+  "chinese": "毕业生",
+  "pinyin": "bìyèshēng",
+  "meaning": "ผู้สำเร็จการศึกษา",
+  "example": "今年有很多优秀的高校毕业生。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_039",
+  "chinese": "避",
+  "pinyin": "bì",
+  "meaning": "หลบ, หลีกเลี่ยง",
+  "example": "我们要采取措施避开风险。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_040",
+  "chinese": "避免",
+  "pinyin": "bìmiǎn",
+  "meaning": "หลีกเลี่ยง",
+  "example": "我们要尽量避免犯同样的错误。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_041",
+  "chinese": "编",
+  "pinyin": "biān",
+  "meaning": "ถัก, เรียบเรียง, แต่ง",
+  "example": "这本书是他主编的。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_042",
+  "chinese": "辩论",
+  "pinyin": "biànlùn",
+  "meaning": "โต้วาที, ถกเถียง",
+  "example": "同学们正在进行激烈的辩论。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_043",
+  "chinese": "标志",
+  "pinyin": "biāozhì",
+  "meaning": "สัญลักษณ์, เครื่องหมาย",
+  "example": "长城是中国的标志之一。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_044",
+  "chinese": "表情",
+  "pinyin": "biǎoqíng",
+  "meaning": "สีหน้า, การแสดงออกทางสีหน้า",
+  "example": "从他的表情可以看出他很高兴。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_045",
+  "chinese": "表扬",
+  "pinyin": "biǎoyáng",
+  "meaning": "ชมเชย, ยกย่อง",
+  "example": "老师表扬了表现出色的同学。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_046",
+  "chinese": "别",
+  "pinyin": "bié",
+  "meaning": "อย่า, อื่นๆ",
+  "example": "别担心，我会帮你。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_047",
+  "chinese": "冰",
+  "pinyin": "bīng",
+  "meaning": "น้ำแข็ง",
+  "example": "河面上结了一层厚厚的冰。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_048",
+  "chinese": "冰箱",
+  "pinyin": "bīngxiāng",
+  "meaning": "ตู้เย็น",
+  "example": "苹果放在冰箱里保鲜。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_049",
+  "chinese": "冰雪",
+  "pinyin": "bīngxuě",
+  "meaning": "หิมะและน้ำแข็ง",
+  "example": "冬天到处是皑皑的冰雪。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_050",
+  "chinese": "兵",
+  "pinyin": "bīng",
+  "meaning": "ทหาร",
+  "example": "他曾经是一名优秀的士兵。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_051",
+  "chinese": "并",
+  "pinyin": "bìng",
+  "meaning": "และ, ควบคู่, (ไม่...) ซะทีเดียว",
+  "example": "这项工作并不容易。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_052",
+  "chinese": "不要紧",
+  "pinyin": "búyàojǐn",
+  "meaning": "ไม่เป็นไร",
+  "example": "A: 对不起！ B: 不要紧。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_053",
+  "chinese": "不在乎",
+  "pinyin": "búzàihū",
+  "meaning": "ไม่ใส่ใจ, ไม่แยแส",
+  "example": "他对外人的看法总是不在乎。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_054",
+  "chinese": "不管",
+  "pinyin": "bùguǎn",
+  "meaning": "ไม่ว่า...",
+  "example": "不管遇到什么困难，我们都要坚持。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_055",
+  "chinese": "不然",
+  "pinyin": "bùrán",
+  "meaning": "มิฉะนั้น, ไม่อย่างนั้น",
+  "example": "快点走，不然要迟到了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_056",
+  "chinese": "布置",
+  "pinyin": "bùzhì",
+  "meaning": "ตกแต่ง, มอบหมาย (งาน)",
+  "example": "老师布置了很多作业。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_057",
+  "chinese": "步行",
+  "pinyin": "bùxíng",
+  "meaning": "เดินเท้า",
+  "example": "从这里到公园可以步行去。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_058",
+  "chinese": "擦",
+  "pinyin": "cā",
+  "meaning": "เช็ด, ถู",
+  "example": "请把黑板擦干净。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_059",
+  "chinese": "才",
+  "pinyin": "cái",
+  "meaning": "ความสามารถ, เพิ่งจะ",
+  "example": "他很有艺术才华。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_060",
+  "chinese": "材料",
+  "pinyin": "cáiliào",
+  "meaning": "วัสดุ, เอกสารข้อมูล",
+  "example": "请把这些申请材料交给我。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_061",
+  "chinese": "财产",
+  "pinyin": "cáichǎn",
+  "meaning": "ทรัพย์สิน",
+  "example": "我们要保护好个人的私有财产。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_062",
+  "chinese": "财富",
+  "pinyin": "cáifù",
+  "meaning": "ความมั่งคั่ง, ทรัพย์สมบัติ",
+  "example": "知识是一笔巨大的财富。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_063",
+  "chinese": "采访",
+  "pinyin": "cǎifǎng",
+  "meaning": "สัมภาษณ์ (ข่าว)",
+  "example": "记者正在采访这位科学家。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_064",
+  "chinese": "参考",
+  "pinyin": "cānkǎo",
+  "meaning": "อ้างอิง, ประกอบ",
+  "example": "这本书对我的研究很有参考价值。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_065",
+  "chinese": "参与",
+  "pinyin": "cānyù",
+  "meaning": "มีส่วนร่วม",
+  "example": "大家都积极参与了这次活动。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_066",
+  "chinese": "操场",
+  "pinyin": "cāochǎng",
+  "meaning": "สนามเด็กเล่น, สนามกีฬา",
+  "example": "学生们在操场上跑步。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_067",
+  "chinese": "操作",
+  "pinyin": "cāozuò",
+  "meaning": "ปฏิบัติงาน, ควบคุมการใช้งาน",
+  "example": "这台机器的操作很简单。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_068",
+  "chinese": "测",
+  "pinyin": "cè",
+  "meaning": "วัด, ทดสอบ",
+  "example": "医生正在为病人测体温。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_069",
+  "chinese": "测量",
+  "pinyin": "cèliáng",
+  "meaning": "วัดขนาด, สำรวจวัด",
+  "example": "工人正在测量房间的面积。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_070",
+  "chinese": "测试",
+  "pinyin": "cèshì",
+  "meaning": "ทดสอบ, การทดสอบ",
+  "example": "我们今天有一场汉语水平测试。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_071",
+  "chinese": "曾",
+  "pinyin": "céng",
+  "meaning": "เคย...",
+  "example": "我曾多次去过北京。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_072",
+  "chinese": "茶叶",
+  "pinyin": "cháyè",
+  "meaning": "ใบชา",
+  "example": "这盒茶叶非常香。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_073",
+  "chinese": "产品",
+  "pinyin": "chǎnpǐn",
+  "meaning": "ผลิตภัณฑ์",
+  "example": "这家公司的产品畅销全国。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_074",
+  "chinese": "长途",
+  "pinyin": "chángtú",
+  "meaning": "ทางไกล",
+  "example": "他经常出差进行长途旅行。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_075",
+  "chinese": "常识",
+  "pinyin": "chángshí",
+  "meaning": "สามัญสำนึก, ความรู้ทั่วไป",
+  "example": "这只是生活常识。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_076",
+  "chinese": "唱片",
+  "pinyin": "chàngpiàn",
+  "meaning": "แผ่นเสียง, ซีดีเพลง",
+  "example": "这张老唱片很有纪念意义。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_077",
+  "chinese": "抄",
+  "pinyin": "chāo",
+  "meaning": "คัดลอก, ลอก",
+  "example": "请把黑板上的字抄下来。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_078",
+  "chinese": "抄写",
+  "pinyin": "chāoxiě",
+  "meaning": "คัดลอกด้วยลายมือ",
+  "example": "学生需要认真抄写生词。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_079",
+  "chinese": "潮",
+  "pinyin": "cháo",
+  "meaning": "กระแสน้ำ, กระแส",
+  "example": "紧跟时代潮流。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_080",
+  "chinese": "潮流",
+  "pinyin": "cháoliú",
+  "meaning": "กระแสความนิยม, เทรนด์",
+  "example": "年轻人总是喜欢追求潮流。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_081",
+  "chinese": "潮湿",
+  "pinyin": "cháoshī",
+  "meaning": "ชื้น, อับชื้น",
+  "example": "南方梅雨季节天气很潮湿。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_082",
+  "chinese": "彻底",
+  "pinyin": "chèdǐ",
+  "meaning": "อย่างสิ้นเชิง, โดยเด็ดขาด",
+  "example": "我们要彻底解决这个问题。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_083",
+  "chinese": "沉",
+  "pinyin": "chén",
+  "meaning": "จม, หนัก",
+  "example": "石头掉进水里就沉下去了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_084",
+  "chinese": "沉默",
+  "pinyin": "chénmò",
+  "meaning": "นิ่งเงียบ, การเงียบ",
+  "example": "听到这个消息，大家都沉默了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_085",
+  "chinese": "沉重",
+  "pinyin": "chénzhòng",
+  "meaning": "หนักหน่วง, หนักอึ้ง",
+  "example": "他怀着沉重的心情离开了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_086",
+  "chinese": "称赞",
+  "pinyin": "chēngzàn",
+  "meaning": "กล่าวชมเชย",
+  "example": "老板称赞他工作很努力。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_087",
+  "chinese": "成人",
+  "pinyin": "chéngrén",
+  "meaning": "ผู้ใหญ่",
+  "example": "他已经是一个十八岁的成年人了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_088",
+  "chinese": "诚实",
+  "pinyin": "chéngshí",
+  "meaning": "ซื่อสัตย์",
+  "example": "做人一定要诚实守信。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_089",
+  "chinese": "诚信",
+  "pinyin": "chéngxìn",
+  "meaning": "ความซื่อสัตย์สุจริต, ความน่าเชื่อถือ",
+  "example": "做生意要以诚信为本。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_090",
+  "chinese": "承担",
+  "pinyin": "chéngdān",
+  "meaning": "แบกรับ, รับผิดชอบ",
+  "example": "我们要为自己的行为承担责任。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_091",
+  "chinese": "承认",
+  "pinyin": "chéngrèn",
+  "meaning": "ยอมรับ",
+  "example": "他勇敢地承认了自己的错误。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_092",
+  "chinese": "承受",
+  "pinyin": "chéngshòu",
+  "meaning": "แบกรับ, อดทนต่อ",
+  "example": "他承受了巨大的工作压力。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_093",
+  "chinese": "程序",
+  "pinyin": "chéngxù",
+  "meaning": "ขั้นตอน, โปรแกรมคอมพิวเตอร์",
+  "example": "请按照标准程序办理业务。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_094",
+  "chinese": "吃惊",
+  "pinyin": "chījīng",
+  "meaning": "ตกใจ, ประหลาดใจ",
+  "example": "这个消息让我感到很吃惊。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_095",
+  "chinese": "迟到",
+  "pinyin": "chídào",
+  "meaning": "มาสาย",
+  "example": "今天路上堵车，我迟到了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_096",
+  "chinese": "尺",
+  "pinyin": "chǐ",
+  "meaning": "ไม้บรรทัด, หน่วยวัดความยาวจีน (ชิี)",
+  "example": "这把尺子有三十厘米长。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_097",
+  "chinese": "尺寸",
+  "pinyin": "chǐcùn",
+  "meaning": "ขนาด, สัดส่วน",
+  "example": "这件衣服的尺寸正合适。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_098",
+  "chinese": "尺子",
+  "pinyin": "chǐzi",
+  "meaning": "ไม้บรรทัด",
+  "example": "请用尺子画一条直线。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_099",
+  "chinese": "冲",
+  "pinyin": "chōng",
+  "meaning": "ล้าง, ชง, พุ่ง",
+  "example": "我先去冲一杯咖啡。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_100",
+  "chinese": "充电",
+  "pinyin": "chōngdiàn",
+  "meaning": "ชาร์จแบตเตอรี่",
+  "example": "手机没电了，我要充一会儿电。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_101",
+  "chinese": "充电器",
+  "pinyin": "chōngdiànqì",
+  "meaning": "ที่ชาร์จแบตเตอรี่",
+  "example": "你带手机充电器了吗？",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_102",
+  "chinese": "充分",
+  "pinyin": "chōngfèn",
+  "meaning": "อย่างเต็มที่, เพียงพอ",
+  "example": "我们要充分利用时间复习。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_103",
+  "chinese": "虫子",
+  "pinyin": "chóngzi",
+  "meaning": "แมลง, หนอน",
+  "example": "菜叶上有几只小虫子。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_104",
+  "chinese": "抽",
+  "pinyin": "chōu",
+  "meaning": "สูบ, ดึงออก, สุ่ม",
+  "example": "抽时间多陪陪家人。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_105",
+  "chinese": "抽奖",
+  "pinyin": "chōujiǎng",
+  "meaning": "จับฉลากรางวัล",
+  "example": "购物满一百元可以参加抽奖。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_106",
+  "chinese": "抽烟",
+  "pinyin": "chōuyān",
+  "meaning": "สูบบุหรี่",
+  "example": "公共场所严禁抽烟。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_107",
+  "chinese": "出口",
+  "pinyin": "chūkǒu",
+  "meaning": "ทางออก, ส่งออก",
+  "example": "请往地铁出口走。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_108",
+  "chinese": "出色",
+  "pinyin": "chūsè",
+  "meaning": "ยอดเยี่ยม, โดดเด่น",
+  "example": "他在这次比赛中表现出色。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_109",
+  "chinese": "出售",
+  "pinyin": "chūshòu",
+  "meaning": "วางจำหน่าย, ขาย",
+  "example": "这家商店出售各种工艺品。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_110",
+  "chinese": "出席",
+  "pinyin": "chūxí",
+  "meaning": "เข้าร่วม (ประชุม/งาน)",
+  "example": "经理将出席明年的会议。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_111",
+  "chinese": "处于",
+  "pinyin": "chúyú",
+  "meaning": "อยู่ใน (สถานะ/สภาพ)",
+  "example": "公司目前正处于发展阶段。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_112",
+  "chinese": "处",
+  "pinyin": "chù",
+  "meaning": "สถานที่, แผนก, จุด",
+  "example": "办事处已经设立好了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_113",
+  "chinese": "穿上",
+  "pinyin": "chuānshang",
+  "meaning": "สวมใส่",
+  "example": "外面冷，快把外套穿上吧。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_114",
+  "chinese": "传统",
+  "pinyin": "chuántǒng",
+  "meaning": "ประเพณี, ดั้งเดิม",
+  "example": "春节是中国的重要传统节日。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_115",
+  "chinese": "窗户",
+  "pinyin": "chuānghu",
+  "meaning": "หน้าต่าง",
+  "example": "请把窗户打开透透气。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_116",
+  "chinese": "窗台",
+  "pinyin": "chuāngtái",
+  "meaning": "ขอบหน้าต่าง",
+  "example": "窗台上放着一盆绿植。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_117",
+  "chinese": "窗子",
+  "pinyin": "chuāngzi",
+  "meaning": "หน้าต่าง",
+  "example": "透过窗子可以看到外面的风景。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_118",
+  "chinese": "春季",
+  "pinyin": "chūnjì",
+  "meaning": "ฤดูใบไม้ผลิ",
+  "example": "春季是万物复苏的季节。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_119",
+  "chinese": "纯",
+  "pinyin": "chún",
+  "meaning": "บริสุทธิ์, แท้",
+  "example": "这件毛衣是纯羊毛的。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_120",
+  "chinese": "纯净水",
+  "pinyin": "chúnjìngshuǐ",
+  "meaning": "น้ำดื่มบริสุทธิ์",
+  "example": "请喝一杯纯净水。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_121",
+  "chinese": "词汇",
+  "pinyin": "cíhuì",
+  "meaning": "คำศัพท์",
+  "example": "学习汉语需要积累很多词汇。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_122",
+  "chinese": "此",
+  "pinyin": "cǐ",
+  "meaning": "นี้, ดังกล่าว",
+  "example": "此事非同小可。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_123",
+  "chinese": "此外",
+  "pinyin": "cǐwài",
+  "meaning": "นอกจากนี้",
+  "example": "除了学习，此外还要多锻炼身体。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_124",
+  "chinese": "次",
+  "pinyin": "cì",
+  "meaning": "รอง, ชั้นสอง",
+  "example": "次品不能出售。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_125",
+  "chinese": "刺",
+  "pinyin": "cì",
+  "meaning": "หนาม, เสียบ, แทง",
+  "example": "玫瑰花枝上有刺。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_126",
+  "chinese": "刺激",
+  "pinyin": "cìjī",
+  "meaning": "กระตุ้น, เร้าใจ",
+  "example": "这部电影情节非常刺激。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_127",
+  "chinese": "从此",
+  "pinyin": "cóngcǐ",
+  "meaning": "ตั้งแต่นั้นเป็นต้นมา",
+  "example": "他们从此过上了幸福的生活。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_128",
+  "chinese": "粗",
+  "pinyin": "cū",
+  "meaning": "หนา, หยาบ",
+  "example": "这根绳子很粗。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_129",
+  "chinese": "粗心",
+  "pinyin": "cūxīn",
+  "meaning": "สะเพร่า, เลินเล่อ",
+  "example": "因为粗心，他在考试中丢了分。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_130",
+  "chinese": "促进",
+  "pinyin": "cùjìn",
+  "meaning": "ส่งเสริม, ผลักดัน",
+  "example": "这样做可以促进经济发展。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_131",
+  "chinese": "促使",
+  "pinyin": "cùshǐ",
+  "meaning": "กระตุ้นให้, ผลักดันให้",
+  "example": "是什么促使你做出这个决定？",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_132",
+  "chinese": "促销",
+  "pinyin": "cùxiāo",
+  "meaning": "ส่งเสริมการขาย",
+  "example": "商场正在举行节日促销活动。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_133",
+  "chinese": "措施",
+  "pinyin": "cuòshī",
+  "meaning": "มาตรการ",
+  "example": "政府采取了有效措施保护环境。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_134",
+  "chinese": "打",
+  "pinyin": "dá",
+  "meaning": "โหล (หน่วยนับ)",
+  "example": "买一打铅笔。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_135",
+  "chinese": "答案",
+  "pinyin": "dá'àn",
+  "meaning": "คำตอบ",
+  "example": "请写出这道题的正确答案。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_136",
+  "chinese": "打败",
+  "pinyin": "dǎbài",
+  "meaning": "เอาชนะ",
+  "example": "中国队在比赛中打败了对手。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_137",
+  "chinese": "打雷",
+  "pinyin": "dǎléi",
+  "meaning": "ฟ้าผ่า, ฟ้าคำราม",
+  "example": "外面阴天了，好像要打雷下雨。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_138",
+  "chinese": "打扫",
+  "pinyin": "dǎsǎo",
+  "meaning": "ทำความสะอาด",
+  "example": "周末我要把房间彻底打扫一遍。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_139",
+  "chinese": "打折",
+  "pinyin": "dǎzhé",
+  "meaning": "ลดราคา",
+  "example": "这件衣服现在打八折。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_140",
+  "chinese": "打针",
+  "pinyin": "dǎzhēn",
+  "meaning": "ฉีดยา",
+  "example": "生病了需要去医院打针。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_141",
+  "chinese": "大巴",
+  "pinyin": "dàbā",
+  "meaning": "รถโดยสารขนาดใหญ่, รถบัส",
+  "example": "我们坐大巴去外地旅游。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_142",
+  "chinese": "大多",
+  "pinyin": "dàduō",
+  "meaning": "ส่วนใหญ่",
+  "example": "班里的学生大多来自北方。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_143",
+  "chinese": "大方",
+  "pinyin": "dàfang",
+  "meaning": "ใจกว้าง, สง่างาม",
+  "example": "她为人很大方，对朋友很好。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_144",
+  "chinese": "大哥",
+  "pinyin": "dàgē",
+  "meaning": "พี่ชายคนโต",
+  "example": "这是我的大哥，他在公司工作。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_145",
+  "chinese": "大规模",
+  "pinyin": "dàguīmó",
+  "meaning": "ขนาดใหญ่",
+  "example": "公司进行了大规模的调整。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_146",
+  "chinese": "大会",
+  "pinyin": "dàhuì",
+  "meaning": "การประชุมใหญ่",
+  "example": "全校师生参加了开学大会。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_147",
+  "chinese": "大姐",
+  "pinyin": "dàjiě",
+  "meaning": "พี่สาวคนโต",
+  "example": "大姐在厨房做饭。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_148",
+  "chinese": "大楼",
+  "pinyin": "dàlóu",
+  "meaning": "ตึกใหญ่, อาคาร",
+  "example": "那栋高大的大楼是我们的办公室。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_149",
+  "chinese": "大陆",
+  "pinyin": "dàlù",
+  "meaning": "แผ่นดินใหญ่",
+  "example": "他去中国大陆旅游了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_150",
+  "chinese": "大妈",
+  "pinyin": "dàmā",
+  "meaning": "คุณป้า, หญิงสูงอายุ",
+  "example": "公园里有很多大妈在跳舞。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_151",
+  "chinese": "大型",
+  "pinyin": "dàxíng",
+  "meaning": "ขนาดใหญ่",
+  "example": "这是一场大型文艺晚会。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_152",
+  "chinese": "大爷",
+  "pinyin": "dàyé",
+  "meaning": "คุณลุง, ชายสูงอายุ",
+  "example": "老大爷正在树下下棋。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_153",
+  "chinese": "大众",
+  "pinyin": "dàzhòng",
+  "meaning": "มวลชน, ประชาชนทั่วไป",
+  "example": "这款车很受大众欢迎。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_154",
+  "chinese": "代替",
+  "pinyin": "dàitì",
+  "meaning": "แทนที่",
+  "example": "今天我来代替他开会。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_155",
+  "chinese": "待遇",
+  "pinyin": "dàiyù",
+  "meaning": "สวัสดิการ, การปฏิบัติ",
+  "example": "这家公司的员工待遇很好。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_156",
+  "chinese": "袋",
+  "pinyin": "dài",
+  "meaning": "ถุง, กระเป๋า",
+  "example": "请给我一个塑料袋。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_157",
+  "chinese": "戴",
+  "pinyin": "dài",
+  "meaning": "สวม, ใส่ (หมวด, แว่น, นาฬิกา, ถุงมือ)",
+  "example": "出门记得戴帽子和眼镜。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_158",
+  "chinese": "担保",
+  "pinyin": "dānbǎo",
+  "meaning": "ค้ำประกัน, ประกัน",
+  "example": "我愿意为他做担保。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_159",
+  "chinese": "担任",
+  "pinyin": "dānrèn",
+  "meaning": "ดำรงตำแหน่ง, รับหน้าที่",
+  "example": "他担任公司的经理职务。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_160",
+  "chinese": "担心",
+  "pinyin": "dānxīn",
+  "meaning": "กังวล, เป็นห่วง",
+  "example": "不用担心，我会照顾好自己的。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_161",
+  "chinese": "单",
+  "pinyin": "dān",
+  "meaning": "เดี่ยว, ใบรายการ",
+  "example": "请填写这张订单。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_162",
+  "chinese": "单纯",
+  "pinyin": "dānchún",
+  "meaning": "เรียบง่าย, บริสุทธิ์ไร้เดียงสา",
+  "example": "她的性格非常单纯善良。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_163",
+  "chinese": "单调",
+  "pinyin": "dāndiào",
+  "meaning": "จำเจ, น่าเบื่อ",
+  "example": "日复一日的生活显得有点单调。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_164",
+  "chinese": "单独",
+  "pinyin": "dāndú",
+  "meaning": "ลำพัง, เดี่ยวๆ",
+  "example": "我想跟你单独谈谈。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_165",
+  "chinese": "淡",
+  "pinyin": "dàn",
+  "meaning": "จืด, อ่อน (สี/รสชาติ)",
+  "example": "这道菜味道有点淡，加点盐吧。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_166",
+  "chinese": "导游",
+  "pinyin": "dǎoyóu",
+  "meaning": "มัคคุเทศก์, ไกด์นำเที่ยว",
+  "example": "导游正带着游客参观故宫。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_167",
+  "chinese": "导致",
+  "pinyin": "dǎozhì",
+  "meaning": "ส่งผลให้, เป็นเหตุให้",
+  "example": "大雨导致交通堵塞。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_168",
+  "chinese": "倒闭",
+  "pinyin": "dǎobì",
+  "meaning": "ล้มละลาย,กิจการปิดตัวลง",
+  "example": "这家小商店由于经营不善倒闭了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_169",
+  "chinese": "倒车",
+  "pinyin": "dǎochē",
+  "meaning": "ถอยรถ",
+  "example": "停车时请注意倒车安全。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_170",
+  "chinese": "倒车",
+  "pinyin": "dàochē",
+  "meaning": "เปลี่ยนรถ (โดยสาร)",
+  "example": "去机场需要在前面倒车。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_171",
+  "chinese": "得意",
+  "pinyin": "déyì",
+  "meaning": "หยิ่งผยอง, ได้ใจ, ภาคภูมิใจ",
+  "example": "他考了第一名，显得很得意。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_172",
+  "chinese": "得",
+  "pinyin": "děi",
+  "meaning": "ต้อง...",
+  "example": "时间不早了，我得走了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_173",
+  "chinese": "灯光",
+  "pinyin": "dēngguāng",
+  "meaning": "แสงไฟ",
+  "example": "舞台上的灯光非常绚丽。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_174",
+  "chinese": "登",
+  "pinyin": "dēng",
+  "meaning": "ขึ้น (ภูเขา/ยานพาหนะ/ตีพิมพ์)",
+  "example": "这篇文章登在今天的报纸上。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_175",
+  "chinese": "登记",
+  "pinyin": "dēngjì",
+  "meaning": "ลงทะเบียน",
+  "example": "请在这里填写姓名进行登记。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_176",
+  "chinese": "登录",
+  "pinyin": "dēnglù",
+  "meaning": "เข้าสู่ระบบ (Login)",
+  "example": "请输入密码登录邮箱。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_177",
+  "chinese": "登山",
+  "pinyin": "dēngshān",
+  "meaning": "ปีนเขา",
+  "example": "周末我们一起去登山吧。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_178",
+  "chinese": "的确",
+  "pinyin": "díquè",
+  "meaning": "1. จริงๆ, แท้จริง",
+  "example": "这本书的确很好看。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_179",
+  "chinese": "敌人",
+  "pinyin": "dírén",
+  "meaning": "ศัตรู",
+  "example": "我们要勇敢面对敌人。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_180",
+  "chinese": "底",
+  "pinyin": "dǐ",
+  "meaning": "ก้น, ปลาย (เดือน/ปี)",
+  "example": "这个月底我要去外地。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_181",
+  "chinese": "地方",
+  "pinyin": "dìfang",
+  "meaning": "ท้องถิ่น, ภูมิภาค",
+  "example": "这里有很多地方特色小吃。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_182",
+  "chinese": "地面",
+  "pinyin": "dìmiàn",
+  "meaning": "พื้นดิน",
+  "example": "雨后地面非常湿滑。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_183",
+  "chinese": "地位",
+  "pinyin": "dìwèi",
+  "meaning": "สถานะ, ตำแหน่ง",
+  "example": "他在公司里的地位很重要。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_184",
+  "chinese": "地下",
+  "pinyin": "dìxià",
+  "meaning": "ใต้ดิน",
+  "example": "地铁站在地下一层。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_185",
+  "chinese": "地址",
+  "pinyin": "dìzhǐ",
+  "meaning": "ที่อยู่",
+  "example": "请把收货地址发给我。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_186",
+  "chinese": "典型",
+  "pinyin": "diǎnxíng",
+  "meaning": "ที่เป็นแบบอย่าง, เป็นต้นแบบ",
+  "example": "这是一个典型的成功案例。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_187",
+  "chinese": "点名",
+  "pinyin": "diǎnmíng",
+  "meaning": "ขานชื่อ, เรียกชื่อ",
+  "example": "上课时老师开始点名了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_188",
+  "chinese": "电灯",
+  "pinyin": "diàndēng",
+  "meaning": "หลอดไฟ, โคมไฟ",
+  "example": "房间里的电灯亮了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_189",
+  "chinese": "电动车",
+  "pinyin": "diàndòngchē",
+  "meaning": "รถจักรยานยนต์ไฟฟ้า",
+  "example": "很多人骑电动车上班。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_190",
+  "chinese": "电梯",
+  "pinyin": "diàntī",
+  "meaning": "ลิฟต์",
+  "example": "请乘坐电梯上楼。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_191",
+  "chinese": "电源",
+  "pinyin": "diànyuán",
+  "meaning": "แหล่งจ่ายไฟ, ปลั๊กไฟ",
+  "example": "离开前请关闭所有电源。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_192",
+  "chinese": "顶",
+  "pinyin": "dǐng",
+  "meaning": "ยอด, สวม (หมวก), ค้ำ, (ลักษณนาม หมวก/กางร่ม)",
+  "example": "山顶上风景很好。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_193",
+  "chinese": "定",
+  "pinyin": "dìng",
+  "meaning": "กำหนด, แน่ชัด",
+  "example": "时间已经定下来了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_194",
+  "chinese": "冬季",
+  "pinyin": "dōngjì",
+  "meaning": "ฤดูหนาว",
+  "example": "这里的冬季非常寒冷。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_195",
+  "chinese": "动画片",
+  "pinyin": "dònghuàpiàn",
+  "meaning": "การ์ตูนแอนิเมชัน",
+  "example": "小孩子很喜欢看动画片。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_196",
+  "chinese": "动摇",
+  "pinyin": "dòngyáo",
+  "meaning": "คลอนแคลน, สั่นคลอน",
+  "example": "他的决心没有丝毫动摇。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_197",
+  "chinese": "豆腐",
+  "pinyin": "dòufu",
+  "meaning": "เต้าหู้",
+  "example": "妈妈做了一道麻婆豆腐。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_198",
+  "chinese": "独立",
+  "pinyin": "dúlì",
+  "meaning": "ความเป็นอิสระ, พึ่งพาตนเอง",
+  "example": "他从小就很独立。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_199",
+  "chinese": "独特",
+  "pinyin": "dútè",
+  "meaning": "เป็นเอกลักษณ์, โดดเด่นไม่เหมือนใคร",
+  "example": "这座建筑有独特的风格。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_200",
+  "chinese": "独自",
+  "pinyin": "dúzì",
+  "meaning": "ตามลำพัง",
+  "example": "他独自一人完成了这项任务。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_201",
+  "chinese": "堵",
+  "pinyin": "dǔ",
+  "meaning": "ติดขัด, อุด",
+  "example": "下班高峰期路上很堵。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_202",
+  "chinese": "堵车",
+  "pinyin": "dǔchē",
+  "meaning": "รถติด",
+  "example": "今天路上堵车严重，我迟到了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_203",
+  "chinese": "肚子",
+  "pinyin": "dùzi",
+  "meaning": "ท้อง",
+  "example": "我饿得肚子咕咕叫。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_204",
+  "chinese": "度过",
+  "pinyin": "dùguò",
+  "meaning": "ผ่านพ้น (ช่วงเวลา)",
+  "example": "我们在海边度过了一个愉快的假期。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_205",
+  "chinese": "锻炼",
+  "pinyin": "duànliàn",
+  "meaning": "ออกกำลังกาย, ฝึกฝน",
+  "example": "每天早上我都去公园锻炼身体。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_206",
+  "chinese": "对比",
+  "pinyin": "duìbǐ",
+  "meaning": "เปรียบเทียบ",
+  "example": "这两张图片放在一起对比很明显。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_207",
+  "chinese": "对付",
+  "pinyin": "duìfù",
+  "meaning": "รับมือ, จัดการ",
+  "example": "这个问题不好对付。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_208",
+  "chinese": "对于",
+  "pinyin": "duìyú",
+  "meaning": "สำหรับ, เกี่ยวกับ",
+  "example": "对于这个问题，我有不同的看法。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_209",
+  "chinese": "多次",
+  "pinyin": "duōcì",
+  "meaning": "หลายครั้ง",
+  "example": "我曾多次提醒过他。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_210",
+  "chinese": "多年",
+  "pinyin": "duōnián",
+  "meaning": "หลายปี",
+  "example": "我们已经多年没见了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_211",
+  "chinese": "多样",
+  "pinyin": "duōyàng",
+  "meaning": "หลากหลาย",
+  "example": "这里的商品品种多样。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_212",
+  "chinese": "多种",
+  "pinyin": "duōzhǒng",
+  "meaning": "หลากหลายชนิด",
+  "example": "这个问题有多种解决方案。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_213",
+  "chinese": "恶心",
+  "pinyin": "ěxīn",
+  "meaning": "คลื่นไส้, น่าสะอิดสะเอียน",
+  "example": "晕车让我感到有点恶心。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_214",
+  "chinese": "儿童",
+  "pinyin": "értóng",
+  "meaning": "เด็ก, เยาวชน",
+  "example": "六一儿童节快乐！",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_215",
+  "chinese": "而",
+  "pinyin": "ér",
+  "meaning": "และ, แต่, ทว่า",
+  "example": "他很聪明而又很努力。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_216",
+  "chinese": "而是",
+  "pinyin": "érshì",
+  "meaning": "แต่ว่าเป็น...",
+  "example": "这顶帽子不是红色的，而是蓝色的。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_217",
+  "chinese": "耳机",
+  "pinyin": "ěrjī",
+  "meaning": "หูฟัง",
+  "example": "戴上耳机听音乐。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_218",
+  "chinese": "二手",
+  "pinyin": "èrshǒu",
+  "meaning": "มือสอง",
+  "example": "我买了一辆二手车。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_219",
+  "chinese": "发挥",
+  "pinyin": "fāhuī",
+  "meaning": "แสดงออกเต็มที่, เปล่งศักยภาพ",
+  "example": "希望大家在考试中正常发挥。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_220",
+  "chinese": "发票",
+  "pinyin": "fāpiào",
+  "meaning": "ใบกำกับภาษี, ใบเสร็จรับเงิน",
+  "example": "请给我开一张发票。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_221",
+  "chinese": "发烧",
+  "pinyin": "fāshāo",
+  "meaning": "มีไข้, เป็นไข้",
+  "example": "感冒了，有点发烧。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_222",
+  "chinese": "法",
+  "pinyin": "fǎ",
+  "meaning": "กฎหมาย, วิธีการ",
+  "example": "我们要遵纪守法。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_223",
+  "chinese": "法官",
+  "pinyin": "fǎguān",
+  "meaning": "ผู้พิพากษา",
+  "example": "法官正在审理案件。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_224",
+  "chinese": "法律",
+  "pinyin": "fǎlǜ",
+  "meaning": "กฎหมาย",
+  "example": "每个人都要遵守法律。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_225",
+  "chinese": "法院",
+  "pinyin": "fǎyuàn",
+  "meaning": "ศาล",
+  "example": "他们因合同纠纷闹到了法院。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_226",
+  "chinese": "翻",
+  "pinyin": "fān",
+  "meaning": "พลิก, เปิด (หน้าหนังสือ)",
+  "example": "请把书翻到第五十页。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_227",
+  "chinese": "翻译",
+  "pinyin": "fānyì",
+  "meaning": "แปล,ล่าม",
+  "example": "这篇文章我来帮你翻译。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_228",
+  "chinese": "烦",
+  "pinyin": "fán",
+  "meaning": "น่ารำคาญ, หงุดหงิด",
+  "example": "这件事真让人觉得烦。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_229",
+  "chinese": "反",
+  "pinyin": "fǎn",
+  "meaning": "ตรงกันข้าม, ต่อต้าน",
+  "example": "事情的结果恰恰相反。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_230",
+  "chinese": "反而",
+  "pinyin": "fǎn'ér",
+  "meaning": "กลับ...เสียด้วยซ้ำ",
+  "example": "不但没瘦，反而胖了几斤。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_231",
+  "chinese": "反映",
+  "pinyin": "fǎnyìng",
+  "meaning": "สะท้อน (ข้อมูล/ความคิดเห็น)",
+  "example": "这份报告真实地反映了当地的情况。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_232",
+  "chinese": "方",
+  "pinyin": "fāng",
+  "meaning": "ด้าน, ฝ่าย, สี่เหลี่ยม",
+  "example": "双方代表签了合同。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_233",
+  "chinese": "方案",
+  "pinyin": "fāng'àn",
+  "meaning": "แผนงาน, โครงการ",
+  "example": "经理已经批准了我们的工作方案。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_234",
+  "chinese": "方针",
+  "pinyin": "fāngzhēn",
+  "meaning": "นโยบาย, แนวทาง",
+  "example": "这是公司的发展方针。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_235",
+  "chinese": "放松",
+  "pinyin": "fàngsōng",
+  "meaning": "ผ่อนคลาย",
+  "example": "工作之余要适当放松一下。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_236",
+  "chinese": "非",
+  "pinyin": "fēi",
+  "meaning": "ไม่ใช่, ไม่",
+  "example": "非这样做不可。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_237",
+  "chinese": "肥",
+  "pinyin": "féi",
+  "meaning": "อ้วน, หลวม (เสื้อผ้า)",
+  "example": "这件衣服穿起来有点肥。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_238",
+  "chinese": "分布",
+  "pinyin": "fēnbù",
+  "meaning": "กระจายตัว",
+  "example": "这些工厂分布在城市的各个角落。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_239",
+  "chinese": "分散",
+  "pinyin": "fēnsàn",
+  "meaning": "กระจัดกระจาย, แยกย้าย",
+  "example": "人群很快就分散了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_240",
+  "chinese": "分手",
+  "pinyin": "fēnshǒu",
+  "meaning": "เลิกกัน, แยกทาง",
+  "example": "他们在大学毕业后分手了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_241",
+  "chinese": "分为",
+  "pinyin": "fēnwéi",
+  "meaning": "แบ่งออกเป็น",
+  "example": "这篇文章可以分为三个部分。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_242",
+  "chinese": "……分之……",
+  "pinyin": "...fēn zhī...",
+  "meaning": "ร้อยละ..., เศษส่วน...",
+  "example": "百分之八十的学生通过了考试。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_243",
+  "chinese": "纷纷",
+  "pinyin": "fēnfēn",
+  "meaning": "กันอย่างเนืองแน่น, ต่างก็...",
+  "example": "听到这个好消息，大家纷纷鼓掌。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_244",
+  "chinese": "奋斗",
+  "pinyin": "fèndòu",
+  "meaning": "ต่อสู้, มุ่งมั่นดิ้นรน",
+  "example": "我们要为美好的未来努力奋斗。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_245",
+  "chinese": "风格",
+  "pinyin": "fēnggé",
+  "meaning": "สไตล์, รูปแบบ",
+  "example": "这首曲子的风格很独特。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_246",
+  "chinese": "风景",
+  "pinyin": "fēngjǐng",
+  "meaning": "ทิวทัศน์, วิิว",
+  "example": "桂林的山水风景非常迷人。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_247",
+  "chinese": "风俗",
+  "pinyin": "fēngsú",
+  "meaning": "1. ขนบธรรมเนียมประเพณี",
+  "example": "了解当地的风俗习惯。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_248",
+  "chinese": "封闭",
+  "pinyin": "fēngbì",
+  "meaning": "ปิดตาย, ปิดผนึก",
+  "example": "这条道路因为施工暂时封闭了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_249",
+  "chinese": "否则",
+  "pinyin": "fǒuzé",
+  "meaning": "มิฉะนั้น, ไม่อย่างนั้น",
+  "example": "请按时完成，否则要扣分。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_250",
+  "chinese": "夫妇",
+  "pinyin": "fūfù",
+  "meaning": "สามีภรรยา",
+  "example": "这对夫妇结婚已经十年了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_251",
+  "chinese": "夫妻",
+  "pinyin": "fūqī",
+  "meaning": "สามีภรรยา",
+  "example": "他们是一对恩爱的夫妻。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_252",
+  "chinese": "夫人",
+  "pinyin": "fūrén",
+  "meaning": "ภรรยา, มาดาม",
+  "example": "欢迎大使先生和夫人。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_253",
+  "chinese": "符号",
+  "pinyin": "fúhào",
+  "meaning": "สัญลักษณ์, เครื่องหมาย",
+  "example": "请认识这些交通符号。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_254",
+  "chinese": "符合",
+  "pinyin": "fúhé",
+  "meaning": "สอดคล้องกับ, ตรงกับ",
+  "example": "这个方案符合我们的要求。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_255",
+  "chinese": "付出",
+  "pinyin": "fùchū",
+  "meaning": "ทุ่มเท, เสียสละ",
+  "example": "只要付出努力，就会有收获。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_256",
+  "chinese": "负担",
+  "pinyin": "fùdān",
+  "meaning": "ภาระ, ภาระค่าใช้จ่าย",
+  "example": "这笔费用减轻了家里的负担。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_257",
+  "chinese": "附近",
+  "pinyin": "fùjìn",
+  "meaning": "บริเวณใกล้เคียง",
+  "example": "我家附近有一家大型超市。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_258",
+  "chinese": "复制",
+  "pinyin": "fùzhì",
+  "meaning": "คัดลอก (ไฟล์/ข้อมูล)",
+  "example": "请把文件复制到U盘里。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_259",
+  "chinese": "改善",
+  "pinyin": "gǎishàn",
+  "meaning": "ปรับปรุงให้ดีขึ้น",
+  "example": "我们要努力改善生活条件。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_260",
+  "chinese": "改正",
+  "pinyin": "gǎizhèng",
+  "meaning": "แก้ไข (ความผิดพลาด)",
+  "example": "知错就改，及时改正错误。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_261",
+  "chinese": "盖",
+  "pinyin": "gài",
+  "meaning": "สร้าง, ฝาครอบ, ปิด",
+  "example": "这栋大楼是什么时候盖的？",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_262",
+  "chinese": "概括",
+  "pinyin": "gàikuò",
+  "meaning": "สรุปใจความสำคัญ",
+  "example": "请用一句话概括这篇文章的主旨。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_263",
+  "chinese": "感兴趣",
+  "pinyin": "gǎn xìngqù",
+  "meaning": "สนใจ",
+  "example": "我对中国历史非常感兴趣。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_264",
+  "chinese": "高潮",
+  "pinyin": "gāocháo",
+  "meaning": "จุดไคลแม็กซ์, จุดสูงสุด",
+  "example": "晚会迎来了最后一个高潮。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_265",
+  "chinese": "高价",
+  "pinyin": "gāojià",
+  "meaning": "ราคาสูง",
+  "example": "他高价买下了这幅画。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_266",
+  "chinese": "高尚",
+  "pinyin": "gāoshàng",
+  "meaning": "สูงส่ง (คุณธรรม/จิตใจ)",
+  "example": "他是一个品德高尚的人。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_267",
+  "chinese": "高铁",
+  "pinyin": "gāotiě",
+  "meaning": "รถไฟความเร็วสูง",
+  "example": "坐高铁去北京非常方便。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_268",
+  "chinese": "格外",
+  "pinyin": "géwài",
+  "meaning": "เป็นพิเศษ, ยิ่ง...เป็นพิเศษ",
+  "example": "今天的天气格外晴朗。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_269",
+  "chinese": "隔",
+  "pinyin": "gé",
+  "meaning": "กั้น, เว้นระยะ",
+  "example": "我家隔壁住着一位老教授。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_270",
+  "chinese": "隔开",
+  "pinyin": "gékāi",
+  "meaning": "กั้นแยกออกจากกัน",
+  "example": "用一块板子把房间隔开。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_271",
+  "chinese": "个别",
+  "pinyin": "gèbié",
+  "meaning": "ส่วนน้อย, เฉพาะราย",
+  "example": "这只是个别现象。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_272",
+  "chinese": "个体",
+  "pinyin": "gètǐ",
+  "meaning": "ปัจเจกบุคคล, หน่วยย่อย",
+  "example": "每个个体都有独特的性格。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_273",
+  "chinese": "各个",
+  "pinyin": "gègè",
+  "meaning": "แต่ละ... (ทั้งหมด)",
+  "example": "各个部门都要做好准备。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_274",
+  "chinese": "根",
+  "pinyin": "gēn",
+  "meaning": "ราก, (ลักษณนามของเส้น/แท่ง)",
+  "example": "树木有深深的根。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_275",
+  "chinese": "根据",
+  "pinyin": "gēnjù",
+  "meaning": "ตามที่..., อิงตาม, หลักฐาน",
+  "example": "根据天气预报，明天会下雨。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_276",
+  "chinese": "工程",
+  "pinyin": "gōngchéng",
+  "meaning": "งานวิศวกรรม, โครงการก่อสร้าง",
+  "example": "这项工程预计明年完工。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_277",
+  "chinese": "公元",
+  "pinyin": "gōngyuán",
+  "meaning": "คริสต์ศักราช",
+  "example": "公元2026年。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_278",
+  "chinese": "供应",
+  "pinyin": "gōngyìng",
+  "meaning": "จัดหา, สนับสนุนสินค้า",
+  "example": "超市保证各类食品的充足供应。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_279",
+  "chinese": "共",
+  "pinyin": "gòng",
+  "meaning": "ร่วม, ทั้งหมด",
+  "example": "会议室里共有三十个人。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_280",
+  "chinese": "构成",
+  "pinyin": "gòucéng",
+  "meaning": "ประกอบเป็น, ก่อ to form",
+  "example": "这些零件构成了整台机器。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_281",
+  "chinese": "构造",
+  "pinyin": "gòuzào",
+  "meaning": "โครงสร้าง",
+  "example": "这台机器的内部构造很复杂。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_282",
+  "chinese": "购买",
+  "pinyin": "gòumǎi",
+  "meaning": "ซื้อ",
+  "example": "他在网上购买了一台电脑。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_283",
+  "chinese": "购物",
+  "pinyin": "gòuwù",
+  "meaning": "ช้อปปิ้ง, ซื้อของ",
+  "example": "周末我喜欢去商场购物。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_284",
+  "chinese": "骨头",
+  "pinyin": "gǔtou",
+  "meaning": "กระดูก",
+  "example": "小狗正在啃骨头。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_285",
+  "chinese": "固定",
+  "pinyin": "gùdìng",
+  "meaning": "กำหนดไว้แน่นอน, ยึดติด",
+  "example": "我们要有固定的作息时间。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_286",
+  "chinese": "瓜",
+  "pinyin": "guā",
+  "meaning": "แตง",
+  "example": "夏天吃西瓜非常解渴。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_287",
+  "chinese": "怪",
+  "pinyin": "guài",
+  "meaning": "ประหลาด, โทษ",
+  "example": "这件事真有点怪。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_288",
+  "chinese": "关",
+  "pinyin": "guān",
+  "meaning": "ด่าน, ปิด",
+  "example": "请把门关好。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_289",
+  "chinese": "关闭",
+  "pinyin": "guānbì",
+  "meaning": "ปิด (ระบบ/ร้าน/ประตู)",
+  "example": "商场晚上十点关闭大门。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_290",
+  "chinese": "关于",
+  "pinyin": "guānyú",
+  "meaning": "เกี่ยวกับ",
+  "example": "这是一本关于中国历史的书。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_291",
+  "chinese": "官",
+  "pinyin": "guān",
+  "meaning": "ข้าราชการ, เจ้าหน้าที่รัฐ",
+  "example": "他是一名政府官员。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_292",
+  "chinese": "官方",
+  "pinyin": "guānfāng",
+  "meaning": "อย่างเป็นทางการ (ของรัฐบาลหรือองค์กร)",
+  "example": "这是官方发布的消息。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_293",
+  "chinese": "光临",
+  "pinyin": "guānglín",
+  "meaning": "ให้เกียรติมาเยือน",
+  "example": "欢迎各位光临本店。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_294",
+  "chinese": "光盘",
+  "pinyin": "guāngpán",
+  "meaning": "แผ่นซีดี, ดีวีดี",
+  "example": "这张光盘里录着音乐。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_295",
+  "chinese": "逛",
+  "pinyin": "guàng",
+  "meaning": "เดินเล่น, เดินเที่ยว",
+  "example": "周末我和朋友去街上逛逛。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_296",
+  "chinese": "归",
+  "pinyin": "guī",
+  "meaning": "กลับคืน, สังกัด",
+  "example": "这本书该归还图书馆了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_297",
+  "chinese": "规律",
+  "pinyin": "guīlǜ",
+  "meaning": "กฎเกณฑ์, ความเป็นระเบียบ",
+  "example": "我们要遵循大自然的规律。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_298",
+  "chinese": "规模",
+  "pinyin": "guīmó",
+  "meaning": "ขนาด (ขององค์กร/งาน)",
+  "example": "这家公司的规模越来越大了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_299",
+  "chinese": "规则",
+  "pinyin": "guīzé",
+  "meaning": "กฎกติกา, ระเบียบ",
+  "example": "大家玩游戏要遵守规则。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_300",
+  "chinese": "果实",
+  "pinyin": "guǒshí",
+  "meaning": "ผลไม้, ผลผลิต",
+  "example": "秋天果树上结满了果实。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_301",
+  "chinese": "过分",
+  "pinyin": "guòfèn",
+  "meaning": "เกินไป, เลยเถิด",
+  "example": "你这样说就有点过分了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_302",
+  "chinese": "海水",
+  "pinyin": "hǎishuǐ",
+  "meaning": "น้ำทะเล",
+  "example": "夏天的海水非常清澈。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_303",
+  "chinese": "海鲜",
+  "pinyin": "hǎixiān",
+  "meaning": "อาหารทะเล",
+  "example": "我非常喜欢吃海鲜。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_304",
+  "chinese": "含",
+  "pinyin": "hán",
+  "meaning": "อม, บรรจุไว้ข้างใน",
+  "example": "他嘴里含着一颗糖。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_305",
+  "chinese": "含量",
+  "pinyin": "hánliàng",
+  "meaning": "ปริมาณส่วนประกอบ",
+  "example": "这瓶饮料糖分含量很高。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_306",
+  "chinese": "含义",
+  "pinyin": "hányì",
+  "meaning": "ความหมาย (นัย)",
+  "example": "这个词语有很深的含义。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_307",
+  "chinese": "含有",
+  "pinyin": "hányǒu",
+  "meaning": "มีส่วนประกอบของ...",
+  "example": "这种食物含有丰富的水果维生素。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_308",
+  "chinese": "寒假",
+  "pinyin": "hánjià",
+  "meaning": "วันหยุดฤดูหนาว",
+  "example": "寒假我打算去滑雪。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_309",
+  "chinese": "寒冷",
+  "pinyin": "hánlěng",
+  "meaning": "หนาวเหน็บ",
+  "example": "北方的冬季非常寒冷。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_310",
+  "chinese": "行业",
+  "pinyin": "hángyè",
+  "meaning": "วงการอุตสาหกรรม, สาขาอาชีพ",
+  "example": "IT行业发展非常迅速。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_311",
+  "chinese": "航班",
+  "pinyin": "hángbān",
+  "meaning": "เที่ยวบิน",
+  "example": "我的航班因为大雾延误了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_312",
+  "chinese": "航空",
+  "pinyin": "hángkōng",
+  "meaning": "การบิน",
+  "example": "中国航空事业发展很快。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_313",
+  "chinese": "毫米",
+  "pinyin": "háomǐ",
+  "meaning": "มิลลิเมตร",
+  "example": "雨量达到了五十毫米。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_314",
+  "chinese": "毫升",
+  "pinyin": "háoshēng",
+  "meaning": "มิลลิลิตร",
+  "example": "这瓶药水有一百毫升。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_315",
+  "chinese": "好友",
+  "pinyin": "hǎoyǒu",
+  "meaning": "เพื่อนสนิท",
+  "example": "我们在微信上是好友。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_316",
+  "chinese": "号码",
+  "pinyin": "hàomǎ",
+  "meaning": "หมายเลข, เบอร์",
+  "example": "请告诉我你的电话号码。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_317",
+  "chinese": "好",
+  "pinyin": "hào",
+  "meaning": "ชอบ (มักใช้ในคำประสม)",
+  "example": "他是一个好奇心很强的人。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_318",
+  "chinese": "合同",
+  "pinyin": "hétong",
+  "meaning": "สัญญา (ข้อตกลง)",
+  "example": "双方已经正式签了合同。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_319",
+  "chinese": "黑暗",
+  "pinyin": "hēi'àn",
+  "meaning": "ความมืด, มืดมิด",
+  "example": "房间里一片黑暗，什么也看不见。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_320",
+  "chinese": "红包",
+  "pinyin": "hóngbāo",
+  "meaning": "ซองแดง, อั่งเปา",
+  "example": "过年长辈会给晚辈发红包。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_321",
+  "chinese": "后头",
+  "pinyin": "hòutou",
+  "meaning": "ด้านหลัง",
+  "example": "他在后头跟着我们走。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_322",
+  "chinese": "厚",
+  "pinyin": "hòu",
+  "meaning": "หนา",
+  "example": "这本书非常厚。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_323",
+  "chinese": "呼吸",
+  "pinyin": "hūxī",
+  "meaning": "หายใจ",
+  "example": "深呼吸，放松心情。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_324",
+  "chinese": "忽视",
+  "pinyin": "hūshì",
+  "meaning": "ละเลย, มองข้าม",
+  "example": "我们不能忽视细节的重要性。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_325",
+  "chinese": "户",
+  "pinyin": "hù",
+  "meaning": "ครัวเรือน, บ้าน",
+  "example": "这个村子有一百多户人家。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_326",
+  "chinese": "护士",
+  "pinyin": "hùshi",
+  "meaning": "พยาบาล",
+  "example": "护士细心地照顾病人。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_327",
+  "chinese": "花",
+  "pinyin": "huā",
+  "meaning": "ลายดอก, มีลวดลาย",
+  "example": "这块布是花布。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_328",
+  "chinese": "划",
+  "pinyin": "huá",
+  "meaning": "พาย (เรือ), ขีดเขียน",
+  "example": "我们在湖上划船。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_329",
+  "chinese": "划",
+  "pinyin": "huà",
+  "meaning": "วางแผน, ขีดเส้น",
+  "example": "划定范围。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_330",
+  "chinese": "怀念",
+  "pinyin": "huáiniàn",
+  "meaning": "คิดถึง (อดีต/ความหลัง)",
+  "example": "我很怀念大学时代的时光。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_331",
+  "chinese": "怀疑",
+  "pinyin": "huáiyí",
+  "meaning": "สงสัย, แคลงใจ",
+  "example": "我有些怀疑这个消息的真实性。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_332",
+  "chinese": "缓解",
+  "pinyin": "huǎnjiě",
+  "meaning": "บรรเทาให้ทุเลาลง",
+  "example": "多休息可以缓解疲劳。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_333",
+  "chinese": "黄瓜",
+  "pinyin": "huángguā",
+  "meaning": "แตงกวา",
+  "example": "凉拌黄瓜是一道清爽的菜。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_334",
+  "chinese": "黄金",
+  "pinyin": "huángjīn",
+  "meaning": "ทองคำ",
+  "example": "这枚戒指是黄金做的。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_335",
+  "chinese": "回复",
+  "pinyin": "huífù",
+  "meaning": "ตอบกลับ (ข้อความ/อีเมล)",
+  "example": "请尽快回复我的邮件。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_336",
+  "chinese": "汇",
+  "pinyin": "huì",
+  "meaning": "โอนเงิน, บรรจบกัน",
+  "example": "我去银行给家里汇款。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_337",
+  "chinese": "汇报",
+  "pinyin": "huìbào",
+  "meaning": "รายงาน (ต่อผู้บังคับบัญชา)",
+  "example": "向经理汇报工作进展。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_338",
+  "chinese": "汇率",
+  "pinyin": "huìlǜ",
+  "meaning": "อัตราแลกเปลี่ยนเงินตรา",
+  "example": "今天的美元汇率是多少？",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_339",
+  "chinese": "婚礼",
+  "pinyin": "hūnlǐ",
+  "meaning": "งานแต่งงาน",
+  "example": "他们下个月举办婚礼。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_340",
+  "chinese": "火",
+  "pinyin": "huǒ",
+  "meaning": "ยอดฮิต, เป็นที่นิยม",
+  "example": "这部电视剧最近非常火。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_341",
+  "chinese": "伙",
+  "pinyin": "huǒ",
+  "meaning": "กลุ่ม, พวก",
+  "example": "那一伙人在公园里聊天。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_342",
+  "chinese": "伙伴",
+  "pinyin": "huǒbàn",
+  "meaning": "คู่หู, เพื่อนร่วมงาน",
+  "example": "他们是创业的好伙伴。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_343",
+  "chinese": "或许",
+  "pinyin": "huòxǔ",
+  "meaning": "บางที, อาจจะ",
+  "example": "他或许明天会来参加会议。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_344",
+  "chinese": "货",
+  "pinyin": "huò",
+  "meaning": "สินค้า",
+  "example": "这家店的货质量很好。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_345",
+  "chinese": "获",
+  "pinyin": "huò",
+  "meaning": "ได้รับ",
+  "example": "获得成功。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_346",
+  "chinese": "获得",
+  "pinyin": "huòdé",
+  "meaning": "ได้รับ",
+  "example": "他在比赛中获得了第一名。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_347",
+  "chinese": "获奖",
+  "pinyin": "huòjiǎng",
+  "meaning": "ได้รับรางวัล",
+  "example": "这部电影入围并获奖了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_348",
+  "chinese": "获取",
+  "pinyin": "huòqǔ",
+  "meaning": "3. ได้รับมา, แสวงหา",
+  "example": "我们可以从网上获取很多信息。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_349",
+  "chinese": "几乎",
+  "pinyin": "jīhū",
+  "meaning": "เกือบจะ",
+  "example": "这项工作我几乎快完成了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_350",
+  "chinese": "机构",
+  "pinyin": "jīgòu",
+  "meaning": "องค์กร, สถาบัน",
+  "example": "这是一家研究机构。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_351",
+  "chinese": "机遇",
+  "pinyin": "jīyù",
+  "meaning": "โอกาสทอง",
+  "example": "我们要抓住这次发展机遇。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_352",
+  "chinese": "积累",
+  "pinyin": "jīlěi",
+  "meaning": "สะสม",
+  "example": "工作需要慢慢积累经验。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_353",
+  "chinese": "激动",
+  "pinyin": "jīdòng",
+  "meaning": "ตื่นเต้นเร้าใจ, ดีใจจนตื่นเต้น",
+  "example": "听到获奖消息，他激动得哭了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_354",
+  "chinese": "激烈",
+  "pinyin": "jīliè",
+  "meaning": "ดุเดือด, เข้มข้น",
+  "example": "比赛进行得非常激烈。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_355",
+  "chinese": "及格",
+  "pinyin": "jígé",
+  "meaning": "สอบผ่านเกณฑ์",
+  "example": "这次数学考试我都及格了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_356",
+  "chinese": "极",
+  "pinyin": "jí",
+  "meaning": "สุดๆ, ขั้ว",
+  "example": "今天的风景美极了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_357",
+  "chinese": "极其",
+  "pinyin": "jíqí",
+  "meaning": "อย่างยิ่ง, เป็นที่สุด",
+  "example": "这个问题极其复杂。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_358",
+  "chinese": "即将",
+  "pinyin": "jíjiāng",
+  "meaning": "กำลังจะ...ในไม่ช้า",
+  "example": "会议即将开始，请大家入座。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_359",
+  "chinese": "急忙",
+  "pinyin": "jímáng",
+  "meaning": "รีบร้อน",
+  "example": "看到下雨，他急忙跑回家收衣服。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_360",
+  "chinese": "集合",
+  "pinyin": "jíhé",
+  "meaning": "รวมตัว, ชุมนุม",
+  "example": "同学们在操场上集合。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_361",
+  "chinese": "记载",
+  "pinyin": "jìzǎi",
+  "meaning": "บันทึกเรื่องราว",
+  "example": "历史书籍中记载了这些事件。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_362",
+  "chinese": "纪律",
+  "pinyin": "jìlǜ",
+  "meaning": "ระเบียบวินัย",
+  "example": "课堂上要遵守纪律。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_363",
+  "chinese": "技巧",
+  "pinyin": "jìqiǎo",
+  "meaning": "ทักษะ, เทคนิค",
+  "example": "写作需要掌握一定的技巧。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_364",
+  "chinese": "系",
+  "pinyin": "xì",
+  "meaning": "ผูก, คณะวิชา",
+  "example": "他在大学里学的是中文系。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_365",
+  "chinese": "季",
+  "pinyin": "jì",
+  "meaning": "ฤดู, ไตรมาส",
+  "example": "一年有四个季节。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_366",
+  "chinese": "季度",
+  "pinyin": "jìdù",
+  "meaning": "ไตรมาส (3 เดือน)",
+  "example": "公司公布了第一季度的财务报表。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_367",
+  "chinese": "季节",
+  "pinyin": "jìjié",
+  "meaning": "ฤดูกาล",
+  "example": "春天是一个美丽的季节。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_368",
+  "chinese": "既",
+  "pinyin": "jì",
+  "meaning": "ทั้ง... (เช่น 既……又……)",
+  "example": "他既聪明又努力。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_369",
+  "chinese": "既然",
+  "pinyin": "jìrán",
+  "meaning": "ในเมื่อ...",
+  "example": "既然你都决定了，我支持你。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_370",
+  "chinese": "寄",
+  "pinyin": "jì",
+  "meaning": "ส่ง (ทางไปรษณีย์)",
+  "example": "我给远方的父母寄了一封信。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_371",
+  "chinese": "加班",
+  "pinyin": "jiābān",
+  "meaning": "ทำงานล่วงเวลา",
+  "example": "最近工作多，经常需要加班。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_372",
+  "chinese": "加入",
+  "pinyin": "jiārù",
+  "meaning": "เข้าร่วม",
+  "example": "欢迎大家加入我们的团队。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_373",
+  "chinese": "加油站",
+  "pinyin": "jiāyóuzhàn",
+  "meaning": "สถานีบริการน้ำมัน, ปั๊มน้ำมัน",
+  "example": "车快没油了，前面有家加油站。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_374",
+  "chinese": "家务",
+  "pinyin": "jiāwù",
+  "meaning": "งานบ้าน",
+  "example": "晚饭后，大家一起分担家务。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_375",
+  "chinese": "假如",
+  "pinyin": "jiǎrú",
+  "meaning": "สมมติว่า, ถ้าหากว่า",
+  "example": "假如明天天气好，我们就去爬山。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_376",
+  "chinese": "坚固",
+  "pinyin": "jiāngù",
+  "meaning": "แข็งแกร่ง, ทนทาน",
+  "example": "这座城墙非常坚固。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_377",
+  "chinese": "检测",
+  "pinyin": "jiǎncè",
+  "meaning": "ตรวจสอบ, ตรวจวัด",
+  "example": "产品出厂前要进行严格检测。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_378",
+  "chinese": "减",
+  "pinyin": "jiǎn",
+  "meaning": "ลบ, ลดลง",
+  "example": "十减三等于七。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_379",
+  "chinese": "减肥",
+  "pinyin": "jiǎnféi",
+  "meaning": "ลดน้ำหนัก",
+  "example": "为了健康，她开始坚持减肥。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_380",
+  "chinese": "减少",
+  "pinyin": "jiǎnshǎo",
+  "meaning": "ลดจำนวนลง",
+  "example": "我们要努力减少环境污染。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_381",
+  "chinese": "简历",
+  "pinyin": "jiǎnlì",
+  "meaning": "ประวัติย่อ, เรซูเม่",
+  "example": "请把个人简历投递到邮箱。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_382",
+  "chinese": "健身",
+  "pinyin": "jiànshēn",
+  "meaning": "ออกกำลังกาย, ฟิตเนส",
+  "example": "下班后我去健身房健身。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_383",
+  "chinese": "渐渐",
+  "pinyin": "jiànjiàn",
+  "meaning": "ค่อยๆ...",
+  "example": "天渐渐黑了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_384",
+  "chinese": "江",
+  "pinyin": "jiāng",
+  "meaning": "แม่น้ำสายใหญ่",
+  "example": "长江是中国最长的江。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_385",
+  "chinese": "讲究",
+  "pinyin": "jiǎngjiu",
+  "meaning": "พิถีพิถัน, เน้นย้ำ",
+  "example": "做饭是一门很讲究的学问。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_386",
+  "chinese": "讲座",
+  "pinyin": "jiǎngzuò",
+  "meaning": "การบรรยาย, ปาฐกถา",
+  "example": "今天下午有一场文化讲座。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_387",
+  "chinese": "奖",
+  "pinyin": "jiǎng",
+  "meaning": "รางวัล, ชมเชย",
+  "example": "他在比赛中获得了大奖。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_388",
+  "chinese": "奖金",
+  "pinyin": "jiǎngjīn",
+  "meaning": "เงินรางวัล, โบนัส",
+  "example": "年底公司发了丰厚的奖金。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_389",
+  "chinese": "奖学金",
+  "pinyin": "jiǎngxuéjīn",
+  "meaning": "ทุนการศึกษา",
+  "example": "他因为成绩优异获得了奖学金。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_390",
+  "chinese": "降",
+  "pinyin": "jiàng",
+  "meaning": "ลดลง, ตก",
+  "example": "气温开始下降了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_391",
+  "chinese": "降低",
+  "pinyin": "jiàngdī",
+  "meaning": "ลดระดับลง",
+  "example": "我们要努力降低生产成本。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_392",
+  "chinese": "降价",
+  "pinyin": "jiàngjià",
+  "meaning": "ลดราคา",
+  "example": "这家商场正在促销降价。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_393",
+  "chinese": "降落",
+  "pinyin": "jiàngluò",
+  "meaning": "ลงจอด",
+  "example": "飞机平稳地降落在机场。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_394",
+  "chinese": "降温",
+  "pinyin": "jiàngwēn",
+  "meaning": "อุณหภูมิลดลง",
+  "example": "明天有冷空气，注意降温。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_395",
+  "chinese": "交换",
+  "pinyin": "jiāohuàn",
+  "meaning": "แลกเปลี่ยน",
+  "example": "他们互相交换了联系方式。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_396",
+  "chinese": "交际",
+  "pinyin": "jiāojì",
+  "meaning": "การคบหาสมาคม, การเข้าสังคม",
+  "example": "他擅长人际交际。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_397",
+  "chinese": "教授",
+  "pinyin": "jiàoshòu",
+  "meaning": "ศาสตราจารย์, สอน",
+  "example": "李教授在大学里教书。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_398",
+  "chinese": "教训",
+  "pinyin": "jiàoxùn",
+  "meaning": "บทเรียน (จากความผิดพลาด), สั่งสอน",
+  "example": "我们要从中吸取教训。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_399",
+  "chinese": "阶段",
+  "pinyin": "jiēduàn",
+  "meaning": "ช่วง, ระยะ",
+  "example": "目前正处于关键阶段。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_400",
+  "chinese": "街道",
+  "pinyin": "jiēdào",
+  "meaning": "ถนน, ซอย",
+  "example": "街道两旁种满了树木。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_401",
+  "chinese": "节省",
+  "pinyin": "jiéshěng",
+  "meaning": "ประหยัด",
+  "example": "我们要节省每一度电。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_402",
+  "chinese": "结",
+  "pinyin": "jié",
+  "meaning": "ผูก, ปม, ออกผล",
+  "example": "树上结满了果实。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_403",
+  "chinese": "结构",
+  "pinyin": "jiégòu",
+  "meaning": "โครงสร้าง",
+  "example": "这篇文章的结构很清晰。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_404",
+  "chinese": "结论",
+  "pinyin": "jiélùn",
+  "meaning": "ข้อสรุป",
+  "example": "现在下结论还为时过早。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_405",
+  "chinese": "姐妹",
+  "pinyin": "jiěmèi",
+  "meaning": "พี่น้องผู้หญิง",
+  "example": "她们俩是一对亲姐妹。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_406",
+  "chinese": "解释",
+  "pinyin": "jiěshì",
+  "meaning": "อธิบาย",
+  "example": "请把这个词的意思解释一下。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_407",
+  "chinese": "尽快",
+  "pinyin": "jǐnkuài",
+  "meaning": "โดยเร็วที่สุด",
+  "example": "请尽快把报告交给我。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_408",
+  "chinese": "紧密",
+  "pinyin": "jǐnmì",
+  "meaning": "แน่นแฟ้น, ใกล้ชิด",
+  "example": "两家公司保持着紧密的合作关系。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_409",
+  "chinese": "尽力",
+  "pinyin": "jìnlì",
+  "meaning": "สุดความสามารถ",
+  "example": "我会尽力完成这项任务。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_410",
+  "chinese": "进口",
+  "pinyin": "jìnkǒu",
+  "meaning": "นำเข้า, ทางเข้า",
+  "example": "这批水果是从国外进口的。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_411",
+  "chinese": "近代",
+  "pinyin": "jìndài",
+  "meaning": "ยุคใหม่, สมัยใหม่",
+  "example": "这是一本研究近代史的书。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_412",
+  "chinese": "禁止",
+  "pinyin": "jìnzhǐ",
+  "meaning": "ห้าม",
+  "example": "公共场所禁止吸烟。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_413",
+  "chinese": "经典",
+  "pinyin": "jīngdiǎn",
+  "meaning": "คลาสสิก, ผลงานชิ้นเอก",
+  "example": "这是一部文学经典作品。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_414",
+  "chinese": "精力",
+  "pinyin": "jīnglì",
+  "meaning": "พลังงาน, เรี่ยวแรง",
+  "example": "年轻人精力充沛。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_415",
+  "chinese": "竟然",
+  "pinyin": "jìngrán",
+  "meaning": "คาดไม่ถึงเลยว่า..., กลับ...",
+  "example": "他竟然通过了最难的考试。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_416",
+  "chinese": "镜头",
+  "pinyin": "jìngtóu",
+  "meaning": "เลนส์กล้อง, ช็อตการถ่ายภาพ",
+  "example": "摄影师对准了精彩的镜头。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_417",
+  "chinese": "镜子",
+  "pinyin": "jìngzi",
+  "meaning": "กระจกเงา",
+  "example": "出门前我在镜子前整理衣服。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_418",
+  "chinese": "究竟",
+  "pinyin": "jiūjìng",
+  "meaning": "แท้จริงแล้ว (ใช้ในประโยคคำถาม)",
+  "example": "这件事情的真相究竟是什么？",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_419",
+  "chinese": "酒吧",
+  "pinyin": "jiǔbā",
+  "meaning": "บาร์, ผับ",
+  "example": "年轻人喜欢周末去酒吧放松。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_420",
+  "chinese": "居民",
+  "pinyin": "jūmín",
+  "meaning": "ผู้อยู่อาศัย, ประชาชนในท้องถิ่น",
+  "example": "社区居民积极参加活动。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_421",
+  "chinese": "居住",
+  "pinyin": "jūzhù",
+  "meaning": "อยู่อาศัย",
+  "example": "他在北京居住多年。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_422",
+  "chinese": "局",
+  "pinyin": "jú",
+  "meaning": "กรม, สำนักงาน, เกม",
+  "example": "他在公安局工作。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_423",
+  "chinese": "巨大",
+  "pinyin": "jùdà",
+  "meaning": "ใหญ่โตมโหฬาร",
+  "example": "这个项目取得了巨大的成功。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_424",
+  "chinese": "具备",
+  "pinyin": "jùbèi",
+  "meaning": "มีความพร้อม, มีคุณสมบัติครบ",
+  "example": "他具备了当经理的能力。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_425",
+  "chinese": "距离",
+  "pinyin": "jùlí",
+  "meaning": "ระยะทาง",
+  "example": "学校距离我家很近。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_426",
+  "chinese": "聚",
+  "pinyin": "jù",
+  "meaning": "ชุมนุม, รวมตัว",
+  "example": "老同学周末聚在一起聊天。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_427",
+  "chinese": "聚会",
+  "pinyin": "jùhuì",
+  "meaning": "งานเลี้ยงสังสรรค์",
+  "example": "今晚我们有一个家庭聚会。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_428",
+  "chinese": "卷",
+  "pinyin": "juǎn",
+  "meaning": "ม้วน",
+  "example": "把地毯卷起来。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_429",
+  "chinese": "卷",
+  "pinyin": "juàn",
+  "meaning": "ม้วนกระดาษ, ข้อสอบ",
+  "example": "考试时间到了，请交卷。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_430",
+  "chinese": "角色",
+  "pinyin": "juésè",
+  "meaning": "บทบาท (ในละคร/ชีวิต)",
+  "example": "他在电影里扮演一个重要角色。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_431",
+  "chinese": "开花",
+  "pinyin": "kāihuā",
+  "meaning": "ออกดอก",
+  "example": "春天的桃花盛开，开花了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_432",
+  "chinese": "开水",
+  "pinyin": "kāishuǐ",
+  "meaning": "น้ำต้มสุก",
+  "example": "请喝一杯温开水。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_433",
+  "chinese": "看不起",
+  "pinyin": "kànbùqǐ",
+  "meaning": "ดูถูก, ดูแคลน",
+  "example": "我们不能看不起任何人。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_434",
+  "chinese": "看来",
+  "pinyin": "kànlái",
+  "meaning": "ดูเหมือนว่า",
+  "example": "看来今天不会下雨了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_435",
+  "chinese": "看望",
+  "pinyin": "kànwàng",
+  "meaning": "ไปเยี่ยมเยียน",
+  "example": "周末我去医院看望病人。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_436",
+  "chinese": "考察",
+  "pinyin": "kǎochá",
+  "meaning": "สำรวจตรวจสอบ, ศึกษาดูงาน",
+  "example": "专家去外地进行实地考察。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_437",
+  "chinese": "考虑",
+  "pinyin": "kǎolǜ",
+  "meaning": "พิจารณา, ไตร่ตรอง",
+  "example": "我会认真考虑你的建议。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_438",
+  "chinese": "棵",
+  "pinyin": "kē",
+  "meaning": "ต้น (ลักษณนามต้นไม้)",
+  "example": "院子里种了一棵苹果树。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_439",
+  "chinese": "可见",
+  "pinyin": "kějiàn",
+  "meaning": "เห็นได้ชัดว่า...",
+  "example": "事实胜于雄辩，可见他是对的。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_440",
+  "chinese": "空间",
+  "pinyin": "kōngjiān",
+  "meaning": "พื้นที่, อวกาศ",
+  "example": "这个房间的空间很大。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_441",
+  "chinese": "空",
+  "pinyin": "kòng",
+  "meaning": "ว่าง, เวลาว่าง",
+  "example": "你今天下午有空吗？",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_442",
+  "chinese": "口袋",
+  "pinyin": "kǒudai",
+  "meaning": "กระเป๋าเสื้อ, กระเป๋ากางเกง",
+  "example": "钥匙放在口袋里。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_443",
+  "chinese": "口语",
+  "pinyin": "kǒuyǔ",
+  "meaning": "ภาษาพูด, ทักษะการพูด",
+  "example": "他的汉语口语非常流利。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_444",
+  "chinese": "苦",
+  "pinyin": "kǔ",
+  "meaning": "ขม, ความทุกข์ยาก",
+  "example": "中药吃起来很苦。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_445",
+  "chinese": "会计",
+  "pinyin": "kuàijì",
+  "meaning": "บัญชี, นักบัญชี",
+  "example": "她在公司里做会计工作。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_446",
+  "chinese": "快递",
+  "pinyin": "kuàidì",
+  "meaning": "บริการจัดส่งพัสดุด่วน, พัสดุด่วน",
+  "example": "我买的书通过快递送到了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_447",
+  "chinese": "宽",
+  "pinyin": "kuān",
+  "meaning": "กว้าง",
+  "example": "这条马路非常宽。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_448",
+  "chinese": "宽广",
+  "pinyin": "kuānguǎng",
+  "meaning": "กว้างขวาง",
+  "example": "前面是一片宽广的草原。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_449",
+  "chinese": "矿泉水",
+  "pinyin": "kuàngquánshuǐ",
+  "meaning": "น้ำแร่",
+  "example": "运动后喝一瓶矿泉水很舒服。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_450",
+  "chinese": "扩大",
+  "pinyin": "kuòdà",
+  "meaning": "ขยายให้กว้างขึ้น",
+  "example": "公司决定扩大生产规模。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_451",
+  "chinese": "扩展",
+  "pinyin": "kuòzhǎn",
+  "meaning": "ขยายออกไป",
+  "example": "我们要不断扩展业务范围。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_452",
+  "chinese": "括号",
+  "pinyin": "kuòhào",
+  "meaning": "วงเล็บ",
+  "example": "请把答案填在括号里。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_453",
+  "chinese": "垃圾",
+  "pinyin": "lājī",
+  "meaning": "ขยะ",
+  "example": "请把垃圾扔进垃圾桶。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_454",
+  "chinese": "拉开",
+  "pinyin": "lākāi",
+  "meaning": "ดึงเปิด, เปิดออก",
+  "example": "他走上前拉开窗帘。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_455",
+  "chinese": "辣",
+  "pinyin": "là",
+  "meaning": "เผ็ด",
+  "example": "四川菜吃起来很辣。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_456",
+  "chinese": "来不及",
+  "pinyin": "láibují",
+  "meaning": "ไม่ทันเวลา",
+  "example": "快点走，要不然赶不上火车就来不及了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_457",
+  "chinese": "来得及",
+  "pinyin": "láidejí",
+  "meaning": "ทันเวลา",
+  "example": "现在出发还来得及。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_458",
+  "chinese": "来源",
+  "pinyin": "láiyuán",
+  "meaning": "แหล่งที่มา",
+  "example": "这条新闻的来源很可靠。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_459",
+  "chinese": "老公",
+  "pinyin": "lǎogōng",
+  "meaning": "สามี (ภาษาพูด)",
+  "example": "我老公下班后会顺便买菜。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_460",
+  "chinese": "老家",
+  "pinyin": "lǎojiā",
+  "meaning": "บ้านเกิด, ภูมิลำเนา",
+  "example": "国庆节我要回老家看望父母。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_461",
+  "chinese": "老婆",
+  "pinyin": "lǎopó",
+  "meaning": "ภรรยา (ภาษาพูด)",
+  "example": "他给老婆买了一件生日礼物。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_462",
+  "chinese": "老实",
+  "pinyin": "lǎoshi",
+  "meaning": "ซื่อสัตย์, หัวอ่อน",
+  "example": "他是一个非常老实的人。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_463",
+  "chinese": "乐趣",
+  "pinyin": "lèqù",
+  "meaning": "ความเพลิดเพลิน, ความสุขสนุกสนาน",
+  "example": "阅读能给我带来很多乐趣。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_464",
+  "chinese": "泪",
+  "pinyin": "lèi",
+  "meaning": "น้ำตา",
+  "example": "她感动得流下了泪水。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_465",
+  "chinese": "泪水",
+  "pinyin": "lèishuǐ",
+  "meaning": "หยาดน้ำตา",
+  "example": "擦干眼角的泪水。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_466",
+  "chinese": "类型",
+  "pinyin": "lèixíng",
+  "meaning": "ประเภท, ชนิด",
+  "example": "图书馆里的图书有很多类型。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_467",
+  "chinese": "冷静",
+  "pinyin": "lěngjìng",
+  "meaning": "ใจเย็น, สงบสติอารมณ์",
+  "example": "遇到紧急情况要保持冷静。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_468",
+  "chinese": "厘米",
+  "pinyin": "lími",
+  "meaning": "เซนติเมตร",
+  "example": "这张桌子有一百厘米长。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_469",
+  "chinese": "离不开",
+  "pinyin": "lí bù kāi",
+  "meaning": "ขาดไม่ได้",
+  "example": "现代人的生活离不开手机。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_470",
+  "chinese": "力气",
+  "pinyin": "lìqi",
+  "meaning": "พละกำลัง",
+  "example": "搬这个大箱子花了我不少力气。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_471",
+  "chinese": "历史",
+  "pinyin": "lìshǐ",
+  "meaning": "ประวัติศาสตร์",
+  "example": "中国有着悠久的历史文化。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_472",
+  "chinese": "立即",
+  "pinyin": "lìjí",
+  "meaning": "ทันที",
+  "example": "听到消息后，他立即出发了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_473",
+  "chinese": "利息",
+  "pinyin": "lìxī",
+  "meaning": "ดอกเบี้ย",
+  "example": "把钱存银行可以获得利息。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_474",
+  "chinese": "利益",
+  "pinyin": "lìyì",
+  "meaning": "ผลประโยชน์",
+  "example": "我们要维护集体的利益。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_475",
+  "chinese": "俩",
+  "pinyin": "liǎ",
+  "meaning": "ทั้งสอง",
+  "example": "他们俩是好朋友。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_476",
+  "chinese": "良好",
+  "pinyin": "liánghǎo",
+  "meaning": "ดีงาม, เรียบร้อยดี",
+  "example": "保持良好的生活习惯。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_477",
+  "chinese": "量",
+  "pinyin": "liáng",
+  "meaning": "วัด (ขนาด/ปริมาณ)",
+  "example": "请帮我量一下身高。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_478",
+  "chinese": "粮食",
+  "pinyin": "liángshi",
+  "meaning": "ธัญพืช, เสบียงอาหาร",
+  "example": "我们要爱惜粮食，不要浪费。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_479",
+  "chinese": "两边",
+  "pinyin": "liǎngbiān",
+  "meaning": "ทั้งสองข้าง",
+  "example": "马路两边种满了大树。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_480",
+  "chinese": "疗养",
+  "pinyin": "liáoyǎng",
+  "meaning": "พักฟื้นร่างกาย",
+  "example": "爷爷去海边疗养院休息了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_481",
+  "chinese": "了不起",
+  "pinyin": "liǎobuqǐ",
+  "meaning": "1. ยอดเยี่ยมมาก, น่าทึ่ง",
+  "example": "他年纪轻轻就取得了这么大的成就，真了不起。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_482",
+  "chinese": "了解",
+  "pinyin": "liǎojiě",
+  "meaning": "เข้าใจ, ทราบความจริง",
+  "example": "我对这件事情还不太了解。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_483",
+  "chinese": "列",
+  "pinyin": "liè",
+  "meaning": "จัดลำดับ, แถว",
+  "example": "把这些书按顺序排列。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_484",
+  "chinese": "列车",
+  "pinyin": "lièchē",
+  "meaning": "ขบวนรถไฟ",
+  "example": "列车正准时向前方开去。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_485",
+  "chinese": "列入",
+  "pinyin": "lièrù",
+  "meaning": "บรรจุเข้าไว้ใน...",
+  "example": "这个计划被列入了年度工作日程。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_486",
+  "chinese": "列为",
+  "pinyin": "lièwéi",
+  "meaning": "จัดให้เป็น...",
+  "example": "这座古建筑被列为国家级重点保护文物。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_487",
+  "chinese": "临时",
+  "pinyin": "línshí",
+  "meaning": "ชั่วคราว",
+  "example": "会议通知是临时发出的。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_488",
+  "chinese": "零食",
+  "pinyin": "língshí",
+  "meaning": "ขนมขบเคี้ยว",
+  "example": "小孩子都喜欢吃零食。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_489",
+  "chinese": "流传",
+  "pinyin": "liúchuán",
+  "meaning": "เล่าขานสืบต่อกันมา",
+  "example": "这个古老的传说流传了很久。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_490",
+  "chinese": "楼梯",
+  "pinyin": "lóutī",
+  "meaning": "บันได",
+  "example": "请走楼梯，不要坐电梯。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_491",
+  "chinese": "陆地",
+  "pinyin": "lùdì",
+  "meaning": "แผ่นดิน, พื้นดิน",
+  "example": "海鸥在陆地和海洋之间飞翔。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_492",
+  "chinese": "陆续",
+  "pinyin": "lùxù",
+  "meaning": "ทยอย...",
+  "example": "参会人员陆续来到了会议室。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_493",
+  "chinese": "录取",
+  "pinyin": "lùqǔ",
+  "meaning": "รับเข้าทำงานหรือศึกษาต่อ",
+  "example": "他被北京大学录取了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_494",
+  "chinese": "律师",
+  "pinyin": "lǜshī",
+  "meaning": "ทนายความ",
+  "example": "他是一名专业的律师。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_495",
+  "chinese": "轮",
+  "pinyin": "lún",
+  "meaning": "รอบ, ล้อ",
+  "example": "轮到我发言了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_496",
+  "chinese": "轮船",
+  "pinyin": "lúnchuán",
+  "meaning": "เรือเดินสมุทร, เรือกลไฟ",
+  "example": "我们坐轮船游览长江。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_497",
+  "chinese": "轮椅",
+  "pinyin": "lúnyǐ",
+  "meaning": "รถเข็นวีลแชร์",
+  "example": "老人坐在轮椅上晒太阳。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_498",
+  "chinese": "轮子",
+  "pinyin": "lúnzi",
+  "meaning": "ล้อรถ",
+  "example": "汽车的轮子坏了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_499",
+  "chinese": "论文",
+  "pinyin": "lùnwén",
+  "meaning": "วิทยานิพนธ์, บทความวิชาการ",
+  "example": "他正在写毕业论文。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_500",
+  "chinese": "落",
+  "pinyin": "luò",
+  "meaning": "ตก, ร่วงลงมา",
+  "example": "秋天树叶从树上落下来。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_501",
+  "chinese": "毛巾",
+  "pinyin": "máojīn",
+  "meaning": "ผ้าเช็ดตัว, ผ้าขนหนู",
+  "example": "洗澡后请用干净的毛巾擦干。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_502",
+  "chinese": "毛衣",
+  "pinyin": "máoyī",
+  "meaning": "เสื้อกันหนาวไหมพรม",
+  "example": "冬天穿毛衣非常保暖。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_503",
+  "chinese": "帽子",
+  "pinyin": "màozi",
+  "meaning": "หมวก",
+  "example": "出门别忘了戴帽子。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_504",
+  "chinese": "没错",
+  "pinyin": "méicuò",
+  "meaning": "ถูกต้อง, ไม่ผิดแน่",
+  "example": "A: 这是你的书吗？ B: 没错，是我的。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_505",
+  "chinese": "没法儿",
+  "pinyin": "méifǎr",
+  "meaning": "ช่วยไม่ได้, ไม่มีวิธี",
+  "example": "事情已经这样了，真没法儿。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_506",
+  "chinese": "没想到",
+  "pinyin": "méixiǎngdào",
+  "meaning": "คาดไม่ถึง",
+  "example": "没想到会在这里遇到你。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_507",
+  "chinese": "美金",
+  "pinyin": "měijīn",
+  "meaning": "ดอลลาร์สหรัฐ",
+  "example": "去银行把人民币兑换成美金。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_508",
+  "chinese": "美女",
+  "pinyin": "měinǚ",
+  "meaning": "หญิงสาวสวย",
+  "example": "街上走过来一位时尚的美女。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_509",
+  "chinese": "梦",
+  "pinyin": "mèng",
+  "meaning": "ความฝัน, ฝัน",
+  "example": "昨晚我做了一个奇怪的梦。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_510",
+  "chinese": "梦见",
+  "pinyin": "mèngjiàn",
+  "meaning": "ฝันเห็น",
+  "example": "我昨晚梦见了我的老朋友。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_511",
+  "chinese": "梦想",
+  "pinyin": "mèngxiǎng",
+  "meaning": "ความฝัน, ความปรารถนาสูงสุด",
+  "example": "我们要努力实现自己的梦想。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_512",
+  "chinese": "秘密",
+  "pinyin": "mìmì",
+  "meaning": "ความลับ",
+  "example": "这是我们之间的秘密，不要告诉别人。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_513",
+  "chinese": "秘书",
+  "pinyin": "mìshū",
+  "meaning": "เลขานุการ",
+  "example": "经理正在跟秘书安排会议。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_514",
+  "chinese": "密",
+  "pinyin": "mì",
+  "meaning": "ลับ, แน่นหนา",
+  "example": "森林里树木长得很密。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_515",
+  "chinese": "密码",
+  "pinyin": "mìmǎ",
+  "meaning": "รหัสผ่าน",
+  "example": "请输入您的银行卡密码。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_516",
+  "chinese": "密切",
+  "pinyin": "mìqiè",
+  "meaning": "อย่างใกล้ชิด",
+  "example": "两家公司保持着密切的合作。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_517",
+  "chinese": "免费",
+  "pinyin": "miǎnfèi",
+  "meaning": "ฟรี, ไม่มีค่าใช้จ่าย",
+  "example": "博物馆对公众免费开放。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_518",
+  "chinese": "面临",
+  "pinyin": "miànlín",
+  "meaning": "เผชิญกับ",
+  "example": "我们目前面临着巨大的挑战。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_519",
+  "chinese": "面试",
+  "pinyin": "miànshì",
+  "meaning": "การสัมภาษณ์งาน",
+  "example": "明天我要去一家公司参加面试。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_520",
+  "chinese": "描述",
+  "pinyin": "miáoshù",
+  "meaning": "บรรยาย, พรรณนา",
+  "example": "请详细描述一下当时的场景。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_521",
+  "chinese": "描写",
+  "pinyin": "miáoxiě",
+  "meaning": "วาดภาพด้วยตัวหนังสือ, บรรยายลักษณะ",
+  "example": "这篇文章描写了春天的景色。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_522",
+  "chinese": "名牌儿",
+  "pinyin": "míngpáir",
+  "meaning": "แบรนด์เนม, ป้ายชื่อ",
+  "example": "她喜欢买各种名牌儿包。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_523",
+  "chinese": "名片",
+  "pinyin": "míngpiàn",
+  "meaning": "นามบัตร",
+  "example": "初次见面，请多指教，这是我的名片。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_524",
+  "chinese": "名人",
+  "pinyin": "míngrén",
+  "meaning": "คนดัง, บุคคลที่มีชื่อเสียง",
+  "example": "这里住过许多历史名人。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_525",
+  "chinese": "摸",
+  "pinyin": "mō",
+  "meaning": "สัมผัส, ลูบ,คลำ",
+  "example": "小猫的毛摸起来很软。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_526",
+  "chinese": "模特儿",
+  "pinyin": "mótèr",
+  "meaning": "นางแบบ, นายแบบ",
+  "example": "服装发布会上有很多模特儿。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_527",
+  "chinese": "模型",
+  "pinyin": "móxíng",
+  "meaning": "โมเดล, หุ่นจำลอง",
+  "example": "桌子上放着一个飞机模型。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_528",
+  "chinese": "末",
+  "pinyin": "mò",
+  "meaning": "ปลาย (สัปดาห์/เดือน/ปี)",
+  "example": "这个周末是月末。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_529",
+  "chinese": "默默",
+  "pinyin": "mòmò",
+  "meaning": "อย่างเงียบๆ",
+  "example": "他在背后默默地支持着我。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_530",
+  "chinese": "哪怕",
+  "pinyin": "nǎpà",
+  "meaning": "ต่อให้..., แม้ว่า...",
+  "example": "哪怕遇到再大的困难，我们也要坚持。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_531",
+  "chinese": "哪",
+  "pinyin": "nǎ",
+  "meaning": "ไหน (คำอุทาน/สรรพนาม)",
+  "example": "哪里的事！",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_532",
+  "chinese": "男女",
+  "pinyin": "nánnǚ",
+  "meaning": "ชายหญิง",
+  "example": "男女老少都来参加这个活动。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_533",
+  "chinese": "男士",
+  "pinyin": "nánshì",
+  "meaning": "สุภาพบุรุษ, ผู้ชาย",
+  "example": "请男士们走这边。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_534",
+  "chinese": "难免",
+  "pinyin": "nánmiǎn",
+  "meaning": "หลีกเลี่ยงไม่ได้ที่จะ...",
+  "example": "初学者犯错误是在所难免的。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_535",
+  "chinese": "脑袋",
+  "pinyin": "nǎodai",
+  "meaning": "ศีรษะ, หัว",
+  "example": "他聪明机灵，脑袋转得快。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_536",
+  "chinese": "闹",
+  "pinyin": "nào",
+  "meaning": "เอะอะ, ก่อกวน, เกิด (โรค)",
+  "example": "房间里别闹了，大家安静。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_537",
+  "chinese": "闹钟",
+  "pinyin": "nàozhōng",
+  "meaning": "นาฬิกาปลุก",
+  "example": "早上闹钟响了，我才醒过来。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_538",
+  "chinese": "内部",
+  "pinyin": "nèibù",
+  "meaning": "ภายใน",
+  "example": "这是公司的内部文件。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_539",
+  "chinese": "内科",
+  "pinyin": "nèikē",
+  "meaning": "แผนกอายุรกรรม",
+  "example": "请去医院内科挂号。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_540",
+  "chinese": "能干",
+  "pinyin": "nénggàn",
+  "meaning": "มีความสามารถ, ขยันทำงานเก่ง",
+  "example": "她是一个工作非常能干的人。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_541",
+  "chinese": "宁静",
+  "pinyin": "níngjìng",
+  "meaning": "เงียบสงบ",
+  "example": "乡村的夜晚非常宁静。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_542",
+  "chinese": "浓",
+  "pinyin": "nóng",
+  "meaning": "เข้มข้น (สี/รสชาติ)",
+  "example": "这杯咖啡的味道很浓。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_543",
+  "chinese": "女士",
+  "pinyin": "nǚshì",
+  "meaning": "สุภาพสตรี, คุณผู้หญิง",
+  "example": "这位女士是我们的新同事。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_544",
+  "chinese": "暖气",
+  "pinyin": "nuǎnqì",
+  "meaning": "เครื่องทำความร้อน, ฮีตเตอร์",
+  "example": "北方冬天房间里都有暖气。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_545",
+  "chinese": "拍照",
+  "pinyin": "pāizhào",
+  "meaning": "ถ่ายรูป",
+  "example": "我们在长城前面拍照留念。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_546",
+  "chinese": "排列",
+  "pinyin": "páiliè",
+  "meaning": "เรียงลำดับ",
+  "example": "请按照字母顺序排列这些单词。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_547",
+  "chinese": "牌",
+  "pinyin": "pái",
+  "meaning": "ป้าย, ไพ่",
+  "example": "门口挂着一块木牌。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_548",
+  "chinese": "盘",
+  "pinyin": "pán",
+  "meaning": "จาน, (ลักษณนามอาหารเป็นจาน)",
+  "example": "桌上摆着几盘好吃的菜。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_549",
+  "chinese": "盘子",
+  "pinyin": "pánzi",
+  "meaning": "จาน",
+  "example": "请把盘子洗干净。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_550",
+  "chinese": "胖子",
+  "pinyin": "pàngzi",
+  "meaning": "คนอ้วน",
+  "example": "他以前很瘦，现在变成胖子了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_551",
+  "chinese": "培训",
+  "pinyin": "péixùn",
+  "meaning": "อบรม, ฝึกอบรม",
+  "example": "公司安排员工参加专业培训。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_552",
+  "chinese": "培训班",
+  "pinyin": "péixùnbān",
+  "meaning": "ชั้นเรียนอบรม",
+  "example": "暑假我报了一个汉语培训班。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_553",
+  "chinese": "培养",
+  "pinyin": "péiyǎng",
+  "meaning": "เพาะเลี้ยง, อบรมบ่มนิสัย",
+  "example": "阅读可以培养良好的习惯。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_554",
+  "chinese": "培育",
+  "pinyin": "péiyù",
+  "meaning": "เพาะปลูก, อบรมเลี้ยงดู",
+  "example": "学校致力于培育优秀人才。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_555",
+  "chinese": "批",
+  "pinyin": "pī",
+  "meaning": "ชุด, (ลักษณนามของกลุ่มคน/สินค้า)",
+  "example": "第一批货物已经到了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_556",
+  "chinese": "批",
+  "pinyin": "pī",
+  "meaning": "วิจารณ์, ตรวจ (การบ้าน)",
+  "example": "老师正在批改作业。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_557",
+  "chinese": "片面",
+  "pinyin": "piànmiàn",
+  "meaning": "ด้านเดียว, ผิวเผิน",
+  "example": "这种看法未免太片面了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_558",
+  "chinese": "品质",
+  "pinyin": "pǐnzhì",
+  "meaning": "คุณภาพ (สินค้าหรือจิตใจ)",
+  "example": "这家工厂生产的产品品质很高。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_559",
+  "chinese": "平方",
+  "pinyin": "píngfāng",
+  "meaning": "ตาราง (เช่น ตารางเมตร)",
+  "example": "这套房子有一百平方便宜。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_560",
+  "chinese": "平静",
+  "pinyin": "píngjìng",
+  "meaning": "สงบ, ราบเรียบ",
+  "example": "湖面像一面镜子一样平静。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_561",
+  "chinese": "平均",
+  "pinyin": "píngjūn",
+  "meaning": "เฉลี่ย",
+  "example": "全班同学的平均分是八十分。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_562",
+  "chinese": "平稳",
+  "pinyin": "píngwěn",
+  "meaning": "ราบรื่น, มั่นคง",
+  "example": "飞机在空中飞行得很平稳。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_563",
+  "chinese": "迫切",
+  "pinyin": "pòqiè",
+  "meaning": "อย่างเร่งด่วน, กระหาย",
+  "example": "我们迫切需要解决这个问题。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_564",
+  "chinese": "破产",
+  "pinyin": "pòchǎn",
+  "meaning": "ล้มละลาย",
+  "example": "这家公司因为经营不善而破产了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_565",
+  "chinese": "妻子",
+  "pinyin": "qīzi",
+  "meaning": "ภรรยา",
+  "example": "他和妻子结婚已经五年了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_566",
+  "chinese": "期待",
+  "pinyin": "qīdài",
+  "meaning": "คาดหวัง, ตั้งตารอ",
+  "example": "我非常期待这次的旅行。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_567",
+  "chinese": "期间",
+  "pinyin": "qījiān",
+  "meaning": "ระหว่างช่วงเวลา",
+  "example": "春节期间，街上人很少。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_568",
+  "chinese": "期末",
+  "pinyin": "qimò",
+  "meaning": "ปลายภาคเรียน",
+  "example": "期末考试马上就要开始了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_569",
+  "chinese": "期限",
+  "pinyin": "qīxiàn",
+  "meaning": "กำหนดเวลา, เส้นตาย",
+  "example": "这项工作的最后期限是明天。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_570",
+  "chinese": "期中",
+  "pinyin": "qīzhōng",
+  "meaning": "กลางภาคเรียน",
+  "example": "期中考试成绩已经公布了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_571",
+  "chinese": "其余",
+  "pinyin": "qíyú",
+  "meaning": "ที่เหลือ, นอกเหนือจากนั้น",
+  "example": "两名同学去了图书馆，其余人在教室自习。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_572",
+  "chinese": "企业",
+  "pinyin": "qǐyè",
+  "meaning": "วิสาหกิจ, บริษัท",
+  "example": "这是一家发展迅速的高科技企业。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_573",
+  "chinese": "气球",
+  "pinyin": "qìqiú",
+  "meaning": "ลูกโป่ง",
+  "example": "孩子们手里拿着彩色气球。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_574",
+  "chinese": "汽水",
+  "pinyin": "qìshuǐ",
+  "meaning": "น้ำอัดลม",
+  "example": "夏日喝一瓶冰汽水很解渴。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_575",
+  "chinese": "汽油",
+  "pinyin": "qìyóu",
+  "meaning": "น้ำมันเบนซิน",
+  "example": "汽车需要加满汽油才能走远路。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_576",
+  "chinese": "器官",
+  "pinyin": "qìguān",
+  "meaning": "อวัยวะ",
+  "example": "眼睛是人体的重要感觉器官。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_577",
+  "chinese": "前头",
+  "pinyin": "qiántou",
+  "meaning": "ด้านหน้า",
+  "example": "大家跟着导游往前头走。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_578",
+  "chinese": "前途",
+  "pinyin": "qiántú",
+  "meaning": "อนาคต, ทางข้างหน้า",
+  "example": "年轻人有着光明的未来和前途。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_579",
+  "chinese": "浅",
+  "pinyin": "qiǎn",
+  "meaning": "ตื้น, สีอ่อน",
+  "example": "这条河水很浅，可以走过去。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_580",
+  "chinese": "巧克力",
+  "pinyin": "qiǎokèlì",
+  "meaning": "ช็อกโกแลต",
+  "example": "情人节送她一盒巧克力。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_581",
+  "chinese": "切",
+  "pinyin": "qiē",
+  "meaning": "หั่น, ตัด",
+  "example": "请把西瓜切成几块。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_582",
+  "chinese": "亲爱",
+  "pinyin": "qīn'ài",
+  "meaning": "ที่รัก, เป็นที่รัก",
+  "example": "亲爱的妈妈，祝您节日快乐。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_583",
+  "chinese": "亲密",
+  "pinyin": "qīnmì",
+  "meaning": "สนิทสนม",
+  "example": "他们之间的关系非常亲密。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_584",
+  "chinese": "青春",
+  "pinyin": "qīngchūn",
+  "meaning": "วัยรุ่น, ความหนุ่มสาว",
+  "example": "我们要珍惜美好的青春时光。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_585",
+  "chinese": "轻松",
+  "pinyin": "qīngsōng",
+  "meaning": "ผ่อนคลาย, สบายๆ",
+  "example": "考试结束了，大家感到很轻松。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_586",
+  "chinese": "轻易",
+  "pinyin": "qīngyì",
+  "meaning": "ง่ายดาย, โดยง่าย",
+  "example": "我们不能轻易放弃这个机会。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_587",
+  "chinese": "清醒",
+  "pinyin": "qīngxǐng",
+  "meaning": "มีสติ, ตื่นตัว",
+  "example": "喝杯咖啡让我头脑清醒多了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_588",
+  "chinese": "情景",
+  "pinyin": "qíngjǐng",
+  "meaning": "ฉาก, สถานการณ์",
+  "example": "当年的情景我还历历在目。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_589",
+  "chinese": "穷",
+  "pinyin": "qióng",
+  "meaning": "ยากจน",
+  "example": "他虽然出身穷苦，但非常努力。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_590",
+  "chinese": "穷人",
+  "pinyin": "qióngrén",
+  "meaning": "คนยากจน",
+  "example": "我们要多帮助穷人。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_591",
+  "chinese": "秋季",
+  "pinyin": "qiūjì",
+  "meaning": "ฤดูใบไม้ร่วง",
+  "example": "秋季是丰收的季节。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_592",
+  "chinese": "趋势",
+  "pinyin": "qūshì",
+  "meaning": "แนวโน้ม",
+  "example": "这是市场发展的必然趋势。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_593",
+  "chinese": "圈",
+  "pinyin": "quān",
+  "meaning": "วงกลม, วง (สัตว์เลี้ยง/โซเชียล)",
+  "example": "请在正确的答案上画一个圈。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_594",
+  "chinese": "权利",
+  "pinyin": "quánlì",
+  "meaning": "สิทธิ",
+  "example": "每个人都有表达意见的权利。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_595",
+  "chinese": "却",
+  "pinyin": "què",
+  "meaning": "แต่ทว่า, กลับ...",
+  "example": "他试了很多次，却都没有成功。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_596",
+  "chinese": "确认",
+  "pinyin": "quèrèn",
+  "meaning": "ยืนยัน",
+  "example": "请再次确认您的航班信息。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_597",
+  "chinese": "然而",
+  "pinyin": "rán'ér",
+  "meaning": "แต่ทว่า, อย่างไรก็ตาม",
+  "example": "计划很完美，然而实施起来很难。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_598",
+  "chinese": "燃料",
+  "pinyin": "ránliào",
+  "meaning": "เชื้อเพลิง",
+  "example": "汽车行驶需要消耗燃料。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_599",
+  "chinese": "燃烧",
+  "pinyin": "ránshāo",
+  "meaning": "เผาไหม้",
+  "example": "木头在火炉里剧烈燃烧。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_600",
+  "chinese": "热闹",
+  "pinyin": "rènao",
+  "meaning": "ครึกครื้น, มีชีวิตชีวา",
+  "example": "春节期间大街上非常热闹。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_601",
+  "chinese": "热心",
+  "pinyin": "rèxīn",
+  "meaning": "มีน้ำใจ, กระตือรือร้น",
+  "example": "他是一个非常热心的人，经常帮别人。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_602",
+  "chinese": "人家",
+  "pinyin": "rénjia",
+  "meaning": "ผู้อื่น, คนอื่น, บ้านคนอื่น",
+  "example": "不要去管人家的闲事。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_603",
+  "chinese": "日记",
+  "pinyin": "rìjì",
+  "meaning": "บันทึกประจำวัน, ไดอารี่",
+  "example": "我养成了每天写日记的好习惯。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_604",
+  "chinese": "日历",
+  "pinyin": "rìlì",
+  "meaning": "ปฏิทิน",
+  "example": "墙上挂着一本新日历。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_605",
+  "chinese": "如今",
+  "pinyin": "rújīn",
+  "meaning": "ทุกวันนี้, ปัจจุบันนี้",
+  "example": "如今的生活条件越来越好了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_606",
+  "chinese": "弱",
+  "pinyin": "ruò",
+  "meaning": "อ่อนแอ",
+  "example": "我们要保护弱小的人。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_607",
+  "chinese": "伞",
+  "pinyin": "sǎn",
+  "meaning": "ร่ม",
+  "example": "外面下雨了，记得带伞。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_608",
+  "chinese": "散",
+  "pinyin": "sàn",
+  "meaning": "กระจาย, แยกย้าย",
+  "example": "会议结束后，大家就散了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_609",
+  "chinese": "扫",
+  "pinyin": "sǎo",
+  "meaning": "กวาด",
+  "example": "请把地上的落叶扫干净。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_610",
+  "chinese": "色",
+  "pinyin": "sè",
+  "meaning": "สี, สีหน้า",
+  "example": "这种颜色非常好看。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_611",
+  "chinese": "色彩",
+  "pinyin": "sècǎi",
+  "meaning": "สีสัน",
+  "example": "这幅画的色彩非常丰富。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_612",
+  "chinese": "森林",
+  "pinyin": "sēnlín",
+  "meaning": "ป่าไม้",
+  "example": "森林里生活着许多野生动物。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_613",
+  "chinese": "晒",
+  "pinyin": "shài",
+  "meaning": "ตากแดด, ผึ่งแดด",
+  "example": "今天天气好，把被子拿出去晒一晒。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_614",
+  "chinese": "闪",
+  "pinyin": "shǎn",
+  "meaning": "กะพริบ, แวบ",
+  "example": "天空中闪过一道闪电。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_615",
+  "chinese": "闪电",
+  "pinyin": "shǎndiàn",
+  "meaning": "ฟ้าแลบ",
+  "example": "外面雷声大作，伴随着闪电。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_616",
+  "chinese": "善良",
+  "pinyin": "shànliáng",
+  "meaning": "จิตใจดี, เมตตา",
+  "example": "她是一个心地善良的好姑娘。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_617",
+  "chinese": "善于",
+  "pinyin": "shànyú",
+  "meaning": "มีความเชี่ยวชาญในการ...",
+  "example": "他善于发现生活中的美。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_618",
+  "chinese": "伤害",
+  "pinyin": "shānghài",
+  "meaning": "ทำร้าย",
+  "example": "我们不能做伤害朋友的事。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_619",
+  "chinese": "商务",
+  "pinyin": "shāngwù",
+  "meaning": "พาณิชย์, ธุรกิจ",
+  "example": "他穿着一身整洁的商务西装。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_620",
+  "chinese": "赏",
+  "pinyin": "shǎng",
+  "meaning": "ชื่นชม, ให้รางวัล",
+  "example": "中秋节晚上大家一起赏月。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_621",
+  "chinese": "上个月",
+  "pinyin": "shànggèyuè",
+  "meaning": "เดือนที่แล้ว",
+  "example": "上个月我去了北京旅游。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_622",
+  "chinese": "上楼",
+  "pinyin": "shànglóu",
+  "meaning": "ขึ้นตึก, ขึ้นชั้นบน",
+  "example": "请上楼去会议室开会。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_623",
+  "chinese": "上门",
+  "pinyin": "shàngmén",
+  "meaning": "มาเยี่ยมเยียนถึงบ้าน, บริการถึงบ้าน",
+  "example": "快递员把包裹上门送货。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_624",
+  "chinese": "烧",
+  "pinyin": "shāo",
+  "meaning": "เผา, ต้มเดือด, ทำอาหารผัดทอด",
+  "example": "水开了，请把火关小。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_625",
+  "chinese": "设施",
+  "pinyin": "shèshī",
+  "meaning": "สิ่งอำนวยความสะดวก",
+  "example": "小区的配套设施非常完善。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_626",
+  "chinese": "设置",
+  "pinyin": "shèzhì",
+  "meaning": "การตั้งค่า, จัดตั้ง",
+  "example": "请在手机里设置闹钟。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_627",
+  "chinese": "申请",
+  "pinyin": "shēnqǐng",
+  "meaning": "สมัคร, ยื่นคำร้อง",
+  "example": "我向学校申请了一笔奖学金。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_628",
+  "chinese": "身材",
+  "pinyin": "shēncái",
+  "meaning": "รูปร่าง, สัดส่วน",
+  "example": "她坚持锻炼，身材保持得很好。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_629",
+  "chinese": "身份",
+  "pinyin": "shēnfèn",
+  "meaning": "ฐานะ, สถานะ, บัตรประชาชน",
+  "example": "请出示您的身份证明。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_630",
+  "chinese": "身高",
+  "pinyin": "shēngāo",
+  "meaning": "ส่วนสูง",
+  "example": "他的身高有一米八。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_631",
+  "chinese": "深厚",
+  "pinyin": "shēnhòu",
+  "meaning": "ลึกซึ้ง (ความรู้สึก/มิตรภาพ)",
+  "example": "他们俩有着深厚的友谊。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_632",
+  "chinese": "神话",
+  "pinyin": "shénhuà",
+  "meaning": "เทพนิยาย, ตำนานปรัมปรา",
+  "example": "中国古代有很多优美的神话故事。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_633",
+  "chinese": "神秘",
+  "pinyin": "shénmì",
+  "meaning": "ลึกลับ",
+  "example": "这个地方充满了神秘的色彩。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_634",
+  "chinese": "甚至",
+  "pinyin": "shènzhì",
+  "meaning": "แม้กระทั่ง...",
+  "example": "他忙得连饭都吃不上，甚至连水都顾不上喝。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_635",
+  "chinese": "失败",
+  "pinyin": "shībài",
+  "meaning": "ความล้มเหลว, แพ้",
+  "example": "失败乃成功之母。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_636",
+  "chinese": "失望",
+  "pinyin": "shīwàng",
+  "meaning": "ผิดหวัง",
+  "example": "听到这个消息，大家都很失望。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_637",
+  "chinese": "失业",
+  "pinyin": "shīyè",
+  "meaning": "ตกงาน",
+  "example": "工厂倒闭后，许多工人失业了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_638",
+  "chinese": "诗",
+  "pinyin": "shī",
+  "meaning": "บทกวี, กลอน",
+  "example": "李白是中国唐代伟大的诗。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_639",
+  "chinese": "诗人",
+  "pinyin": "shīrén",
+  "meaning": "กวี",
+  "example": "他是一位著名的现代诗人。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_640",
+  "chinese": "湿",
+  "pinyin": "shī",
+  "meaning": "เปียก, ชื้น",
+  "example": "下雨把我的衣服淋湿了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_641",
+  "chinese": "实施",
+  "pinyin": "shíshī",
+  "meaning": "ดำเนินการ, ปฏิบัติ",
+  "example": "新政策将于下月开始实施。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_642",
+  "chinese": "实用",
+  "pinyin": "shíyòng",
+  "meaning": "ใช้งานได้จริง, มีประโยชน์จริง",
+  "example": "这件工具非常实用。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_643",
+  "chinese": "食堂",
+  "pinyin": "shítáng",
+  "meaning": "โรงอาหาร",
+  "example": "中午我们在学校食堂吃午饭。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_644",
+  "chinese": "使劲",
+  "pinyin": "shǐjìn",
+  "meaning": "ออกแรง, ใช้แรง",
+  "example": "大家一起使劲，把箱子抬上去。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_645",
+  "chinese": "士兵",
+  "pinyin": "shìbīng",
+  "meaning": "ทหารราบ, พลทหาร",
+  "example": "士兵们在操场上整齐地排列着。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_646",
+  "chinese": "市区",
+  "pinyin": "shìqū",
+  "meaning": "เขตเมือง, ตัวเมือง",
+  "example": "从这里开车去市区需要半小时。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_647",
+  "chinese": "似的",
+  "pinyin": "shìde",
+  "meaning": "ราวกับว่า, เหมือนกับ...",
+  "example": "他高兴得像个小孩子似的。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_648",
+  "chinese": "事物",
+  "pinyin": "shìwù",
+  "meaning": "สิ่งของ, สรรพสิ่ง",
+  "example": "我们要用发展的眼光看待客观事物。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_649",
+  "chinese": "事先",
+  "pinyin": "shìxiān",
+  "meaning": "ล่วงหน้า, ก่อนหน้านี้",
+  "example": "这件事你应该事先跟我商量一下。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_650",
+  "chinese": "试卷",
+  "pinyin": "shìjuàn",
+  "meaning": "ข้อสอบ, กระดาษคำตอบ",
+  "example": "老师把批改好的试卷发给学生。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_651",
+  "chinese": "是否",
+  "pinyin": "shìfǒu",
+  "meaning": "ใช่หรือไม่, หรือไม่",
+  "example": "请检查这封邮件是否发送成功。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_652",
+  "chinese": "收回",
+  "pinyin": "shōuhuí",
+  "meaning": "เรียกคืน, ยึดคืน",
+  "example": "说过的话就像泼出去的水，收不回来了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_653",
+  "chinese": "收获",
+  "pinyin": "shōuhuò",
+  "meaning": "ผลผลิต, ผลลัพธ์ที่ได้",
+  "example": "这次旅行让我有很多收获。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_654",
+  "chinese": "收益",
+  "pinyin": "shōuyì",
+  "meaning": "ผลกำไร, รายได้",
+  "example": "这项投资带来了不错的收益。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_655",
+  "chinese": "手工",
+  "pinyin": "shǒugōng",
+  "meaning": "งานฝีมือ, ทำด้วยมือ",
+  "example": "这件衣服是纯手工制作的。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_656",
+  "chinese": "手里",
+  "pinyin": "shǒulǐ",
+  "meaning": "ในมือ",
+  "example": "他手里拿着一本书。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_657",
+  "chinese": "手术",
+  "pinyin": "shǒushù",
+  "meaning": "การผ่าตัด",
+  "example": "医生正在为病人做手术。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_658",
+  "chinese": "手套",
+  "pinyin": "shǒutào",
+  "meaning": "ถุงมือ",
+  "example": "冬天出门要戴厚手套。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_659",
+  "chinese": "守",
+  "pinyin": "shǒu",
+  "meaning": "เฝ้า, รักษา (กฎ/สัญญา)",
+  "example": "我们要坚守岗位。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_660",
+  "chinese": "首",
+  "pinyin": "shǒu",
+  "meaning": "บท, เพลง (ลักษณนามบทกวี/เพลง)",
+  "example": "请听这首优美的歌曲。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_661",
+  "chinese": "受不了",
+  "pinyin": "shòubuliǎo",
+  "meaning": "ทนไม่ไหว",
+  "example": "夏天的天气太热了，简直让人受不了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_662",
+  "chinese": "售货员",
+  "pinyin": "shòuhuòyuán",
+  "meaning": "พนักงานขายสินค้า",
+  "example": "商场里的售货员态度很好。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_663",
+  "chinese": "叔叔",
+  "pinyin": "shūshu",
+  "meaning": "คุณอา, คุณลุง",
+  "example": "叔叔在公园里散步。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_664",
+  "chinese": "舒适",
+  "pinyin": "shūshì",
+  "meaning": "สะดวกสบาย",
+  "example": "这个房间布置得很舒适。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_665",
+  "chinese": "熟练",
+  "pinyin": "shúliàn",
+  "meaning": "ชำนาญ, คล่องแคล่ว",
+  "example": "他操作电脑非常熟练。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_666",
+  "chinese": "暑假",
+  "pinyin": "shǔjià",
+  "meaning": "วันหยุดฤดูร้อน",
+  "example": "暑假我打算去外地旅游。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_667",
+  "chinese": "树林",
+  "pinyin": "shùlín",
+  "meaning": "ป่าละเมาะ, ดงไม้",
+  "example": "小鸟在树林里快乐地唱歌。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_668",
+  "chinese": "树叶",
+  "pinyin": "shùyè",
+  "meaning": "ใบไม้",
+  "example": "秋天到了，树叶变黄了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_669",
+  "chinese": "数据",
+  "pinyin": "shùjù",
+  "meaning": "ข้อมูล (ตัวเลข/สถิติ)",
+  "example": "这份报告包含了很多重要数据。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_670",
+  "chinese": "数码",
+  "pinyin": "shùmǎ",
+  "meaning": "ดิจิทัล",
+  "example": "他买了一台最新的数码相机。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_671",
+  "chinese": "刷",
+  "pinyin": "shuā",
+  "meaning": "แปรง, ทาสี, ปัด",
+  "example": "每天早晚都要认真刷牙。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_672",
+  "chinese": "刷牙",
+  "pinyin": "shuāyá",
+  "meaning": "แปรงฟัน",
+  "example": "洗脸刷牙后，他开始吃早饭。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_673",
+  "chinese": "刷子",
+  "pinyin": "shuāzi",
+  "meaning": "แปรง",
+  "example": "用刷子把鞋子刷干净。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_674",
+  "chinese": "帅",
+  "pinyin": "shuài",
+  "meaning": "หล่อ, เท่",
+  "example": "新买的车看起来很帅。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_675",
+  "chinese": "帅哥",
+  "pinyin": "shuàigē",
+  "meaning": "หนุ่มหล่อ",
+  "example": "那位帅哥正在打篮球。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_676",
+  "chinese": "率先",
+  "pinyin": "shuàixiān",
+  "meaning": "เป็นผู้นำ, นำมาก่อน",
+  "example": "我们公司率先推出了这项新服务。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_677",
+  "chinese": "睡着",
+  "pinyin": "shuìzháo",
+  "meaning": "หลับ, นอนหลับ",
+  "example": "小孩子听着故事很快就睡着了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_678",
+  "chinese": "顺序",
+  "pinyin": "shùnxù",
+  "meaning": "ลำดับ",
+  "example": "请按照正确的顺序排列表格。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_679",
+  "chinese": "说不定",
+  "pinyin": "shuōbudìng",
+  "meaning": "ไม่แน่ว่า...",
+  "example": "他今天说不定会来公司。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_680",
+  "chinese": "说服",
+  "pinyin": "shuōfú",
+  "meaning": "โน้มน้าวใจ, เกลี้ยกล่อม",
+  "example": "经过我的劝说，终于说服了他。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_681",
+  "chinese": "思考",
+  "pinyin": "sīkǎo",
+  "meaning": "ครุ่นคิด, ไตร่ตรอง",
+  "example": "面对复杂问题，我们需要深入思考。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_682",
+  "chinese": "似乎",
+  "pinyin": "sìhū",
+  "meaning": "ดูเหมือนว่า",
+  "example": "天空中似乎要下雨了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_683",
+  "chinese": "松",
+  "pinyin": "sōng",
+  "meaning": "หลวม, คลาย",
+  "example": "这条裤子有点松。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_684",
+  "chinese": "松树",
+  "pinyin": "sōngshù",
+  "meaning": "ต้นสน",
+  "example": "山坡上长满了挺拔的松树。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_685",
+  "chinese": "塑料",
+  "pinyin": "sùliào",
+  "meaning": "พลาสติก",
+  "example": "这把椅子是塑料做的。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_686",
+  "chinese": "塑料袋",
+  "pinyin": "sùliàodài",
+  "meaning": "ถุงพลาสติก",
+  "example": "为了环保，我们要少用塑料袋。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_687",
+  "chinese": "酸",
+  "pinyin": "suān",
+  "meaning": "เปรี้ยว, เมื่อย",
+  "example": "柠檬吃起来很酸。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_688",
+  "chinese": "酸奶",
+  "pinyin": "suānnǎi",
+  "meaning": "โยเกิร์ต",
+  "example": "饭后喝一杯酸奶对身体好。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_689",
+  "chinese": "随手",
+  "pinyin": "suíshǒu",
+  "meaning": "ทำตามสะดวก, หยิบฉวยทำทันที",
+  "example": "出门请随手关好灯。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_690",
+  "chinese": "孙女",
+  "pinyin": "sūnnǚ",
+  "meaning": "หลานสาว (ลูกของลูกชาย)",
+  "example": "爷爷经常给孙女讲故事。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_691",
+  "chinese": "孙子",
+  "pinyin": "sūnzi",
+  "meaning": "หลานชาย (ลูกของลูกชาย)",
+  "example": "老两口带着孙子在公园玩。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_692",
+  "chinese": "缩短",
+  "pinyin": "suōduǎn",
+  "meaning": "ย่นระยะ, ลดความสั้นลง",
+  "example": "高铁缩短了城市之间的距离。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_693",
+  "chinese": "缩小",
+  "pinyin": "suōxiǎo",
+  "meaning": "ทำให้เล็กลง",
+  "example": "我们要努力缩小差距。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_694",
+  "chinese": "台阶",
+  "pinyin": "táijiē",
+  "meaning": "ขั้นบันได",
+  "example": "他坐在门前的台阶上休息。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_695",
+  "chinese": "台上",
+  "pinyin": "táishàng",
+  "meaning": "บนเวที",
+  "example": "演员们正在台上表演精彩的节目。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_696",
+  "chinese": "躺",
+  "pinyin": "tǎng",
+  "meaning": "นอน, เอนหลัง",
+  "example": "累了一天，躺在床上很舒服。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_697",
+  "chinese": "套餐",
+  "pinyin": "tàocān",
+  "meaning": "ชุดอาหาร (เซตเมนู)",
+  "example": "我点了一份牛肉面套餐。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_698",
+  "chinese": "特价",
+  "pinyin": "tèjià",
+  "meaning": "ราคาสพิเศษ",
+  "example": "超市的苹果正在特价销售。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_699",
+  "chinese": "特殊",
+  "pinyin": "tèshū",
+  "meaning": "พิเศษ, ไม่ธรรมดา",
+  "example": "今天有特殊情况，我要晚点回去。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_700",
+  "chinese": "特征",
+  "pinyin": "tèzhēng",
+  "meaning": "ลักษณะเด่น, จุดเด่น",
+  "example": "这是江南水乡的建筑特征。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_701",
+  "chinese": "提供",
+  "pinyin": "tígōng",
+  "meaning": "จัดหาให้, ใหบริการ",
+  "example": "酒店为客人提供免费早餐。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_702",
+  "chinese": "提醒",
+  "pinyin": "tíxǐng",
+  "meaning": "เตือนความจำ, เตือนสติ",
+  "example": "谢谢你提醒我带钥匙。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_703",
+  "chinese": "体操",
+  "pinyin": "tícǎo",
+  "meaning": "ยิมนาสติก",
+  "example": "运动员们正在进行体操训练。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_704",
+  "chinese": "体检",
+  "pinyin": "tǐjiǎn",
+  "meaning": "ตรวจสุขภาพ",
+  "example": "每年公司都会组织员工体检。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_705",
+  "chinese": "体重",
+  "pinyin": "tǐzhòng",
+  "meaning": "น้ำหนักตัว",
+  "example": "最近胖了，体重增加了一公斤。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_706",
+  "chinese": "替",
+  "pinyin": "tì",
+  "meaning": "แทน, แทนที่",
+  "example": "今天我替他去开会。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_707",
+  "chinese": "替代",
+  "pinyin": "tìdài",
+  "meaning": "ทดแทน",
+  "example": "这种新材料可以替代木材。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_708",
+  "chinese": "天真",
+  "pinyin": "tiānzhēn",
+  "meaning": "ไรียงสา, ใสซื่อ",
+  "example": "小孩子的笑容非常天真可爱。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_709",
+  "chinese": "填",
+  "pinyin": "tián",
+  "meaning": "กรอก, เติม",
+  "example": "请在表格里填上你的名字。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_710",
+  "chinese": "填空",
+  "pinyin": "tiánkòng",
+  "meaning": "เติมคำในช่องว่าง",
+  "example": "请完成这道填空题。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_711",
+  "chinese": "挑",
+  "pinyin": "tiāo",
+  "meaning": "เลือก, หาบ, แหย่",
+  "example": "他在商场里挑选衣服。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_712",
+  "chinese": "挑选",
+  "pinyin": "tiāoxuǎn",
+  "meaning": "คัดเลือก, เลือกสรร",
+  "example": "我挑选了一本喜欢的小说。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_713",
+  "chinese": "调皮",
+  "pinyin": "tiáopí",
+  "meaning": "ซุกซน, ดื้อ",
+  "example": "这个小男孩非常调皮。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_714",
+  "chinese": "挑",
+  "pinyin": "tiǎo",
+  "meaning": "ท้าทาย, กระตุ้น",
+  "example": "挑起重担。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_715",
+  "chinese": "挑战",
+  "pinyin": "tiǎozhàn",
+  "meaning": "ความท้าทาย, ท้าทาย",
+  "example": "我们要勇敢接受新的挑战。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_716",
+  "chinese": "贴",
+  "pinyin": "tiē",
+  "meaning": "ติด, แปะ",
+  "example": "过年时门上贴着福字。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_717",
+  "chinese": "停下",
+  "pinyin": "tíngxia",
+  "meaning": "หยุดลง",
+  "example": "汽车在路边停下来了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_718",
+  "chinese": "挺",
+  "pinyin": "tǐng",
+  "meaning": "ค่อนข้าง..., ยืดอก",
+  "example": "这部电影挺好看的。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_719",
+  "chinese": "通知书",
+  "pinyin": "tōngzhīshū",
+  "meaning": "หนังสือแจ้ง, จดหมายแจ้ง",
+  "example": "我收到了大学录取通知书。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_720",
+  "chinese": "同情",
+  "pinyin": "tóngqíng",
+  "meaning": "เห็นอกเห็นใจ",
+  "example": "我们应该同情弱者。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_721",
+  "chinese": "童话",
+  "pinyin": "tónghuà",
+  "meaning": "นิทานเด็ก",
+  "example": "小女孩很喜欢看童话故事书。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_722",
+  "chinese": "童年",
+  "pinyin": "tóngnián",
+  "meaning": "วัยเด็ก",
+  "example": "我的童年是在乡村度过的。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_723",
+  "chinese": "统计",
+  "pinyin": "tǒngjì",
+  "meaning": "สถิติ, รวบรวมสถิติ",
+  "example": "请把这次考试的成绩统计一下。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_724",
+  "chinese": "统一",
+  "pinyin": "tǒngyī",
+  "meaning": "เป็นอันหนึ่งอันเดียวกัน, รวมเป็นหนึ่ง",
+  "example": "大家的意见终于统一了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_725",
+  "chinese": "痛快",
+  "pinyin": "tòngkuài",
+  "meaning": "สะใจ, สบายใจ, โล่งใจ",
+  "example": "这场球赛踢得真痛快！",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_726",
+  "chinese": "投",
+  "pinyin": "tóu",
+  "meaning": "โยน, ขว้าง, ลงคะแนน",
+  "example": "他把纸团投进垃圾桶。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_727",
+  "chinese": "投入",
+  "pinyin": "tōurù",
+  "meaning": "ทุ่มเท, ลงทุน",
+  "example": "他全神贯注地投入到工作中。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_728",
+  "chinese": "投诉",
+  "pinyin": "tóusù",
+  "meaning": "ร้องเรียน",
+  "example": "我对这家餐厅的服务进行了投诉。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_729",
+  "chinese": "投资",
+  "pinyin": "tóuzī",
+  "meaning": "ลงทุน, การลงทุน",
+  "example": "他在房地产领域进行了投资。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_730",
+  "chinese": "透",
+  "pinyin": "tòu",
+  "meaning": "ทะลุ, โปร่ง, เต็มที่",
+  "example": "雨水把衣服淋透了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_731",
+  "chinese": "透明",
+  "pinyin": "tòumíng",
+  "meaning": "โปร่งใส",
+  "example": "杯子里的水是透明的。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_732",
+  "chinese": "图案",
+  "pinyin": "tú'àn",
+  "meaning": "ลวดลาย",
+  "example": "这件衣服上的图案很好看。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_733",
+  "chinese": "途中",
+  "pinyin": "túzhōng",
+  "meaning": "ระหว่างทาง",
+  "example": "我们在途中休息了一会儿。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_734",
+  "chinese": "土地",
+  "pinyin": "tǔdì",
+  "meaning": "ที่ดิน, ผืนแผ่นดิน",
+  "example": "农民在土地上辛勤耕种。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_735",
+  "chinese": "推迟",
+  "pinyin": "tuīchí",
+  "meaning": "เลื่อนเวลาออกไป",
+  "example": "因为下雨，运动会推迟到下周举行。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_736",
+  "chinese": "推销",
+  "pinyin": "tuīxiāo",
+  "meaning": "ส่งเสริมการขาย, เร่ขายสินค้า",
+  "example": "他在公司负责新产品的推销工作。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_737",
+  "chinese": "脱",
+  "pinyin": "tuō",
+  "meaning": "ถอด (เสื้อผ้า/รองเท้า)",
+  "example": "进屋前请把鞋子脱下来。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_738",
+  "chinese": "袜子",
+  "pinyin": "wàzi",
+  "meaning": "ถุงเท้า",
+  "example": "穿上干净的袜子。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_739",
+  "chinese": "外汇",
+  "pinyin": "wàihuì",
+  "meaning": "เงินตราต่างประเทศ",
+  "example": "银行可以办理外汇兑换业务。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_740",
+  "chinese": "外交官",
+  "pinyin": "wàijiāoguān",
+  "meaning": "นักการทูต",
+  "example": "他是一名出色的中国外交官。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_741",
+  "chinese": "外套",
+  "pinyin": "wàitào",
+  "meaning": "เสื้อโค้ท, เสื้อคลุมนอก",
+  "example": "外面冷，快穿上外套吧。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_742",
+  "chinese": "弯",
+  "pinyin": "wān",
+  "meaning": "โค้ง, งอ",
+  "example": "这条小路弯弯曲曲的。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_743",
+  "chinese": "晚点",
+  "pinyin": "wǎndiǎn",
+  "meaning": "มาสาย, ดีเลย์ (เที่ยวบิน/รถไฟ)",
+  "example": "由于天气原因，列车晚点了半小时。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_744",
+  "chinese": "万一",
+  "pinyin": "wànyī",
+  "meaning": "เผื่อว่า, หากว่า (กรณีฉุกเฉิน)",
+  "example": "带上雨伞吧，万一下雨呢。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_745",
+  "chinese": "王",
+  "pinyin": "wáng",
+  "meaning": "ราชา, กษัตริย์",
+  "example": "古代的国王住在宫殿里。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_746",
+  "chinese": "网络",
+  "pinyin": "wǎngluò",
+  "meaning": "เครือข่าย, อินเทอร์เน็ต",
+  "example": "现代人的生活离不开网络。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_747",
+  "chinese": "网址",
+  "pinyin": "wǎngzhǐ",
+  "meaning": "เว็บไซต์, URL",
+  "example": "请把公司的官方网址发给我。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_748",
+  "chinese": "微笑",
+  "pinyin": "wēixiào",
+  "meaning": "ยิ้ม",
+  "example": "她脸上带着甜美的微笑。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_749",
+  "chinese": "微信",
+  "pinyin": "wēixìn",
+  "meaning": "วีแชท (WeChat)",
+  "example": "我们通过微信保持联系。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_750",
+  "chinese": "围巾",
+  "pinyin": "wéijīn",
+  "meaning": "ผ้าพันคอ",
+  "example": "妈妈给我织了一条漂亮的围巾。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_751",
+  "chinese": "维持",
+  "pinyin": "wéichí",
+  "meaning": "รักษาไว้, คงไว้",
+  "example": "我们要维持良好的秩序。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_752",
+  "chinese": "维护",
+  "pinyin": "wéihù",
+  "meaning": "ปกป้อง, บำรุงรักษา",
+  "example": "我们要共同维护网络安全。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_753",
+  "chinese": "维修",
+  "pinyin": "wéixiū",
+  "meaning": "ซ่อมแซมบำรุง",
+  "example": "这台机器坏了，需要找人维修。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_754",
+  "chinese": "尾巴",
+  "pinyin": "wěiba",
+  "meaning": "หาง (สัตว์)",
+  "example": "小狗高兴地摇着尾巴。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_755",
+  "chinese": "未必",
+  "pinyin": "wèibì",
+  "meaning": "ไม่แน่ว่า...",
+  "example": "这件事未必像你想的那么复杂。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_756",
+  "chinese": "未来",
+  "pinyin": "wèilái",
+  "meaning": "อนาคต",
+  "example": "我们要为美好的未来而努力。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_757",
+  "chinese": "位于",
+  "pinyin": "wèiyú",
+  "meaning": "ตั้งอยู่ที่",
+  "example": "学校位于城市的中心。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_758",
+  "chinese": "位置",
+  "pinyin": "wèizhì",
+  "meaning": "ตำแหน่ง, ที่นั่ง",
+  "example": "请对号入座，找到你的位置。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_759",
+  "chinese": "味儿",
+  "pinyin": "wèir",
+  "meaning": "กลิ่น, รสชาติ",
+  "example": "厨房里飘出一股饭菜的香味儿。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_760",
+  "chinese": "喂",
+  "pinyin": "wèi",
+  "meaning": "ให้อหาร (สัตว์/เด็ก)",
+  "example": "妈妈正在给小宝宝喂饭。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_761",
+  "chinese": "稳",
+  "pinyin": "wěn",
+  "meaning": "มั่นคง",
+  "example": "走路要走稳。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_762",
+  "chinese": "稳定",
+  "pinyin": "wěndìng",
+  "meaning": "มั่นคง (สภาพจิตใจ/เศรษฐกิจ)",
+  "example": "目前公司的工作和收入都很稳定。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_763",
+  "chinese": "问候",
+  "pinyin": "wènhòu",
+  "meaning": "ไต่ถามสารทุกข์สุกดิบ, ฝากความระลึกถึง",
+  "example": "请代我向你的父母问候。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_764",
+  "chinese": "无",
+  "pinyin": "wú",
+  "meaning": "ไม่มี",
+  "example": "遇到困难时，我们不能无所作为。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_765",
+  "chinese": "无法",
+  "pinyin": "wúfǎ",
+  "meaning": "ไม่สามารถ...",
+  "example": "因为手机没电了，我无法联系你。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_766",
+  "chinese": "无聊",
+  "pinyin": "wúliáo",
+  "meaning": "น่าเบื่อ, น่าเบื่อหน่าย",
+  "example": "下雨天在家待着真无聊。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_767",
+  "chinese": "无论",
+  "pinyin": "wúlùn",
+  "meaning": "ไม่ว่า...",
+  "example": "无论发生什么事，我都会支持你。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_768",
+  "chinese": "无数",
+  "pinyin": "wúshù",
+  "meaning": "นับไม่ถ้วน",
+  "example": "天上的星星无数。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_769",
+  "chinese": "无所谓",
+  "pinyin": "wúsuǒwèi",
+  "meaning": "ไม่เป็นไร, ยังไงก็ได้, ไม่ใส่ใจ",
+  "example": "吃什么都行，我无所谓。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_770",
+  "chinese": "无限",
+  "pinyin": "wúxiàn",
+  "meaning": "ไร้ขีดจำกัด, ไม่จำกัด",
+  "example": "年轻人有着无限的可能。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_771",
+  "chinese": "五颜六色",
+  "pinyin": "wǔyán-liùsè",
+  "meaning": "หลากสีสัน",
+  "example": "花园里开满了五颜六色的鲜花。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_772",
+  "chinese": "误会",
+  "pinyin": "wùhuì",
+  "meaning": "เข้าใจผิด",
+  "example": "这完全是一场误会，请不要放在心上。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_773",
+  "chinese": "西瓜",
+  "pinyin": "xīguā",
+  "meaning": "แตงโม",
+  "example": "夏天吃冰西瓜非常解渴。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_774",
+  "chinese": "吸",
+  "pinyin": "xī",
+  "meaning": "สูบ, ดูด",
+  "example": "植物通过根系吸取水分。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_775",
+  "chinese": "吸管",
+  "pinyin": "xīguǎn",
+  "meaning": "หลอดดูดน้ำ",
+  "example": "请用吸管喝果汁。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_776",
+  "chinese": "吸收",
+  "pinyin": "xīshōu",
+  "meaning": "ดูดซับ, ซึมซับ",
+  "example": "海绵可以吸收水分。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_777",
+  "chinese": "吸烟",
+  "pinyin": "xīyān",
+  "meaning": "สูบบุหรี่",
+  "example": "公共场所严禁吸烟。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_778",
+  "chinese": "吸引",
+  "pinyin": "xīyǐn",
+  "meaning": "ดึงดูด",
+  "example": "这部精彩的电影吸引了许多观众。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_779",
+  "chinese": "喜爱",
+  "pinyin": "xǐ'ài",
+  "meaning": "ชื่นชอบ",
+  "example": "孩子们非常喜爱小动物。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_780",
+  "chinese": "系列",
+  "pinyin": "xìliè",
+  "meaning": "ซีรีส์, ชุด...",
+  "example": "这家书店出版了一套科学系列丛书。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_781",
+  "chinese": "系统",
+  "pinyin": "xìtǒng",
+  "meaning": "ระบบ",
+  "example": "请升级电脑的操作系统。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_782",
+  "chinese": "细",
+  "pinyin": "xì",
+  "meaning": "บาง, ละเอียด",
+  "example": "这根绳子很细。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_783",
+  "chinese": "细节",
+  "pinyin": "xìjié",
+  "meaning": "รายละเอียดเล็กๆน้อยๆ",
+  "example": "成功往往取决于细节。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_784",
+  "chinese": "细致",
+  "pinyin": "xìzhì",
+  "meaning": "ละเอียดถี่ถ้วน",
+  "example": "她的工作态度非常细致。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_785",
+  "chinese": "下个月",
+  "pinyin": "xiàgèyuè",
+  "meaning": "เดือนหน้า",
+  "example": "下个月我要去上海出差。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_786",
+  "chinese": "下降",
+  "pinyin": "xiàjiàng",
+  "meaning": "ลดลง",
+  "example": "最近气温明显下降了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_787",
+  "chinese": "下楼",
+  "pinyin": "xiàlóu",
+  "meaning": "ลงจากตึก, ลงชั้นล่าง",
+  "example": "请下楼去拿快递。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_788",
+  "chinese": "下载",
+  "pinyin": "xiàzài",
+  "meaning": "ดาวน์โหลด",
+  "example": "请扫描二维码下载这个APP。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_789",
+  "chinese": "夏季",
+  "pinyin": "xiàjì",
+  "meaning": "ฤดูร้อน",
+  "example": "夏季白昼比较长。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_790",
+  "chinese": "鲜",
+  "pinyin": "xiān",
+  "meaning": "สด, อร่อยกลมกล่อม",
+  "example": "这盘鱼味道很鲜。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_791",
+  "chinese": "鲜花",
+  "pinyin": "xiānhuā",
+  "meaning": "ดอกไม้สด",
+  "example": "桌子上插着一束美丽的鲜花。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_792",
+  "chinese": "鲜明",
+  "pinyin": "xiānmíng",
+  "meaning": "เด่นชัด, ชัดเจน",
+  "example": "这两张照片形成了鲜明的对比。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_793",
+  "chinese": "咸",
+  "pinyin": "xián",
+  "meaning": "เค็ม",
+  "example": "这道汤有点咸，少放点盐。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_794",
+  "chinese": "显著",
+  "pinyin": "xiǎnzhù",
+  "meaning": "เด่นชัด, อย่างเห็นได้ชัด",
+  "example": "经过努力，他的汉语水平有了显著提高。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_795",
+  "chinese": "县",
+  "pinyin": "xiàn",
+  "meaning": "อำเภอ",
+  "example": "他出生在一个美丽的小县城。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_796",
+  "chinese": "限制",
+  "pinyin": "xiànzhì",
+  "meaning": "จำกัด",
+  "example": "公园里限制参观人数。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_797",
+  "chinese": "相处",
+  "pinyin": "xiāngchǔ",
+  "meaning": "คบหาสมาคม, อยู่ร่วมกัน",
+  "example": "我和新同事相处得很好。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_798",
+  "chinese": "相反",
+  "pinyin": "xiāngfǎn",
+  "meaning": "ตรงกันข้าม",
+  "example": "事实恰恰相反。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_799",
+  "chinese": "箱",
+  "pinyin": "xiāng",
+  "meaning": "กล่อง, หีบ, ลัง",
+  "example": "把行李装进箱子里。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_800",
+  "chinese": "箱子",
+  "pinyin": "xiāngzi",
+  "meaning": "กระเป๋าเดินทาง, กล่อง",
+  "example": "这个箱子太重了，我帮你搬。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_801",
+  "chinese": "想念",
+  "pinyin": "xiǎngniàn",
+  "meaning": "คิดถึง",
+  "example": "我很想念远方的父母。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_802",
+  "chinese": "想象",
+  "pinyin": "xiǎngxiàng",
+  "meaning": "จินตนาการ",
+  "example": "事情没有你想的那么复杂。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_803",
+  "chinese": "项",
+  "pinyin": "xiàng",
+  "meaning": "ข้อ, รายการ (ลักษณนามของงาน/โครงการ)",
+  "example": "这是一项重要的研究任务。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_804",
+  "chinese": "项目",
+  "pinyin": "xiàngmù",
+  "meaning": "โครงการ, รายการ",
+  "example": "公司正在筹备一个新的投资项目。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_805",
+  "chinese": "相片",
+  "pinyin": "xiàngpiàn",
+  "meaning": "รูปถ่าย",
+  "example": "这张相片记录了我们美好的回忆。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_806",
+  "chinese": "消化",
+  "pinyin": "xiāohuà",
+  "meaning": "ย่อย (อาหาร), ทำความเข้าใจ",
+  "example": "饭后散步有助于消化。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_807",
+  "chinese": "销售",
+  "pinyin": "xiāoshòu",
+  "meaning": "จำหน่าย, การขาย",
+  "example": "这款新产品在全国各地销售。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_808",
+  "chinese": "小吃",
+  "pinyin": "xiǎochī",
+  "meaning": "ของว่าง, อาหารว่างท้องถิ่น",
+  "example": "这条街上有各种各样的特色小吃。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_809",
+  "chinese": "小伙子",
+  "pinyin": "xiǎohuǒzi",
+  "meaning": "หนุ่มน้อย, ชายหนุ่ม",
+  "example": "这个小伙子工作非常努力。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_810",
+  "chinese": "小型",
+  "pinyin": "xiǎoxíng",
+  "meaning": "ขนาดเล็ก",
+  "example": "我们在会议室开了一个小型会议。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_811",
+  "chinese": "效率",
+  "pinyin": "xiàolǜ",
+  "meaning": "ประสิทธิภาพ",
+  "example": "采用新技术大大提高了工作效率。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_812",
+  "chinese": "些",
+  "pinyin": "xiē",
+  "meaning": "บ้าง, เล็กน้อย (มักใช้ผิดเป็นคำซ้ำในบางบริบท แต่ในที่นี้คือคำศัพท์)",
+  "example": "请给我买些水果。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_813",
+  "chinese": "心理",
+  "pinyin": "xīnlǐ",
+  "meaning": "จิตวิทยา, สภาพจิตใจ",
+  "example": "我们要关注学生的心理健康。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_814",
+  "chinese": "新郎",
+  "pinyin": "xīnláng",
+  "meaning": "เจ้าบ่าว",
+  "example": "新郎和新娘在婚礼上笑得很开心。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_815",
+  "chinese": "新娘",
+  "pinyin": "xīnniáng",
+  "meaning": "เจ้าสาว",
+  "example": "今天的婚礼上新娘穿得很漂亮。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_816",
+  "chinese": "新鲜",
+  "pinyin": "xīnxiān",
+  "meaning": "สด, แปลกใหม่",
+  "example": "这里的蔬菜非常新鲜。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_817",
+  "chinese": "新型",
+  "pinyin": "xīnxíng",
+  "meaning": "แบบใหม่, ชนิดใหม่",
+  "example": "这是一种新型的环保材料。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_818",
+  "chinese": "兴奋",
+  "pinyin": "xīngfèn",
+  "meaning": "ตื่นเต้นดีใจ",
+  "example": "听到这个好消息，大家都很兴奋。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_819",
+  "chinese": "形容",
+  "pinyin": "xíngróng",
+  "meaning": "บรรยาย, พรรณนา",
+  "example": "他的美丽简直无法用语言来形容。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_820",
+  "chinese": "形势",
+  "pinyin": "xíngshì",
+  "meaning": "สถานการณ์",
+  "example": "我们要认真分析当前的经济形势。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_821",
+  "chinese": "型",
+  "pinyin": "xíng",
+  "meaning": "แบบ, ชนิด, รูปแบบ",
+  "example": "这是一款新型手机。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_822",
+  "chinese": "型号",
+  "pinyin": "xínghào",
+  "meaning": "รุ่น, เบอร์ (สินค้า)",
+  "example": "请问这款鞋子还有我的型号吗？",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_823",
+  "chinese": "醒",
+  "pinyin": "xǐng",
+  "meaning": "ตื่น",
+  "example": "早上闹钟响了，我就醒了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_824",
+  "chinese": "兴趣",
+  "pinyin": "xìngqù",
+  "meaning": "ความสนใจ",
+  "example": "我对中国历史非常感兴趣。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_825",
+  "chinese": "性质",
+  "pinyin": "xìngzhì",
+  "meaning": "ธรรมชาติของสิ่งของ, ลักษณะเฉพาะ",
+  "example": "我们要分清事情的性质。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_826",
+  "chinese": "兄弟",
+  "pinyin": "xiōngdì",
+  "meaning": "พี่น้องชาย",
+  "example": "他们俩是亲兄弟，感情很好。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_827",
+  "chinese": "胸部",
+  "pinyin": "xiōngbù",
+  "meaning": "หน้าอก",
+  "example": "医生检查了他的胸部健康。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_828",
+  "chinese": "修理",
+  "pinyin": "xiūlǐ",
+  "meaning": "ซ่อมแซม",
+  "example": "自行车坏了，我要去修理。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_829",
+  "chinese": "选择",
+  "pinyin": "xuǎnzé",
+  "meaning": "เลือก, ตัวเลือก",
+  "example": "这是我自己的选择，我不后悔。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_830",
+  "chinese": "学分",
+  "pinyin": "xuéfēn",
+  "meaning": "หน่วยกิต",
+  "example": "毕业前必须修满规定的学分。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_831",
+  "chinese": "学年",
+  "pinyin": "xuénián",
+  "meaning": "ปีการศึกษา",
+  "example": "新学年开始了，同学们回到了学校。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_832",
+  "chinese": "学时",
+  "pinyin": "xuéshí",
+  "meaning": "ชั่วโมงเรียน",
+  "example": "这门课程总共有六十个学时。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_833",
+  "chinese": "学术",
+  "pinyin": "xuéshù",
+  "meaning": "วิชาการ",
+  "example": "他们在会上交流了学术研究成果。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_834",
+  "chinese": "学问",
+  "pinyin": "xuéwèn",
+  "meaning": "ความรู้, ภูมิความรู้",
+  "example": "生活处处皆学问。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_835",
+  "chinese": "寻找",
+  "pinyin": "xúnzhǎo",
+  "meaning": "ตามหา, ค้นหา",
+  "example": "警察正在寻找失踪的孩子。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_836",
+  "chinese": "迅速",
+  "pinyin": "xùnsù",
+  "meaning": "รวดเร็ว",
+  "example": "城市的发展非常迅速。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_837",
+  "chinese": "牙",
+  "pinyin": "yá",
+  "meaning": "ฟัน",
+  "example": "吃糖太多对牙不好。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_838",
+  "chinese": "牙刷",
+  "pinyin": "yáshuā",
+  "meaning": "แปรงสีฟัน",
+  "example": "请记得带牙刷和毛巾。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_839",
+  "chinese": "亚运会",
+  "pinyin": "Yàyùnhuì",
+  "meaning": "กีฬาเอเชียนเกมส์",
+  "example": "中国运动员在亚运会上表现出色。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_840",
+  "chinese": "呀",
+  "pinyin": "ya",
+  "meaning": "อ๊ะ, นะ (คำเสริมน้ำเสียง)",
+  "example": "小心呀！",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_841",
+  "chinese": "延长",
+  "pinyin": "yáncháng",
+  "meaning": "ขยายเวลา, ยืดออกไป",
+  "example": "图书馆的开放时间延长了一个小时。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_842",
+  "chinese": "延期",
+  "pinyin": "yánqī",
+  "meaning": "เลื่อนกำหนดเวลาออกไป",
+  "example": "会议因故延期到下周举行。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_843",
+  "chinese": "延续",
+  "pinyin": "yánxù",
+  "meaning": "สืบต่อ, ดำเนินต่อไป",
+  "example": "这种传统文化延续了数百年。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_844",
+  "chinese": "严",
+  "pinyin": "yán",
+  "meaning": "เข้มงวด, รุนแรง",
+  "example": "老师对我们的要求很严。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_845",
+  "chinese": "严格",
+  "pinyin": "yángé",
+  "meaning": "เคร่งครัด, เข้มงวด",
+  "example": "我们要严格遵守公司的规章制度。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_846",
+  "chinese": "严重",
+  "pinyin": "yánzhòng",
+  "meaning": "รุนแรง, หนักหน่วง",
+  "example": "今天路上发生了严重的堵车。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_847",
+  "chinese": "研究",
+  "pinyin": "yánjiū",
+  "meaning": "วิจัย, ศึกษาค้นคว้า",
+  "example": "专家正在研究这个问题。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_848",
+  "chinese": "研究生",
+  "pinyin": "yánjiūshēng",
+  "meaning": "นักศึกษาปริญญาโท/เอก",
+  "example": "她大学毕业后考上了研究生。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_849",
+  "chinese": "研制",
+  "pinyin": "yánzhì",
+  "meaning": "พัฒนาและวิจัยสร้างขึ้น",
+  "example": "科学家成功研制出一种新药。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_850",
+  "chinese": "盐",
+  "pinyin": "yán",
+  "meaning": "เกลือ",
+  "example": "汤里好像忘放盐了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_851",
+  "chinese": "眼镜",
+  "pinyin": "yǎnjìng",
+  "meaning": "แว่นตา",
+  "example": "看书时请戴上眼镜。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_852",
+  "chinese": "眼泪",
+  "pinyin": "yǎnlèi",
+  "meaning": "หยาดน้ำตา",
+  "example": "她感动得流下了眼泪。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_853",
+  "chinese": "眼里",
+  "pinyin": "yǎnli",
+  "meaning": "ในสายตา",
+  "example": "他在父母眼里永远是个孩子。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_854",
+  "chinese": "演讲",
+  "pinyin": "yǎnjiǎng",
+  "meaning": "การกล่าวสุนทรพจน์, ปาฐกถา",
+  "example": "校长在会上发表了精彩的演讲。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_855",
+  "chinese": "阳台",
+  "pinyin": "yángtái",
+  "meaning": "ระเบียง",
+  "example": "阳台上晾着洗好的衣服。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_856",
+  "chinese": "养成",
+  "pinyin": "yǎngchéng",
+  "meaning": "สร้าง (นิสัย/ความเคยชิน)",
+  "example": "我们要养成早睡早起的好习惯。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_857",
+  "chinese": "腰",
+  "pinyin": "yāo",
+  "meaning": "เอว",
+  "example": "搬重物时要小心，别扭伤了腰。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_858",
+  "chinese": "摇",
+  "pinyin": "yáo",
+  "meaning": "แกว่ง, ส่าย, โยก",
+  "example": "小树在风中轻轻摇晃。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_859",
+  "chinese": "药物",
+  "pinyin": "yàowù",
+  "meaning": "ยา, เวชภัณฑ์",
+  "example": "这种药物对治疗感冒很有效。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_860",
+  "chinese": "要",
+  "pinyin": "yào",
+  "meaning": "ถ้าหากว่า (คำเชื่อม)",
+  "example": "要不是你帮忙，我很难完成任务。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_861",
+  "chinese": "业余",
+  "pinyin": "yèyú",
+  "meaning": "ยามว่าง, อดิเรก",
+  "example": "我的业余爱好是听音乐和看书。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_862",
+  "chinese": "叶子",
+  "pinyin": "yèzi",
+  "meaning": "ใบไม้",
+  "example": "秋天到了，树上的叶子变黄了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_863",
+  "chinese": "医疗",
+  "pinyin": "yīliáo",
+  "meaning": "การแพทย์, การรักษาพยาบาล",
+  "example": "政府提高了居民的医疗保障水平。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_864",
+  "chinese": "医学",
+  "pinyin": "yīxué",
+  "meaning": "แพทยศาสตร์",
+  "example": "他在大学里攻读医学专业。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_865",
+  "chinese": "依靠",
+  "pinyin": "yīkào",
+  "meaning": "พึ่งพา, พึ่งพิง",
+  "example": "成功要依靠自己的努力。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_866",
+  "chinese": "依然",
+  "pinyin": "yīrán",
+  "meaning": "ยังคง...",
+  "example": "虽然多年不见，他依然像以前一样年轻。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_867",
+  "chinese": "一律",
+  "pinyin": "yīlǜ",
+  "meaning": "เหมือนกันหมด, ทั้งหมดโดยไม่มีข้อยกเว้น",
+  "example": "进入图书馆，一律保持安静。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_868",
+  "chinese": "一再",
+  "pinyin": "yízài",
+  "meaning": "ซ้ำแล้วซ้ำเล่า, หลายครั้งหลายหน",
+  "example": "我一再提醒你注意安全。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_869",
+  "chinese": "一致",
+  "pinyin": "yízhì",
+  "meaning": "เป็นเอกฉันท์, ตรงกัน",
+  "example": "大家的意见终于达成了一致。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_870",
+  "chinese": "移",
+  "pinyin": "yí",
+  "meaning": "เคลื่อนย้าย",
+  "example": "请把桌子往旁边移一下。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_871",
+  "chinese": "移动",
+  "pinyin": "yídòng",
+  "meaning": "เคลื่อนย้าย, มือถือ",
+  "example": "请不要随意移动桌子上的文件。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_872",
+  "chinese": "移民",
+  "pinyin": "yímín",
+  "meaning": "ผู้อพยพ, ย้ายถิ่นฐาน",
+  "example": "他几年前移民到了国外。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_873",
+  "chinese": "遗产",
+  "pinyin": "yíchǎn",
+  "meaning": "มรดก, มรดกทางวัฒนธรรม",
+  "example": "长城是世界文化遗产。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_874",
+  "chinese": "遗传",
+  "pinyin": "yíchuán",
+  "meaning": "การถ่ายทอดทางพันธุกรรม",
+  "example": "这种病具有一定的遗传性。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_875",
+  "chinese": "疑问",
+  "pinyin": "yíwèn",
+  "meaning": "ข้อสงสัย",
+  "example": "如果你有什么疑问，可以举手提问。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_876",
+  "chinese": "以及",
+  "pinyin": "yǐjí",
+  "meaning": "และ, รวมถึง...",
+  "example": "这次旅行包括机票、酒店以及门票。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_877",
+  "chinese": "以内",
+  "pinyin": "yǐnèi",
+  "meaning": "ภายใน (ระยะเวลา/ระยะทาง)",
+  "example": "请在三天以内完成这项任务。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_878",
+  "chinese": "一般来说",
+  "pinyin": "yībān láishuō",
+  "meaning": "โดยทั่วไปแล้ว",
+  "example": "一般来说，春天天气比较暖和。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_879",
+  "chinese": "义务",
+  "pinyin": "yìwù",
+  "meaning": "หน้าที่, ภาระผูกพัน",
+  "example": "接受教育是每个公民的义务。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_880",
+  "chinese": "议论",
+  "pinyin": "yìlùn",
+  "meaning": "วิพากษ์วิจารณ์, ถกกัน",
+  "example": "这件事引起了大家的广泛议论。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_881",
+  "chinese": "引",
+  "pinyin": "yǐn",
+  "meaning": "ดึงดูด, อ้างอิง",
+  "example": "引人注目。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_882",
+  "chinese": "引导",
+  "pinyin": "yǐndǎo",
+  "meaning": "ชี้นำ, ชี้แนะ",
+  "example": "老师引导学生独立思考问题。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_883",
+  "chinese": "引进",
+  "pinyin": "yǐnjìn",
+  "meaning": "นำเข้า (เทคโนโลยี/ทุน)",
+  "example": "公司引进了一套先进的设备。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_884",
+  "chinese": "引起",
+  "pinyin": "yǐnqǐ",
+  "meaning": "ก่อให้เกิด, 1. ทำให้เกิด",
+  "example": "这个问题引起了经理的高度重视。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_885",
+  "chinese": "应",
+  "pinyin": "yīng",
+  "meaning": "ควรจะ, รับปาก",
+  "example": "我们应遵守交通规则。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_886",
+  "chinese": "英勇",
+  "pinyin": "yīngyǒng",
+  "meaning": "กล้าหาญชาญชัย",
+  "example": "战士们英勇地保卫了祖国。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_887",
+  "chinese": "营业",
+  "pinyin": "yíngyè",
+  "meaning": "เปิดทำการ, เปิดกิจการ",
+  "example": "这家商场早上九点开始营业。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_888",
+  "chinese": "赢得",
+  "pinyin": "yíngdé",
+  "meaning": "ได้รับ (ความไว้วางใจ/ชัยชนะ)",
+  "example": "他的出色表现赢得了大家的赞赏。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_889",
+  "chinese": "影子",
+  "pinyin": "yǐngzi",
+  "meaning": "เงา",
+  "example": "路灯下拖着长长的影子。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_890",
+  "chinese": "勇敢",
+  "pinyin": "yǒnggǎn",
+  "meaning": "กล้าหาญ",
+  "example": "我们要勇敢面对生活中的困难。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_891",
+  "chinese": "勇气",
+  "pinyin": "yǒngqì",
+  "meaning": "ความกล้าหาญ",
+  "example": "他鼓起勇气承认了自己的错误。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_892",
+  "chinese": "用途",
+  "pinyin": "yòngtú",
+  "meaning": "การใช้งาน, ประโยชน์ใช้สอย",
+  "example": "这种新材料有很多用途。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_893",
+  "chinese": "优良",
+  "pinyin": "yōuliáng",
+  "meaning": "ดีเยี่ยม",
+  "example": "这所学校有着优良的传统。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_894",
+  "chinese": "优美",
+  "pinyin": "yōuměi",
+  "meaning": "งดงาม, ไพเราะ",
+  "example": "公园里的环境非常优美。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_895",
+  "chinese": "优秀",
+  "pinyin": "yōuxiù",
+  "meaning": "ยอดเยี่ยม, ดีเด่น",
+  "example": "他是一名优秀的汉语教师。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_896",
+  "chinese": "邮局",
+  "pinyin": "yóujú",
+  "meaning": "ที่ทำการไปรษณีย์",
+  "example": "我想去邮局寄一封信。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_897",
+  "chinese": "有劲儿",
+  "pinyin": "yǒujìnr",
+  "meaning": "มีแรง, มีชีวิตชีวา",
+  "example": "休息了一晚上，今天感觉很有劲儿。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_898",
+  "chinese": "有趣",
+  "pinyin": "yǒuqù",
+  "meaning": "น่าสนใจ, สนุกสนาน",
+  "example": "这是一本非常有趣的故事书。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_899",
+  "chinese": "有限",
+  "pinyin": "yǒuxiàn",
+  "meaning": "มีจำกัด",
+  "example": "个人的时间和精力是有限的。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_900",
+  "chinese": "幼儿园",
+  "pinyin": "yòu'éryuán",
+  "meaning": "โรงเรียนอนุบาล",
+  "example": "小弟弟每天去幼儿园上学。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_901",
+  "chinese": "于是",
+  "pinyin": "yúshì",
+  "meaning": "ดังนั้น, จึง...",
+  "example": "天黑了，于是我们决定回家。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_902",
+  "chinese": "语法",
+  "pinyin": "yǔfǎ",
+  "meaning": "ไวยากรณ์",
+  "example": "学习汉语语法非常重要。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_903",
+  "chinese": "语音",
+  "pinyin": "yǔyīn",
+  "meaning": "ระบบเสียง, การออกเสียง",
+  "example": "他的汉语语音很标准。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_904",
+  "chinese": "玉",
+  "pinyin": "yù",
+  "meaning": "หยก",
+  "example": "这块玉手镯非常漂亮。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_905",
+  "chinese": "玉米",
+  "pinyin": "yùmǐ",
+  "meaning": "ข้าวโพด",
+  "example": "煮玉米吃起来很甜。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_906",
+  "chinese": "预测",
+  "pinyin": "yùcè",
+  "meaning": "คาดการณ์",
+  "example": "专家预测明年的经济会继续增长。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_907",
+  "chinese": "预订",
+  "pinyin": "yùdìng",
+  "meaning": "จองล่วงหน้า",
+  "example": "我已经在网上预订了酒店房间。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_908",
+  "chinese": "遇",
+  "pinyin": "yù",
+  "meaning": "พบเจอ",
+  "example": "遇到困难不要退缩。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_909",
+  "chinese": "遇到",
+  "pinyin": "yùdào",
+  "meaning": "พบเจอ, ประสบ",
+  "example": "我在路上遇到了老朋友。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_910",
+  "chinese": "遇见",
+  "pinyin": "yùjiàn",
+  "meaning": "พบเจอ",
+  "example": "很高兴在这里遇见你。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_911",
+  "chinese": "原料",
+  "pinyin": "yuánliào",
+  "meaning": "วัตถุดิบ",
+  "example": "这道菜的原料非常新鲜。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_912",
+  "chinese": "原则",
+  "pinyin": "yuánzé",
+  "meaning": "หลักการ",
+  "example": "做人做事要有自己的原则。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_913",
+  "chinese": "圆",
+  "pinyin": "yuán",
+  "meaning": "กลม",
+  "example": "十五的月亮圆圆的。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_914",
+  "chinese": "圆满",
+  "pinyin": "yuánmǎn",
+  "meaning": "สมบูรณ์แบบ, ลุล่วงด้วยดี",
+  "example": "演出取得了圆满成功。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_915",
+  "chinese": "约会",
+  "pinyin": "yuēhuì",
+  "meaning": "นัดเดท, นัดหมาย",
+  "example": "今晚我和朋友有一个约会。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_916",
+  "chinese": "月底",
+  "pinyin": "yuèdǐ",
+  "meaning": "สิ้นเดือน",
+  "example": "这个月底我要去外地出差。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_917",
+  "chinese": "阅读",
+  "pinyin": "yuèdú",
+  "meaning": "การอ่าน",
+  "example": "课外阅读可以扩大知识面。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_918",
+  "chinese": "运动会",
+  "pinyin": "yùndònghuì",
+  "meaning": "การแข่งขันกีฬา",
+  "example": "每年秋天学校都会举行运动会。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_919",
+  "chinese": "运动员",
+  "pinyin": "yùndòngyuán",
+  "meaning": "นักกีฬา",
+  "example": "中国运动员在赛场上拼搏。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_920",
+  "chinese": "运气",
+  "pinyin": "yùnqi",
+  "meaning": "โชค, ดวง",
+  "example": "今天我的运气真不错，中奖了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_921",
+  "chinese": "运用",
+  "pinyin": "yùnyòng",
+  "meaning": "ประยุกต์ใช้, นำมาใช้",
+  "example": "我们要灵活运用学到的知识。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_922",
+  "chinese": "再三",
+  "pinyin": "zàisān",
+  "meaning": "ซ้ำแล้วซ้ำเล่า, หลายหน",
+  "example": "我再三考虑后，终于作出了决定。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_923",
+  "chinese": "在乎",
+  "pinyin": "zàihu",
+  "meaning": "ใส่ใจ, แคร์",
+  "example": "他不太在乎别人的看法。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_924",
+  "chinese": "在于",
+  "pinyin": "zàiyú",
+  "meaning": "ขึ้นอยู่กับ...",
+  "example": "问题的关键在于我们怎么做。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_925",
+  "chinese": "赞成",
+  "pinyin": "zànchéng",
+  "meaning": "เห็นชอบ, เห็นด้วย",
+  "example": "大家一致赞成这个提议。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_926",
+  "chinese": "赞赏",
+  "pinyin": "zànshǎng",
+  "meaning": "ชื่นชม, ยกย่อง",
+  "example": "经理对他的工作能力表示赞赏。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_927",
+  "chinese": "赞助",
+  "pinyin": "zànzhù",
+  "meaning": "สนับสนุน (เงิน/สิ่งของ)",
+  "example": "这家企业赞助了这次活动。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_928",
+  "chinese": "造型",
+  "pinyin": "zàoxíng",
+  "meaning": "รูปร่างหน้าตา, สไตล์การออกแบบ",
+  "example": "这座建筑的造型非常独特。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_929",
+  "chinese": "战斗",
+  "pinyin": "zhàndòu",
+  "meaning": "การต่อสู้, รบ",
+  "example": "战士们在战场上英勇战斗。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_930",
+  "chinese": "战胜",
+  "pinyin": "zhànshèng",
+  "meaning": "เอาชนะ",
+  "example": "只要努力，我们就能战胜困难。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_931",
+  "chinese": "战士",
+  "pinyin": "zhànshì",
+  "meaning": "ทหาร, นักรบ",
+  "example": "年轻的战士们坚守在岗位上。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_932",
+  "chinese": "战争",
+  "pinyin": "zhànzhēng",
+  "meaning": "สงคราม",
+  "example": "我们要珍爱和平，反对战争。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_933",
+  "chinese": "丈夫",
+  "pinyin": "zhàngfu",
+  "meaning": "สามี",
+  "example": "她的丈夫是一名优秀的工程师。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_934",
+  "chinese": "招呼",
+  "pinyin": "zhāohu",
+  "meaning": "ทักทาย, ส่งเสียงทัก",
+  "example": "他见到我热情地打了个招呼。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_935",
+  "chinese": "着",
+  "pinyin": "zháo",
+  "meaning": "สำเร็จ (กริยาวิเศษณ์เสริม)",
+  "example": "找着了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_936",
+  "chinese": "着火",
+  "pinyin": "zháohuǒ",
+  "meaning": "ไฟไหม้",
+  "example": "厨房里不小心着火了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_937",
+  "chinese": "着急",
+  "pinyin": "zháojí",
+  "meaning": "ร้อนใจ, รีบร้อน",
+  "example": "别着急，慢慢来，我会帮你的。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_938",
+  "chinese": "召开",
+  "pinyin": "zhàokāi",
+  "meaning": "จัดประชุม",
+  "example": "公司将于明天召开全体员工大会。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_939",
+  "chinese": "折",
+  "pinyin": "zhé",
+  "meaning": "พับ, หัก",
+  "example": "请把纸对折。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_940",
+  "chinese": "针",
+  "pinyin": "zhēn",
+  "meaning": "เข็ม",
+  "example": "缝衣服需要用针和线。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_941",
+  "chinese": "针对",
+  "pinyin": "zhēnduì",
+  "meaning": "มุ่งเน้นไปที่, เจาะจง",
+  "example": "这项政策是针对年轻人制定的。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_942",
+  "chinese": "阵",
+  "pinyin": "zhèn",
+  "meaning": "ช่วงเวลาสั้นๆ, ระลอก",
+  "example": "外面下了一阵大雨。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_943",
+  "chinese": "争论",
+  "pinyin": "zhēnglùn",
+  "meaning": "โต้เถียง, ถกเถียง",
+  "example": "大家为了这个方案争论不休。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_944",
+  "chinese": "征服",
+  "pinyin": "zhēngfú",
+  "meaning": "พิชิต",
+  "example": "登山队员成功征服了这座高山。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_945",
+  "chinese": "征求",
+  "pinyin": "zhēngqiú",
+  "meaning": "1. ขอความคิดเห็น, สอบถาม",
+  "example": "经理征求大家的意见。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_946",
+  "chinese": "政府",
+  "pinyin": "zhèngfǔ",
+  "meaning": "รัฐบาล",
+  "example": "政府采取了新措施改善环境。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_947",
+  "chinese": "政治",
+  "pinyin": "zhèngzhì",
+  "meaning": "การเมือง",
+  "example": "他对国际政治很感兴趣。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_948",
+  "chinese": "之后",
+  "pinyin": "zhīhòu",
+  "meaning": "หลังจาก",
+  "example": "放学之后我去图书馆看书。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_949",
+  "chinese": "之间",
+  "pinyin": "zhījiān",
+  "meaning": "ระหว่าง",
+  "example": "他们俩之间的关系很好。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_950",
+  "chinese": "之前",
+  "pinyin": "zhīqián",
+  "meaning": "ก่อนหน้านี้",
+  "example": "见面之前请先电话联系。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_951",
+  "chinese": "之一",
+  "pinyin": "zhīyī",
+  "meaning": "หนึ่งใน...",
+  "example": "长城是世界闻名的名胜古迹之一。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_952",
+  "chinese": "支",
+  "pinyin": "zhī",
+  "meaning": "ค้ำ, (ลักษณนามของแท่ง/ด้าม)",
+  "example": "我买了一支铅笔。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_953",
+  "chinese": "植物",
+  "pinyin": "zhíwù",
+  "meaning": "พืช",
+  "example": "房间里摆放着许多绿色植物。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_954",
+  "chinese": "指挥",
+  "pinyin": "zhǐhuī",
+  "meaning": "บัญชาการ, ควบคุม, วาทยกร",
+  "example": "他在乐队里担任指挥。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_955",
+  "chinese": "制订",
+  "pinyin": "zhìdìng",
+  "meaning": "ร่างขึ้น, กำหนด (แผนการ)",
+  "example": "公司制订了新的发展计划。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_956",
+  "chinese": "质量",
+  "pinyin": "zhìliàng",
+  "meaning": "คุณภาพ",
+  "example": "这家商店的商品质量很好。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_957",
+  "chinese": "治",
+  "pinyin": "zhì",
+  "meaning": "รักษา (โรค)",
+  "example": "医生正在为病人治病。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_958",
+  "chinese": "治疗",
+  "pinyin": "zhìliáo",
+  "meaning": "การรักษาพยาบาล",
+  "example": "经过一段时间的治疗，他已经康复了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_959",
+  "chinese": "智力",
+  "pinyin": "zhìlì",
+  "meaning": "สติปัญญา",
+  "example": "益智游戏可以锻炼小孩子的智力。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_960",
+  "chinese": "智能",
+  "pinyin": "zhìnéng",
+  "meaning": "อัจฉริยะ (Smart)",
+  "example": "现在很多人都在使用智能手机。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_961",
+  "chinese": "中介",
+  "pinyin": "zhōngjiè",
+  "meaning": "คนกลาง, นายหน้า",
+  "example": "我们通过房屋中介租了一套公寓。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_962",
+  "chinese": "种类",
+  "pinyin": "zhǒnglèi",
+  "meaning": "ประเภท, ชนิด",
+  "example": "超市里的商品种类非常丰富。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_963",
+  "chinese": "中奖",
+  "pinyin": "zhòngjiǎng",
+  "meaning": "ถูกรางวัล",
+  "example": "买彩票居然中奖了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_964",
+  "chinese": "种",
+  "pinyin": "zhòng",
+  "meaning": "ปลูก",
+  "example": "春天我们在院子里种了一些花。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_965",
+  "chinese": "种植",
+  "pinyin": "zhòngzhí",
+  "meaning": "เพาะปลูก",
+  "example": "农民在田里种植水稻。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_966",
+  "chinese": "重量",
+  "pinyin": "zhòngliàng",
+  "meaning": "น้ำหนัก",
+  "example": "请称一下这个包裹的重量。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_967",
+  "chinese": "逐步",
+  "pinyin": "zhúbù",
+  "meaning": "ทีละขั้นตอน, ทีละน้อย",
+  "example": "公司的业务正在逐步扩大。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_968",
+  "chinese": "逐渐",
+  "pinyin": "zhújiàn",
+  "meaning": "ค่อยๆ...",
+  "example": "天气逐渐变暖和了。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_969",
+  "chinese": "主题",
+  "pinyin": "zhǔtí",
+  "meaning": "หัวข้อหลัก, ธีม",
+  "example": "这次会议的主题是环境保护。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_970",
+  "chinese": "主席",
+  "pinyin": "zhǔxí",
+  "meaning": "ประธาน",
+  "example": "他在会上被选为会议主席。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_971",
+  "chinese": "祝福",
+  "pinyin": "zhùfú",
+  "meaning": "อวยพร, คำอวยพร",
+  "example": "祝你生日快乐，送上我最真诚的祝福。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_972",
+  "chinese": "著名",
+  "pinyin": "zhùmíng",
+  "meaning": "มีชื่อเสียง, 1. โด่งดัง",
+  "example": "长城是中国的著名景点。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_973",
+  "chinese": "著作",
+  "pinyin": "zhùzuò",
+  "meaning": "ผลงานประพันธ์, งานเขียน",
+  "example": "这位教授发表了许多学术著作。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_974",
+  "chinese": "抓紧",
+  "pinyin": "zhuājǐn",
+  "meaning": "ฉวยโอกาส, รีบเร่งทำ, คว้าไว้แน่น",
+  "example": "请抓紧时间完成作业。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_975",
+  "chinese": "专心",
+  "pinyin": "zhuānxīn",
+  "meaning": "ตั้งใจ, จดจ่อ",
+  "example": "上课时要专心听讲。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_976",
+  "chinese": "转动",
+  "pinyin": "zhuǎndòng",
+  "meaning": "หมุน, หัน",
+  "example": "他转动着手里的笔。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_977",
+  "chinese": "转告",
+  "pinyin": "zhuǎngào",
+  "meaning": "ฝากบอกต่อ, แจ้งต่อ",
+  "example": "请帮我把这个消息转告给他。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_978",
+  "chinese": "转身",
+  "pinyin": "zhuǎnshēn",
+  "meaning": "หันตัวกลับ",
+  "example": "他听到有人叫他，立刻转身看了看。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_979",
+  "chinese": "转弯",
+  "pinyin": "zhuǎnwān",
+  "meaning": "เลี้ยวโค้ง",
+  "example": "在前面路口右转弯。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_980",
+  "chinese": "转移",
+  "pinyin": "zhuǎnyí",
+  "meaning": "ย้าย, โยกย้าย",
+  "example": "人们迅速转移到了安全地带。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_981",
+  "chinese": "装修",
+  "pinyin": "zhuāngxiū",
+  "meaning": "ตกแต่งภายใน (บ้าน/อาคาร)",
+  "example": "他们买的新房子正在装修。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_982",
+  "chinese": "装置",
+  "pinyin": "zhuāngzhì",
+  "meaning": "อุปกรณ์, การติดตั้ง",
+  "example": "机器上安装了一个安全装置。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_983",
+  "chinese": "追求",
+  "pinyin": "zhuīqiú",
+  "meaning": "ใฝ่หา, ตามหา, แสวงหา",
+  "example": "年轻人要勇于追求自己的梦想。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_984",
+  "chinese": "准时",
+  "pinyin": "zhǔnshí",
+  "meaning": "ตรงเวลา",
+  "example": "请大家明天早上准时来开会。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_985",
+  "chinese": "资料",
+  "pinyin": "zīliào",
+  "meaning": "ข้อมูล, เอกสาร",
+  "example": "请把这些资料复印一份。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_986",
+  "chinese": "资源",
+  "pinyin": "zīyuán",
+  "meaning": "ทรัพยากร",
+  "example": "我们要合理开发和利用自然资源。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_987",
+  "chinese": "自",
+  "pinyin": "zì",
+  "meaning": "จาก (ภาษาเขียน)",
+  "example": "自古以来。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_988",
+  "chinese": "自信",
+  "pinyin": "zìxìn",
+  "meaning": "มีความมั่นใจในตัวเอง",
+  "example": "面试时要表现得自信大方。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_989",
+  "chinese": "字母",
+  "pinyin": "zìmǔ",
+  "meaning": "ตัวอักษร (A-Z)",
+  "example": "汉语拼音一共有二十六个字母。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_990",
+  "chinese": "综合",
+  "pinyin": "zōnghé",
+  "meaning": "ผสมผสาน, รวมกัน",
+  "example": "这是一篇综合性报道。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_991",
+  "chinese": "总共",
+  "pinyin": "zǒnggòng",
+  "meaning": "ทั้งหมด (รวมกัน)",
+  "example": "这次旅行总共花了五千元。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_992",
+  "chinese": "总理",
+  "pinyin": "zǒnglǐ",
+  "meaning": "นายกรัฐมนตรี",
+  "example": "总理发表了重要讲话。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_993",
+  "chinese": "总统",
+  "pinyin": "zǒngtǒng",
+  "meaning": "ประธานาธิบดี",
+  "example": "两国总统进行了亲切的会谈。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_994",
+  "chinese": "总之",
+  "pinyin": "zǒngzhī",
+  "meaning": "กล่าวโดยสรุป, สรุปคือ",
+  "example": "总之，这次活动取得了圆满成功。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_995",
+  "chinese": "阻止",
+  "pinyin": "zǔzhǐ",
+  "meaning": "ขัดขวาง, ยับยั้ง",
+  "example": "我们必须采取措施阻止污染继续扩大。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_996",
+  "chinese": "嘴巴",
+  "pinyin": "zuǐba",
+  "meaning": "ปาก",
+  "example": "小孩子吃东西时嘴巴鼓鼓的。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_997",
+  "chinese": "最初",
+  "pinyin": "zuìchū",
+  "meaning": "ตอนเริ่มต้น, แต่แรก",
+  "example": "这只是最初的想法，还要修改。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_998",
+  "chinese": "作出",
+  "pinyin": "zuòchū",
+  "meaning": "ตัดสินใจ, ทำออกมา (เช่น การตัดสินใจ/ข้อเสนอ)",
+  "example": "公司作出了一个重要的决定。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_999",
+  "chinese": "作为",
+  "pinyin": "zuòwéi",
+  "meaning": "ในฐานะที่เป็น...",
+  "example": "作为一名学生，我们要好好学习。",
+  "level": "HSK 4",
+  "mastered": false
+ },
+ {
+  "id": "h4_1000",
+  "chinese": "做梦",
+  "pinyin": "zuòmèng",
+  "meaning": "นอนฝัน",
+  "example": "昨晚我做了一个美梦。",
+  "level": "HSK 4",
+  "mastered": false
+ }
+]

@@ -1,0 +1,6950 @@
+[
+ {
+  "id": "h2_001",
+  "chinese": "啊",
+  "pinyin": "a",
+  "meaning": "อา (คำอุทาน/คำเสริม)",
+  "example": "啊，好美啊！",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_002",
+  "chinese": "爱情",
+  "pinyin": "àiqíng",
+  "meaning": "ความรัก (เชิงชู้สาว)",
+  "example": "他们之间的爱情很感人。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_003",
+  "chinese": "爱人",
+  "pinyin": "àiren",
+  "meaning": "สามี, ภรรยา, คนรัก",
+  "example": "这是我的爱人。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_004",
+  "chinese": "安静",
+  "pinyin": "ānjìng",
+  "meaning": "เงียบสงบ",
+  "example": "图书馆里请安静。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_005",
+  "chinese": "安全",
+  "pinyin": "ānquán",
+  "meaning": "ปลอดภัย, ความปลอดภัย",
+  "example": "祝你一路平安，注意安全。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_006",
+  "chinese": "白色",
+  "pinyin": "báisè",
+  "meaning": "สีขาว",
+  "example": "我喜欢白色。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_007",
+  "chinese": "班长",
+  "pinyin": "bānzhăng",
+  "meaning": "หัวหน้าห้อง",
+  "example": "他是我们的班长。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_008",
+  "chinese": "办",
+  "pinyin": "bàn",
+  "meaning": "จัดการ, ทำ",
+  "example": "这件事很难办。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_009",
+  "chinese": "办法",
+  "pinyin": "bànfǎ",
+  "meaning": "วิธี, วิธีการ",
+  "example": "你有什么好办法吗？",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_010",
+  "chinese": "办公室",
+  "pinyin": "bàngōngshì",
+  "meaning": "สำนักงาน, ห้องทำงาน",
+  "example": "老师在办公室。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_011",
+  "chinese": "半夜",
+  "pinyin": "bànyè",
+  "meaning": "กลางดึก",
+  "example": "他半夜才回家。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_012",
+  "chinese": "帮助",
+  "pinyin": "bāngzhù",
+  "meaning": "ช่วยเหลือ, ความช่วยเหลือ",
+  "example": "谢谢你的帮助。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_013",
+  "chinese": "饱",
+  "pinyin": "bǎo",
+  "meaning": "อิ่ม",
+  "example": "我吃饱了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_014",
+  "chinese": "报名",
+  "pinyin": "bào//míng",
+  "meaning": "สมัคร, ลงชื่อ",
+  "example": "我要报名参加比赛。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_015",
+  "chinese": "报纸",
+  "pinyin": "bàozhī",
+  "meaning": "หนังสือพิมพ์",
+  "example": "爷爷每天都看报纸。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_016",
+  "chinese": "北方",
+  "pinyin": "běifāng",
+  "meaning": "ทางเหนือ, ภาคเหนือ",
+  "example": "我住在中国北方。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_017",
+  "chinese": "背",
+  "pinyin": "bèi",
+  "meaning": "แบก, ท่องจำ",
+  "example": "他背着一个书包。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_018",
+  "chinese": "比如",
+  "pinyin": "bǐrú",
+  "meaning": "ตัวอย่างเช่น",
+  "example": "有很多水果，比如苹果和香蕉。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_019",
+  "chinese": "比如说",
+  "pinyin": "bǐrú shuō",
+  "meaning": "พูดง่ายๆ เช่น",
+  "example": "比如说，你可以这样做。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_020",
+  "chinese": "笔",
+  "pinyin": "bǐ",
+  "meaning": "ปากกา, ดินสอ",
+  "example": "请给我一支笔。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_021",
+  "chinese": "笔记",
+  "pinyin": "bǐjì",
+  "meaning": "บันทึก, โน้ต",
+  "example": "请做好课堂笔记。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_022",
+  "chinese": "笔记本",
+  "pinyin": "bǐjìběn",
+  "meaning": "สมุดบันทึก, คอมพิวเตอร์โน้ตบุ๊ก",
+  "example": "我买了一个新笔记本。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_023",
+  "chinese": "必须",
+  "pinyin": "bìxū",
+  "meaning": "ต้อง, จำเป็นต้อง",
+  "example": "你必须去医院看病。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_024",
+  "chinese": "边",
+  "pinyin": "biān",
+  "meaning": "ด้าน, ข้าง",
+  "example": "河边有很多树。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_025",
+  "chinese": "变",
+  "pinyin": "biàn",
+  "meaning": "เปลี่ยน, กลายเป็น",
+  "example": "天气变冷了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_026",
+  "chinese": "变成",
+  "pinyin": "biànchéng",
+  "meaning": "เปลี่ยนเป็น",
+  "example": "水变成了冰。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_027",
+  "chinese": "遍",
+  "pinyin": "biàn",
+  "meaning": "รอบ, เที่ยว (ลักษณนาม)",
+  "example": "请再说一遍。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_028",
+  "chinese": "表",
+  "pinyin": "biǎo",
+  "meaning": "นาฬิกา (ข้อมือ), ตาราง",
+  "example": "我的表快了五分钟。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_029",
+  "chinese": "表示",
+  "pinyin": "biǎoshì",
+  "meaning": "แสดงถึง, แสดงความรู้สึก",
+  "example": "他点头表示同意。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_030",
+  "chinese": "不错",
+  "pinyin": "búcuò",
+  "meaning": "ไม่เลว, ดีทีเดียว",
+  "example": "这家餐厅的菜味道不错。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_031",
+  "chinese": "不但",
+  "pinyin": "búdàn",
+  "meaning": "ไม่เพียงแต่",
+  "example": "他不但会说汉语，还会说英语。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_032",
+  "chinese": "不够",
+  "pinyin": "búgòu",
+  "meaning": "ไม่พอ",
+  "example": "钱不够，我们再想想办法。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_033",
+  "chinese": "不过",
+  "pinyin": "búguò",
+  "meaning": "แต่ทว่า, เพียงแต่",
+  "example": "这个包很好看，不过有点贵。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_034",
+  "chinese": "不太",
+  "pinyin": "bú tài",
+  "meaning": "ไม่ค่อย...",
+  "example": "今天天气不太冷。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_035",
+  "chinese": "不要",
+  "pinyin": "búyào",
+  "meaning": "อย่า, ไม่ต้องการ",
+  "example": "不要在路上玩手机。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_036",
+  "chinese": "不好意思",
+  "pinyin": "bù hǎoyìsi",
+  "meaning": "ขอโทษ, เขินอาย",
+  "example": "不好意思，我来晚了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_037",
+  "chinese": "不久",
+  "pinyin": "bùjiǔ",
+  "meaning": "อีกไม่นาน, ไม่นานมานี้",
+  "example": "不久他就会回来。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_038",
+  "chinese": "不满",
+  "pinyin": "bùmǎn",
+  "meaning": "ไม่พอใจ",
+  "example": "他对这个结果很不满。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_039",
+  "chinese": "不如",
+  "pinyin": "bùrú",
+  "meaning": "สู้...ไม่ได้, ไม่เท่ากับ",
+  "example": "坐高铁不如坐飞机快。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_040",
+  "chinese": "不少",
+  "pinyin": "bù shǎo",
+  "meaning": "ไม่น้อย, ค่อนข้างมาก",
+  "example": "公园里有不少人。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_041",
+  "chinese": "不同",
+  "pinyin": "bù tóng",
+  "meaning": "แตกต่าง, ไม่เหมือนกัน",
+  "example": "我们有不同的看法。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_042",
+  "chinese": "不行",
+  "pinyin": "bùxíng",
+  "meaning": "ไม่ได้, ไม่ไหว",
+  "example": "这样做不行。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_043",
+  "chinese": "不一定",
+  "pinyin": "bùyídìng",
+  "meaning": "ไม่แน่",
+  "example": "明天去不去，还不一定。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_044",
+  "chinese": "不一会儿",
+  "pinyin": "bù yíhuìr",
+  "meaning": "อีกสักครู่, ไม่นาน",
+  "example": "他出去不一会儿就回来了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_045",
+  "chinese": "部分",
+  "pinyin": "bùfen",
+  "meaning": "ส่วน, ส่วนหนึ่ง",
+  "example": "这是工作的一部分。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_046",
+  "chinese": "才",
+  "pinyin": "cái",
+  "meaning": "เพิ่งจะ, ถึงจะ",
+  "example": "他十点才来。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_047",
+  "chinese": "菜单",
+  "pinyin": "càidān",
+  "meaning": "เมนูอาหาร",
+  "example": "服务员，请给我菜单。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_048",
+  "chinese": "参观",
+  "pinyin": "cānguān",
+  "meaning": "เยี่ยมชม",
+  "example": "明天我们去参观博物馆。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_049",
+  "chinese": "参加",
+  "pinyin": "cānjiā",
+  "meaning": "เข้าร่วม",
+  "example": "我想参加汉语考试。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_050",
+  "chinese": "草",
+  "pinyin": "cǎo",
+  "meaning": "หญ้า",
+  "example": "地上长了很多草。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_051",
+  "chinese": "草地",
+  "pinyin": "cǎodì",
+  "meaning": "สนามหญ้า",
+  "example": "孩子们在草地上踢球。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_052",
+  "chinese": "层",
+  "pinyin": "céng",
+  "meaning": "ชั้น (อาคาร)",
+  "example": "我家住在三层。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_053",
+  "chinese": "查",
+  "pinyin": "chá",
+  "meaning": "ตรวจสอบ, ค้นหา",
+  "example": "我在查生词。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_054",
+  "chinese": "差不多",
+  "pinyin": "chàbuduō",
+  "meaning": "เกือบจะ, พอๆ กัน",
+  "example": "这两个差不多。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_055",
+  "chinese": "长",
+  "pinyin": "cháng",
+  "meaning": "ยาว",
+  "example": "这条河很长。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_056",
+  "chinese": "常见",
+  "pinyin": "cháng jiàn",
+  "meaning": "พบได้บ่อย",
+  "example": "这是一种常见的问题。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_057",
+  "chinese": "常用",
+  "pinyin": "cháng yòng",
+  "meaning": "ใช้บ่อย",
+  "example": "这是常用的词汇。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_058",
+  "chinese": "场",
+  "pinyin": "chăng",
+  "meaning": "สนาม, การแข่ง (ลักษณนาม)",
+  "example": "昨晚有一场足球赛。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_059",
+  "chinese": "超过",
+  "pinyin": "chaoguò",
+  "meaning": "เกิน, 1 เกินกว่า",
+  "example": "人数超过了一百人。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_060",
+  "chinese": "超市",
+  "pinyin": "chàoshì",
+  "meaning": "ซูเปอร์มาเก็ต",
+  "example": "我去超市买东西。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_061",
+  "chinese": "车辆",
+  "pinyin": "chēliàng",
+  "meaning": "ยานพาหนะ, รถรา",
+  "example": "路上车辆很多。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_062",
+  "chinese": "称",
+  "pinyin": "chéng",
+  "meaning": "เรียก, ชั่งน้ำหนัก",
+  "example": "大家称他为好人。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_063",
+  "chinese": "成",
+  "pinyin": "chéng",
+  "meaning": "กลายเป็น, สำเร็จ",
+  "example": "事情办成了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_064",
+  "chinese": "成绩",
+  "pinyin": "chéngjì",
+  "meaning": "ผลการเรียน, คะแนน",
+  "example": "他的考试成绩很好。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_065",
+  "chinese": "成为",
+  "pinyin": "chéngwéi",
+  "meaning": "กลายเป็น, 3 เป็น",
+  "example": "他成为了一名医生。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_066",
+  "chinese": "重复",
+  "pinyin": "chóngfù",
+  "meaning": "ทำซ้ำ, พูดซ้ำ",
+  "example": "请不要重复这句话。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_067",
+  "chinese": "重新",
+  "pinyin": "chóngxĩn",
+  "meaning": "ใหม่อีกครั้ง",
+  "example": "我们要重新开始。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_068",
+  "chinese": "出发",
+  "pinyin": "chūfā",
+  "meaning": "ออกเดินทาง",
+  "example": "我们明天早上出发。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_069",
+  "chinese": "出国",
+  "pinyin": "chū//guó",
+  "meaning": "ไปต่างประเทศ",
+  "example": "他计划明年出国旅游。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_070",
+  "chinese": "出口",
+  "pinyin": "chūkǒu",
+  "meaning": "ทางออก, ส่งออก",
+  "example": "请在地铁出口等我。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_071",
+  "chinese": "出门",
+  "pinyin": "chū/mén",
+  "meaning": "ออกจากบ้าน",
+  "example": "他今天很早就出门了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_072",
+  "chinese": "出生",
+  "pinyin": "chūshēng",
+  "meaning": "เกิด",
+  "example": "他出生在北京。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_073",
+  "chinese": "出现",
+  "pinyin": "chūxiàn",
+  "meaning": "ปรากฏขึ้น",
+  "example": "天空中出现了彩虹。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_074",
+  "chinese": "出院",
+  "pinyin": "chū//yuàn",
+  "meaning": "ออกจากโรงพยาบาล",
+  "example": "病人今天已经出院了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_075",
+  "chinese": "出租",
+  "pinyin": "chūzū",
+  "meaning": "ให้เช่า",
+  "example": "这间房子对外出租。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_076",
+  "chinese": "出租车",
+  "pinyin": "chūzūchē",
+  "meaning": "รถแท็กซี่",
+  "example": "我们在路边拦了一辆出租车。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_077",
+  "chinese": "船",
+  "pinyin": "chuán",
+  "meaning": "เรือ",
+  "example": "我们坐船游览河景。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_078",
+  "chinese": "吹",
+  "pinyin": "chuī",
+  "meaning": "เป่า, ลมพัด",
+  "example": "外面风很大，吹得树枝摇晃。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_079",
+  "chinese": "春节",
+  "pinyin": "Chūnjié",
+  "meaning": "เทศกาลตรุษจีน",
+  "example": "春节是中国最重要的节日。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_080",
+  "chinese": "春天",
+  "pinyin": "chūntiān",
+  "meaning": "ฤดูใบไม้ผลิ",
+  "example": "春天来了，花儿都开了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_081",
+  "chinese": "词",
+  "pinyin": "cí",
+  "meaning": "คำศัพท์, คำ",
+  "example": "这个词是什么意思？",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_082",
+  "chinese": "词典",
+  "pinyin": "cídiǎn",
+  "meaning": "พจนานุกรม",
+  "example": "我查了一下词典。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_083",
+  "chinese": "词语",
+  "pinyin": "cíyǔ",
+  "meaning": "สำนวน, คำศัพท์",
+  "example": "我们要多积累词语。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_084",
+  "chinese": "从小",
+  "pinyin": "cóngxiǎo",
+  "meaning": "ตั้งแต่เด็ก",
+  "example": "他从小就喜欢画画。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_085",
+  "chinese": "答应",
+  "pinyin": "dāying",
+  "meaning": "รับปาก, ตอบรับ",
+  "example": "他答应帮我这个忙。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_086",
+  "chinese": "打工",
+  "pinyin": "dǎ//gōng",
+  "meaning": "ทำงานพิเศษ",
+  "example": "大学生利用暑假去打工。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_087",
+  "chinese": "打算",
+  "pinyin": "dǎ suàn",
+  "meaning": "วางแผน, ตั้งใจ",
+  "example": "你周末打算去哪儿？",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_088",
+  "chinese": "打印",
+  "pinyin": "dǎyìn",
+  "meaning": "พิมพ์ (เอกสาร)",
+  "example": "请帮我打印这份文件。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_089",
+  "chinese": "大部分",
+  "pinyin": "dàbùfen",
+  "meaning": "ส่วนใหญ่",
+  "example": "大部分人同意这个计划。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_090",
+  "chinese": "大大",
+  "pinyin": "dàdà",
+  "meaning": "อย่างมาก, ใหญ่หลวง",
+  "example": "他的水平有了大大地提高。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_091",
+  "chinese": "大多数",
+  "pinyin": "dàduōshù",
+  "meaning": "คนส่วนใหญ่, ส่วนมาก",
+  "example": "大多数学生都通过了考试。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_092",
+  "chinese": "大海",
+  "pinyin": "dàhǎi",
+  "meaning": "ทะเลกว้างใหญ่",
+  "example": "我非常喜欢看大海。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_093",
+  "chinese": "大家",
+  "pinyin": "dàjiā",
+  "meaning": "ทุกคน",
+  "example": "请大家听我说。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_094",
+  "chinese": "大量",
+  "pinyin": "dàliàng",
+  "meaning": "จำนวนมาก",
+  "example": "树木吸收了大量的二氧化碳。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_095",
+  "chinese": "大门",
+  "pinyin": "dàmén",
+  "meaning": "ประตูใหญ่",
+  "example": "我们在学校大门见。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_096",
+  "chinese": "大人",
+  "pinyin": "dàren",
+  "meaning": "ผู้ใหญ่",
+  "example": "这本小说大人小孩都喜欢。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_097",
+  "chinese": "大声",
+  "pinyin": "dà shēng",
+  "meaning": "เสียงดัง",
+  "example": "请大家大声读出来。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_098",
+  "chinese": "大小",
+  "pinyin": "dàxiǎo",
+  "meaning": "ขนาด, เล็กใหญ่",
+  "example": "这件衣服大小正合适。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_099",
+  "chinese": "大衣",
+  "pinyin": "dàyī",
+  "meaning": "เสื้อโค้ท, เสื้อกันหนาวตัวยาว",
+  "example": "冬天出门要穿大衣。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_100",
+  "chinese": "大自然",
+  "pinyin": "dàzìrán",
+  "meaning": "ธรรมชาติ",
+  "example": "我们要保护大自然。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_101",
+  "chinese": "带",
+  "pinyin": "dài",
+  "meaning": "พก, พา, นำ",
+  "example": "出门别忘了带伞。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_102",
+  "chinese": "带来",
+  "pinyin": "dài lái",
+  "meaning": "นำมาซึ่ง, พามา",
+  "example": "这本书给我带来了很多乐趣。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_103",
+  "chinese": "单位",
+  "pinyin": "dānwèi",
+  "meaning": "หน่วยงาน, ที่ทำงาน",
+  "example": "他在一家国企单位工作。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_104",
+  "chinese": "但",
+  "pinyin": "dàn",
+  "meaning": "แต่",
+  "example": "天气虽冷，但阳光很好。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_105",
+  "chinese": "但是",
+  "pinyin": "dànshì",
+  "meaning": "แต่ทว่า",
+  "example": "我想去，但是我没有时间。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_106",
+  "chinese": "蛋",
+  "pinyin": "dàn",
+  "meaning": "ไข่",
+  "example": "早餐我吃了一个鸡蛋。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_107",
+  "chinese": "当",
+  "pinyin": "dāng",
+  "meaning": "เป็น, ทำหน้าที่, เมื่อ",
+  "example": "长大后我想当一名教师。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_108",
+  "chinese": "当时",
+  "pinyin": "dāngshí",
+  "meaning": "ตอนนั้น, ในเวลานั้น",
+  "example": "我当时不在现场。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_109",
+  "chinese": "倒",
+  "pinyin": "dǎo",
+  "meaning": "ล้ม, เท (ของเหลว)",
+  "example": "杯子倒了，水流出来了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_110",
+  "chinese": "到处",
+  "pinyin": "dàochù",
+  "meaning": "ทุกหนทุกแห่ง",
+  "example": "春天到处都是花。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_111",
+  "chinese": "倒",
+  "pinyin": "dào",
+  "meaning": "ริน, เท (น้ำใส่แก้ว)",
+  "example": "请帮我倒一杯水。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_112",
+  "chinese": "道",
+  "pinyin": "dào",
+  "meaning": "สาย, เส้น, หนทาง, ลักษณนาม",
+  "example": "这道题我会做。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_113",
+  "chinese": "道理",
+  "pinyin": "dào lǐ",
+  "meaning": "เหตุผล, สัจธรรม",
+  "example": "听了他的话，我觉得很有道理。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_114",
+  "chinese": "道路",
+  "pinyin": "dàolù",
+  "meaning": "ถนนหนทาง",
+  "example": "道路两旁种满了树。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_115",
+  "chinese": "得",
+  "pinyin": "dé",
+  "meaning": "ได้, ได้รับ",
+  "example": "这次比赛我得了一等奖。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_116",
+  "chinese": "得出",
+  "pinyin": "déchū",
+  "meaning": "ได้ข้อสรุป, ได้ผล",
+  "example": "从实验中可以得出这个结论。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_117",
+  "chinese": "的话",
+  "pinyin": "dehuà",
+  "meaning": "ถ้าหากว่า",
+  "example": "如果你有空的话，一起来吧。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_118",
+  "chinese": "得",
+  "pinyin": "de",
+  "meaning": "คำเสริม (บอกระดับ)",
+  "example": "他跑得很快。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_119",
+  "chinese": "灯",
+  "pinyin": "dēng",
+  "meaning": "หลอดไฟ, โคมไฟ",
+  "example": "房间里的灯亮着。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_120",
+  "chinese": "等",
+  "pinyin": "děng",
+  "meaning": "รอ, และอื่นๆ",
+  "example": "请在门口等我一会儿。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_121",
+  "chinese": "等到",
+  "pinyin": "děngdào",
+  "meaning": "จนกระทั่งถึง",
+  "example": "等到明天我们再决定。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_122",
+  "chinese": "等于",
+  "pinyin": "děngyú",
+  "meaning": "เท่ากับ",
+  "example": "二加二等于四。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_123",
+  "chinese": "低",
+  "pinyin": "dī",
+  "meaning": "ต่ำ",
+  "example": "飞机的飞行高度很低。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_124",
+  "chinese": "地球",
+  "pinyin": "dìqiú",
+  "meaning": "โลก",
+  "example": "地球是我们的家园。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_125",
+  "chinese": "地铁",
+  "pinyin": "dìtiě",
+  "meaning": "รถไฟใต้ดิน",
+  "example": "我每天坐地铁去上班。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_126",
+  "chinese": "地铁站",
+  "pinyin": "dìtiězhàn",
+  "meaning": "สถานีรถไฟใต้ดิน",
+  "example": "前面就是地铁站。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_127",
+  "chinese": "点头",
+  "pinyin": "diǎntóu",
+  "meaning": "พยักหน้า",
+  "example": "他听完后点了点头。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_128",
+  "chinese": "店",
+  "pinyin": "diàn",
+  "meaning": "ร้านค้า",
+  "example": "街角开了一家新店。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_129",
+  "chinese": "掉",
+  "pinyin": "diào",
+  "meaning": "ตก, หล่น",
+  "example": "我的手机掉在地上坏了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_130",
+  "chinese": "东北",
+  "pinyin": "dōngběi",
+  "meaning": "ตะวันออกเฉียงเหนือ",
+  "example": "我老家在中国东北。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_131",
+  "chinese": "东方",
+  "pinyin": "dōngfāng",
+  "meaning": "ทิศตะวันออก",
+  "example": "太阳从东方升起。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_132",
+  "chinese": "东南",
+  "pinyin": "dōngnán",
+  "meaning": "ตะวันออกเฉียงใต้",
+  "example": "学校在城市的东南方向。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_133",
+  "chinese": "冬天",
+  "pinyin": "dōngtiān",
+  "meaning": "ฤดูหนาว",
+  "example": "北京的冬天很冷。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_134",
+  "chinese": "懂",
+  "pinyin": "dòng",
+  "meaning": "เข้าใจ",
+  "example": "这句话你懂了吗？",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_135",
+  "chinese": "懂得",
+  "pinyin": "dǒngde",
+  "meaning": "เข้าใจ, รู้จัก",
+  "example": "我们要懂得感恩。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_136",
+  "chinese": "动物",
+  "pinyin": "dòngwù",
+  "meaning": "สัตว์",
+  "example": "我们要爱护动物。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_137",
+  "chinese": "动物园",
+  "pinyin": "dòngwùyuán",
+  "meaning": "สวนสัตว์",
+  "example": "周末我们去动物园看熊猫。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_138",
+  "chinese": "读音",
+  "pinyin": "dúyīn",
+  "meaning": "การออกเสียง",
+  "example": "这个字的读音是什么？",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_139",
+  "chinese": "度",
+  "pinyin": "dù",
+  "meaning": "องศา, ระดับ",
+  "example": "今天气温有三十度。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_140",
+  "chinese": "短",
+  "pinyin": "duǎn",
+  "meaning": "สั้น",
+  "example": "这件衣服的袖子有点短。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_141",
+  "chinese": "短信",
+  "pinyin": "duǎnxìn",
+  "meaning": "ข้อความสั้น, เอสเอ็มเอส",
+  "example": "我收到了一条短信。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_142",
+  "chinese": "段",
+  "pinyin": "duàn",
+  "meaning": "ท่อน, ช่วง, ตอน",
+  "example": "这段路修得很好。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_143",
+  "chinese": "队",
+  "pinyin": "duì",
+  "meaning": "แถว, ทีม",
+  "example": "大家请排队买票。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_144",
+  "chinese": "队长",
+  "pinyin": "duìzhǎng",
+  "meaning": "หัวหน้าทีม",
+  "example": "他是我们足球队的队长。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_145",
+  "chinese": "对",
+  "pinyin": "duì",
+  "meaning": "ต่อ, สำหรับ, ถูกต้อง",
+  "example": "多吃蔬菜对身体有好处。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_146",
+  "chinese": "对话",
+  "pinyin": "duìhuà",
+  "meaning": "บทสนทนา",
+  "example": "请两人一组练习这段对话。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_147",
+  "chinese": "对面",
+  "pinyin": "duì miàn",
+  "meaning": "ฝั่งตรงข้าม",
+  "example": "我家住在医院对面。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_148",
+  "chinese": "多",
+  "pinyin": "duō",
+  "meaning": "กว่า, เพิ่ม",
+  "example": "他已经学了一年多了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_149",
+  "chinese": "多久",
+  "pinyin": "duōjiǔ",
+  "meaning": "นานเท่าไหร่",
+  "example": "你在这里住了多久？",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_150",
+  "chinese": "多么",
+  "pinyin": "duōme",
+  "meaning": "ช่าง...เหลือเกิน",
+  "example": "这里的风景多么美丽啊！",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_151",
+  "chinese": "多数",
+  "pinyin": "duōshù",
+  "meaning": "ส่วนใหญ่",
+  "example": "多数人支持这个提议。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_152",
+  "chinese": "多云",
+  "pinyin": "duōyún",
+  "meaning": "มีเมฆมาก",
+  "example": "今天的天气是多云。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_153",
+  "chinese": "而且",
+  "pinyin": "érqiě",
+  "meaning": "อีกทั้ง, แถมยัง",
+  "example": "他很聪明，而且很努力。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_154",
+  "chinese": "发",
+  "pinyin": "fā",
+  "meaning": "ส่ง, แจกจ่าย",
+  "example": "老师发下了试卷。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_155",
+  "chinese": "发现",
+  "pinyin": "fāxiàn",
+  "meaning": "พบว่า, ค้นพบ",
+  "example": "我发现了一个秘密。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_156",
+  "chinese": "饭馆",
+  "pinyin": "fànguǎn",
+  "meaning": "ร้านอาหาร",
+  "example": "我们今晚去饭馆吃饭。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_157",
+  "chinese": "方便",
+  "pinyin": "fāngbian",
+  "meaning": "สะดวก",
+  "example": "坐地铁非常方便。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_158",
+  "chinese": "方便面",
+  "pinyin": "fāngbianmiàn",
+  "meaning": "บะหมี่กึ่งสำเร็จรูป",
+  "example": "晚上我吃了一包方便面。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_159",
+  "chinese": "方法",
+  "pinyin": "fāngfǎ",
+  "meaning": "วิธี, วิธีการ",
+  "example": "这个问题有很多解决方法。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_160",
+  "chinese": "方面",
+  "pinyin": "fāngmiàn",
+  "meaning": "ด้าน, แง่มุม",
+  "example": "他在各方面表现都很好。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_161",
+  "chinese": "方向",
+  "pinyin": "fāngxiàng",
+  "meaning": "ทิศทาง",
+  "example": "我们走错方向了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_162",
+  "chinese": "放下",
+  "pinyin": "fàngxia",
+  "meaning": "วางลง",
+  "example": "请把行李放下。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_163",
+  "chinese": "放心",
+  "pinyin": "fàngxīn",
+  "meaning": "วางใจ, 3 สบายใจ",
+  "example": "请放心，我会处理好的。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_164",
+  "chinese": "分",
+  "pinyin": "fēn",
+  "meaning": "แบ่ง",
+  "example": "大家把蛋糕分着吃吧。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_165",
+  "chinese": "分开",
+  "pinyin": "fēn//kāi",
+  "meaning": "แยกออกจากกัน",
+  "example": "这两条路在这里分开。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_166",
+  "chinese": "分数",
+  "pinyin": "fēnshù",
+  "meaning": "คะแนน",
+  "example": "他的数学考试分数很高。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_167",
+  "chinese": "分钟",
+  "pinyin": "fēnzhōng",
+  "meaning": "นาที",
+  "example": "请等我五分钟。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_168",
+  "chinese": "份",
+  "pinyin": "fèn",
+  "meaning": "ชุด, ฉบับ (ลักษณนาม)",
+  "example": "我点了一份炒饭。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_169",
+  "chinese": "封",
+  "pinyin": "fēng",
+  "meaning": "ฉบับ (ลักษณนามจดหมาย)",
+  "example": "我收到了一封信。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_170",
+  "chinese": "服务",
+  "pinyin": "fúwù",
+  "meaning": "บริการ",
+  "example": "这家餐厅的服务很好。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_171",
+  "chinese": "复习",
+  "pinyin": "fùxí",
+  "meaning": "ทบทวนบทเรียน",
+  "example": "今天晚上我要复习功课。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_172",
+  "chinese": "该",
+  "pinyin": "gāi",
+  "meaning": "ควรจะ",
+  "example": "时间不早了，我们该走了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_173",
+  "chinese": "改",
+  "pinyin": "gǎi",
+  "meaning": "แก้ไข, เปลี่ยน",
+  "example": "这份作业需要修改。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_174",
+  "chinese": "改变",
+  "pinyin": "gǎibiàn",
+  "meaning": "เปลี่ยนแปลง",
+  "example": "我们要改变这种习惯。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_175",
+  "chinese": "干杯",
+  "pinyin": "gān//bēi",
+  "meaning": "ชนแก้ว, ดื่มหมดแก้ว",
+  "example": "为我们的友谊干杯！",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_176",
+  "chinese": "感到",
+  "pinyin": "gǎndào",
+  "meaning": "รู้สึก",
+  "example": "听到这个消息，我感到很高兴。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_177",
+  "chinese": "感动",
+  "pinyin": "gǎndòng",
+  "meaning": "ซาบซึ้งใจ",
+  "example": "这个故事深深地感动了我。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_178",
+  "chinese": "感觉",
+  "pinyin": "gǎnjué",
+  "meaning": "ความรู้สึก, รู้สึก",
+  "example": "我感觉今天有点累。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_179",
+  "chinese": "感谢",
+  "pinyin": "gǎnxiè",
+  "meaning": "ขอบคุณ",
+  "example": "感谢您的照顾。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_180",
+  "chinese": "干活儿",
+  "pinyin": "gàn//huór",
+  "meaning": "ทำงาน, ใช้แรงงาน",
+  "example": "农民伯伯在田里干活儿。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_181",
+  "chinese": "刚",
+  "pinyin": "gāng",
+  "meaning": "เพิ่งจะ",
+  "example": "他刚出门。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_182",
+  "chinese": "刚才",
+  "pinyin": "gāngcái",
+  "meaning": "เมื่อครู่นี้",
+  "example": "你刚才去哪儿了？",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_183",
+  "chinese": "刚刚",
+  "pinyin": "gānggāng",
+  "meaning": "เพิ่งจะ (เน้น)",
+  "example": "雨刚刚停了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_184",
+  "chinese": "高级",
+  "pinyin": "gāojí",
+  "meaning": "ระดับสูง, หรูหรา",
+  "example": "这家酒店是一家高级饭店。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_185",
+  "chinese": "高中",
+  "pinyin": "gāozhōng",
+  "meaning": "โรงเรียนมัธยมปลาย",
+  "example": "我在高中学习汉语。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_186",
+  "chinese": "个子",
+  "pinyin": "gèzi",
+  "meaning": "ส่วนสูง, รูปร่าง",
+  "example": "弟弟的个子长高了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_187",
+  "chinese": "更",
+  "pinyin": "gèng",
+  "meaning": "ยิ่ง...กว่า",
+  "example": "今天的风比昨天更大。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_188",
+  "chinese": "公共汽车",
+  "pinyin": "gōnggòng qìchē",
+  "meaning": "รถประจำทาง, รถเมล์",
+  "example": "我们坐公共汽车去公园。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_189",
+  "chinese": "公交车",
+  "pinyin": "gōngjiāochē",
+  "meaning": "รถเมล์ (คำย่อ)",
+  "example": "坐公交车很方便。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_190",
+  "chinese": "公斤",
+  "pinyin": "gōngjīn",
+  "meaning": "กิโลกรัม",
+  "example": "这个西瓜重五公斤。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_191",
+  "chinese": "公里",
+  "pinyin": "gōnglǐ",
+  "meaning": "กิโลเมตร",
+  "example": "我家离学校有三公里。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_192",
+  "chinese": "公路",
+  "pinyin": "gōnglù",
+  "meaning": "ถนนหลวง",
+  "example": "这条公路上有很多车。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_193",
+  "chinese": "公平",
+  "pinyin": "gōngpíng",
+  "meaning": "ยุติธรรม",
+  "example": "比赛结果必须公平。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_194",
+  "chinese": "公司",
+  "pinyin": "gōngsī",
+  "meaning": "บริษัท",
+  "example": "他在一家科技公司工作。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_195",
+  "chinese": "公园",
+  "pinyin": "gōngyuán",
+  "meaning": "สวนสาธารณะ",
+  "example": "爷爷去公园散步了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_196",
+  "chinese": "狗",
+  "pinyin": "gǒu",
+  "meaning": "สุนัข, หมา",
+  "example": "妹妹养了一只小狗。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_197",
+  "chinese": "够",
+  "pinyin": "gòu",
+  "meaning": "พอ",
+  "example": "这些钱足够买机票了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_198",
+  "chinese": "故事",
+  "pinyin": "gùshi",
+  "meaning": "เรื่องราว, นิทาน",
+  "example": "妈妈给我讲了一个故事。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_199",
+  "chinese": "故意",
+  "pinyin": "gùyì",
+  "meaning": "จงใจ, เจตนา",
+  "example": "我不是故意迟到的。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_200",
+  "chinese": "顾客",
+  "pinyin": "gùkè",
+  "meaning": "ลูกค้า",
+  "example": "服务员正在热情地接待顾客。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_201",
+  "chinese": "关机",
+  "pinyin": "guān//jī",
+  "meaning": "ปิดเครื่อง (มือถือ/คอม)",
+  "example": "上课时请把手机关机。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_202",
+  "chinese": "关心",
+  "pinyin": "guānxīn",
+  "meaning": "ห่วงใย, ใส่ใจ",
+  "example": "谢谢你一直关心我。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_203",
+  "chinese": "观点",
+  "pinyin": "guāndiǎn",
+  "meaning": "มุมมอง, ทัศนะ",
+  "example": "我对这个问题的观点不同。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_204",
+  "chinese": "广场",
+  "pinyin": "guǎngchǎng",
+  "meaning": "จัตุรัส, ลานกว้าง",
+  "example": "晚上广场上有很多人跳舞。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_205",
+  "chinese": "广告",
+  "pinyin": "guǎnggào",
+  "meaning": "โฆษณา",
+  "example": "电视上有很多商业广告。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_206",
+  "chinese": "国际",
+  "pinyin": "guójì",
+  "meaning": "ระหว่างประเทศ, นานาชาติ",
+  "example": "北京是一个国际化大都市。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_207",
+  "chinese": "过来",
+  "pinyin": "guò lái",
+  "meaning": "มานี่, เดินมา",
+  "example": "请你过来一下。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_208",
+  "chinese": "过年",
+  "pinyin": "guò//nián",
+  "meaning": "ฉลองปีใหม่",
+  "example": "今年我们在北京过年。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_209",
+  "chinese": "过去",
+  "pinyin": "guò qù",
+  "meaning": "อดีต, ผ่านไป",
+  "example": "过去的事情就让它过去吧。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_210",
+  "chinese": "过",
+  "pinyin": "guò",
+  "meaning": "ผ่าน, ใช้ชีวิต",
+  "example": "国庆节我们怎么过？",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_211",
+  "chinese": "海",
+  "pinyin": "hǎi",
+  "meaning": "ทะเล",
+  "example": "蓝蓝的海水很清澈。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_212",
+  "chinese": "海边",
+  "pinyin": "hǎi biān",
+  "meaning": "ชายหาด, ริมทะเล",
+  "example": "夏天我们去海边度假。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_213",
+  "chinese": "喊",
+  "pinyin": "hǎn",
+  "meaning": "ตะโกน, เรียก",
+  "example": "他在门外大声喊我。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_214",
+  "chinese": "好",
+  "pinyin": "hǎo",
+  "meaning": "ค่อนข้าง (ขยายคำ)",
+  "example": "这件衣服好贵的。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_215",
+  "chinese": "好处",
+  "pinyin": "hǎochù",
+  "meaning": "ข้อดี, ประโยชน์",
+  "example": "多运动对健康有好处。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_216",
+  "chinese": "好多",
+  "pinyin": "hǎoduō",
+  "meaning": "มากมาย",
+  "example": "公园里有好多人。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_217",
+  "chinese": "好久",
+  "pinyin": "hǎojiǔ",
+  "meaning": "นานมาก",
+  "example": "好久不见，你还好吗？",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_218",
+  "chinese": "好人",
+  "pinyin": "hǎorén",
+  "meaning": "คนดี",
+  "example": "他是一个热心的好人。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_219",
+  "chinese": "好事",
+  "pinyin": "hǎoshì",
+  "meaning": "เรื่องดีๆ",
+  "example": "助人为乐是一件好事。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_220",
+  "chinese": "好像",
+  "pinyin": "hǎoxiàng",
+  "meaning": "ดูเหมือนว่า",
+  "example": "外面好像下雨了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_221",
+  "chinese": "合适",
+  "pinyin": "héshì",
+  "meaning": "เหมาะสม",
+  "example": "这双鞋穿起来很合适。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_222",
+  "chinese": "河",
+  "pinyin": "hé",
+  "meaning": "แม่น้ำ",
+  "example": "小河里有很多小鱼。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_223",
+  "chinese": "黑",
+  "pinyin": "hēi",
+  "meaning": "สีดำ, มืด",
+  "example": "天黑了，我们回家吧。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_224",
+  "chinese": "黑板",
+  "pinyin": "hēibǎn",
+  "meaning": "กระดานดำ",
+  "example": "老师在黑板上写字。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_225",
+  "chinese": "黑色",
+  "pinyin": "hēisè",
+  "meaning": "สีดำ",
+  "example": "他穿着一件黑色外套。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_226",
+  "chinese": "红",
+  "pinyin": "hóng",
+  "meaning": "สีแดง",
+  "example": "秋天的枫叶是红色的。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_227",
+  "chinese": "红色",
+  "pinyin": "hóngsè",
+  "meaning": "สีแดง",
+  "example": "我最喜欢红色。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_228",
+  "chinese": "后来",
+  "pinyin": "hòulái",
+  "meaning": "ภายหลัง, ต่อมา",
+  "example": "他先走了，后来又回来了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_229",
+  "chinese": "忽然",
+  "pinyin": "hūrán",
+  "meaning": "จู่ๆ, กะทันหัน",
+  "example": "外面忽然刮起了大风。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_230",
+  "chinese": "湖",
+  "pinyin": "hú",
+  "meaning": "ทะเลสาบ",
+  "example": "公园中央有一个美丽的湖。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_231",
+  "chinese": "护照",
+  "pinyin": "hùzhào",
+  "meaning": "หนังสือเดินทาง, พาสปอร์ต",
+  "example": "出国旅游必须带护照。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_232",
+  "chinese": "花",
+  "pinyin": "huā",
+  "meaning": "ใช้ (เงิน/เวลา)",
+  "example": "买这辆车花了很多钱。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_233",
+  "chinese": "花园",
+  "pinyin": "huāyuán",
+  "meaning": "สวนดอกไม้",
+  "example": "房前有一个小花园。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_234",
+  "chinese": "画",
+  "pinyin": "huà",
+  "meaning": "วาดภาพ, รูปภาพ",
+  "example": "他在纸上画了一只猫。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_235",
+  "chinese": "画家",
+  "pinyin": "huàjiā",
+  "meaning": "จิตรกร",
+  "example": "毕加索是一位伟大的画家。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_236",
+  "chinese": "画儿",
+  "pinyin": "huàr",
+  "meaning": "ภาพวาด",
+  "example": "墙上挂着一幅画儿。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_237",
+  "chinese": "坏处",
+  "pinyin": "huàichù",
+  "meaning": "ข้อเสีย, ผลเสีย",
+  "example": "吸烟对身体有很多坏处。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_238",
+  "chinese": "坏人",
+  "pinyin": "huàirén",
+  "meaning": "คนชั่ว, คนร้าย",
+  "example": "我们要学会保护自己，防范坏人。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_239",
+  "chinese": "欢迎",
+  "pinyin": "huānyíng",
+  "meaning": "ยินดีต้อนรับ",
+  "example": "欢迎来到中国！",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_240",
+  "chinese": "换",
+  "pinyin": "huàn",
+  "meaning": "เปลี่ยน, แลก",
+  "example": "我想把这件衣服换个尺码。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_241",
+  "chinese": "黄",
+  "pinyin": "huáng",
+  "meaning": "สีเหลือง",
+  "example": "香蕉熟了是黄色的。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_242",
+  "chinese": "黄色",
+  "pinyin": "huángsè",
+  "meaning": "สีเหลือง",
+  "example": "秋叶变成了黄色。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_243",
+  "chinese": "回",
+  "pinyin": "huí",
+  "meaning": "ครั้ง (ลักษณนามการกระทำ)",
+  "example": "这件事我已经说过好几回了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_244",
+  "chinese": "回国",
+  "pinyin": "huí guó",
+  "meaning": "กลับประเทศ",
+  "example": "他明年打算回国工作。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_245",
+  "chinese": "会",
+  "pinyin": "huì",
+  "meaning": "งานเลี้ยง, การประชุม",
+  "example": "今晚公司有一个年会。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_246",
+  "chinese": "活动",
+  "pinyin": "huódòng",
+  "meaning": "กิจกรรม, เคลื่อนไหว",
+  "example": "学校组织了一次户外活动。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_247",
+  "chinese": "或",
+  "pinyin": "huò",
+  "meaning": "หรือ",
+  "example": "你可以选择茶或咖啡。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_248",
+  "chinese": "或者",
+  "pinyin": "huòzhě",
+  "meaning": "หรือว่า (ใช้ในประโยคบอกเล่า)",
+  "example": "周六或者周日我都行。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_249",
+  "chinese": "机会",
+  "pinyin": "jī huì",
+  "meaning": "โอกาส",
+  "example": "这是一次很好的学习机会。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_250",
+  "chinese": "鸡",
+  "pinyin": "jī",
+  "meaning": "ไก่",
+  "example": "农场里养了许多鸡。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_251",
+  "chinese": "级",
+  "pinyin": "jí",
+  "meaning": "ระดับ, ชั้น",
+  "example": "他在汉语初级班学习。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_252",
+  "chinese": "急",
+  "pinyin": "jí",
+  "meaning": "รีบ, ร้อนรน",
+  "example": "别急，慢慢来。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_253",
+  "chinese": "计划",
+  "pinyin": "jìhuà",
+  "meaning": "แผนงาน, วางแผน",
+  "example": "你有什么暑假计划？",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_254",
+  "chinese": "计算机",
+  "pinyin": "jìsuànjī",
+  "meaning": "คอมพิวเตอร์",
+  "example": "他在大学主修计算机专业。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_255",
+  "chinese": "加",
+  "pinyin": "jiā",
+  "meaning": "บวก, เพิ่ม",
+  "example": "二加三等于五。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_256",
+  "chinese": "加油",
+  "pinyin": "jiā//yóu",
+  "meaning": "สู้ๆ, เติมน้ำมัน",
+  "example": "考试加油！",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_257",
+  "chinese": "家",
+  "pinyin": "jiā",
+  "meaning": "ผู้เชี่ยวชาญ (ต่อท้ายคำนาม)",
+  "example": "他是一位著名的科学家。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_258",
+  "chinese": "家庭",
+  "pinyin": "jiātíng",
+  "meaning": "ครอบครัว",
+  "example": "他有一个幸福的家庭。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_259",
+  "chinese": "家长",
+  "pinyin": "jiāzhăng",
+  "meaning": "ผู้ปกครอง (นักเรียน)",
+  "example": "老师明天要开家长会。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_260",
+  "chinese": "假",
+  "pinyin": "jiǎ",
+  "meaning": "ปลอม",
+  "example": "这块手表是假的。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_261",
+  "chinese": "假期",
+  "pinyin": "jiàqī",
+  "meaning": "วันหยุดพักผ่อน",
+  "example": "你打算怎么度过假期？",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_262",
+  "chinese": "检查",
+  "pinyin": "jiǎnchá",
+  "meaning": "ตรวจ, ตรวจสอบ",
+  "example": "医生给我做了全面检查。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_263",
+  "chinese": "见到",
+  "pinyin": "jiàndào",
+  "meaning": "ได้พบ",
+  "example": "很高兴在这里见到你。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_264",
+  "chinese": "见过",
+  "pinyin": "jiànguò",
+  "meaning": "เคยพบ",
+  "example": "我们以前好像见过。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_265",
+  "chinese": "件",
+  "pinyin": "jiàn",
+  "meaning": "ชิ้น, ตัว (ลักษณนามเสื้อผ้า/เรื่องราว)",
+  "example": "这是一件重要的事情。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_266",
+  "chinese": "健康",
+  "pinyin": "jiànkāng",
+  "meaning": "สุขภาพ, แข็งแรง",
+  "example": "祝你身体健康。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_267",
+  "chinese": "讲",
+  "pinyin": "jiǎng",
+  "meaning": "พูด, บรรยาย",
+  "example": "老师正在讲课。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_268",
+  "chinese": "讲话",
+  "pinyin": "jiǎng//huà",
+  "meaning": "กล่าวสุนทรพจน์, พูดคุย",
+  "example": "校长在会上讲了话。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_269",
+  "chinese": "交",
+  "pinyin": "jiāo",
+  "meaning": "ส่ง (การบ้าน/เงิน), คบหา",
+  "example": "请把作业交上来。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_270",
+  "chinese": "交给",
+  "pinyin": "jiāo gěi",
+  "meaning": "มอบให้",
+  "example": "这个任务交给我吧。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_271",
+  "chinese": "交朋友",
+  "pinyin": "jiāo péngyou",
+  "meaning": "ผูกmิตร, คบเพื่อน",
+  "example": "我很喜欢跟中国人交朋友。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_272",
+  "chinese": "交通",
+  "pinyin": "jiāotōng",
+  "meaning": "การจราจร, คมนาคม",
+  "example": "这里的交通非常方便。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_273",
+  "chinese": "角",
+  "pinyin": "jiǎo",
+  "meaning": "มุม, หน่วยเงิน (1 ใน 10 ของหยวน)",
+  "example": "这本书五元三角。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_274",
+  "chinese": "角度",
+  "pinyin": "jiǎodù",
+  "meaning": "มุมมอง",
+  "example": "我们可以从另一个角度思考。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_275",
+  "chinese": "饺子",
+  "pinyin": "jiǎozi",
+  "meaning": "เกี๊ยว",
+  "example": "中国人过年喜欢吃饺子。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_276",
+  "chinese": "脚",
+  "pinyin": "jiǎo",
+  "meaning": "เท้า",
+  "example": "踢足球时要用脚。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_277",
+  "chinese": "叫作",
+  "pinyin": "jiàozuò",
+  "meaning": "เรียกว่า",
+  "example": "这种植物叫作仙人掌。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_278",
+  "chinese": "教师",
+  "pinyin": "jiàoshī",
+  "meaning": "อาจารย์, คุณครู",
+  "example": "她是一名优秀的教师。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_279",
+  "chinese": "教室",
+  "pinyin": "jiàoshì",
+  "meaning": "ห้องเรียน",
+  "example": "同学们都在教室里上课。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_280",
+  "chinese": "教学",
+  "pinyin": "jiàoxué",
+  "meaning": "การเรียนการสอน",
+  "example": "学校注重教学质量。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_281",
+  "chinese": "教育",
+  "pinyin": "jiàoyù",
+  "meaning": "การศึกษา",
+  "example": "父母很重视孩子的教育。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_282",
+  "chinese": "接",
+  "pinyin": "jiē",
+  "meaning": "รับ (โทรศัพท์/คน)",
+  "example": "我去机场接朋友。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_283",
+  "chinese": "接到",
+  "pinyin": "jiēdào",
+  "meaning": "ได้รับ",
+  "example": "我接到了你的电话。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_284",
+  "chinese": "接受",
+  "pinyin": "jiēshòu",
+  "meaning": "ยอมรับ",
+  "example": "他接受了大家的建议。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_285",
+  "chinese": "接下来",
+  "pinyin": "jiē xià lái",
+  "meaning": "ต่อไป",
+  "example": "接下来我们讨论第二个问题。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_286",
+  "chinese": "接着",
+  "pinyin": "jiēzhe",
+  "meaning": "แล้วก็, ต่อจากนั้น",
+  "example": "他喝了口水，接着往下说。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_287",
+  "chinese": "街",
+  "pinyin": "jiē",
+  "meaning": "ถนน, ตรอกซอกซอย",
+  "example": "街上有许多商店。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_288",
+  "chinese": "节",
+  "pinyin": "jié",
+  "meaning": "คาบ, ข้อ, เทศกาล (ลักษณนาม)",
+  "example": "今天上午有三节课。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_289",
+  "chinese": "节目",
+  "pinyin": "jiémù",
+  "meaning": "รายการ (ทีวี/การแสดง)",
+  "example": "这个电视节目很有趣。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_290",
+  "chinese": "节日",
+  "pinyin": "jiérì",
+  "meaning": "วันเทศกาล",
+  "example": "祝大家节日快乐！",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_291",
+  "chinese": "结果",
+  "pinyin": "jiéguǒ",
+  "meaning": "ผลลัพธ์",
+  "example": "考试结果已经出来了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_292",
+  "chinese": "借",
+  "pinyin": "jiè",
+  "meaning": "ยืม, ให้ยืม",
+  "example": "我想从图书馆借本书。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_293",
+  "chinese": "斤",
+  "pinyin": "jīn",
+  "meaning": "ชั่ง (500 กรัม)",
+  "example": "买两斤苹果。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_294",
+  "chinese": "今后",
+  "pinyin": "jīnhòu",
+  "meaning": "จากนี้ไป, ตั้งแต่นี้เป็นต้นไป",
+  "example": "今后我会更加努力。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_295",
+  "chinese": "进入",
+  "pinyin": "jìnrù",
+  "meaning": "เข้าไป, เข้าสู่",
+  "example": "我们即将进入考场。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_296",
+  "chinese": "进行",
+  "pinyin": "jìnxíng",
+  "meaning": "ดำเนิน, ดำเนินการ",
+  "example": "比赛正在进行中。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_297",
+  "chinese": "近",
+  "pinyin": "jìn",
+  "meaning": "ใกล้",
+  "example": "我家离公司很近。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_298",
+  "chinese": "经常",
+  "pinyin": "jīngcháng",
+  "meaning": "เป็นประจำ, บ่อยๆ",
+  "example": "我经常去图书馆看书。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_299",
+  "chinese": "经过",
+  "pinyin": "jīngguò",
+  "meaning": "ผ่าน, ผ่านทาง",
+  "example": "我每天都经过这条路。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_300",
+  "chinese": "经理",
+  "pinyin": "jīnglǐ",
+  "meaning": "ผู้จัดการ",
+  "example": "王经理正在开会。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_301",
+  "chinese": "酒",
+  "pinyin": "jiǔ",
+  "meaning": "เหล้า, สุรา",
+  "example": "他开车不喝酒，喝酒不开车。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_302",
+  "chinese": "酒店",
+  "pinyin": "jiǔdiàn",
+  "meaning": "โรงแรม, ร้านเหล้า",
+  "example": "我们在一家大酒店举行婚礼。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_303",
+  "chinese": "就要",
+  "pinyin": "jiùyào",
+  "meaning": "กำลังจะ... (เร็วๆ นี้)",
+  "example": "火车就要开了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_304",
+  "chinese": "举",
+  "pinyin": "jǔ",
+  "meaning": "ยก",
+  "example": "请举手回答问题。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_305",
+  "chinese": "举手",
+  "pinyin": "jǔshǒu",
+  "meaning": "ยกมือ",
+  "example": "知道答案的同学请举手。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_306",
+  "chinese": "举行",
+  "pinyin": "jǔxíng",
+  "meaning": "จัดขึ้น (งาน/พิธี)",
+  "example": "运动会将于下周举行。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_307",
+  "chinese": "句",
+  "pinyin": "jù",
+  "meaning": "ประโยค (ลักษณนาม)",
+  "example": "请用这句话造句。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_308",
+  "chinese": "句子",
+  "pinyin": "jùzi",
+  "meaning": "ประโยค",
+  "example": "这个句子很长。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_309",
+  "chinese": "卡",
+  "pinyin": "kǎ",
+  "meaning": "การ์ด, บัตร",
+  "example": "刷卡还是付现金？",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_310",
+  "chinese": "开机",
+  "pinyin": "kāi//jī",
+  "meaning": "เปิดเครื่อง",
+  "example": "手机开机后收到很多信息。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_311",
+  "chinese": "开心",
+  "pinyin": "kāixīn",
+  "meaning": "มีความสุข, ดีใจ",
+  "example": "祝你生日快乐，天天开心！",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_312",
+  "chinese": "开学",
+  "pinyin": "kāi//xué",
+  "meaning": "เปิดเทอม",
+  "example": "下周一学校就要开学了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_313",
+  "chinese": "看法",
+  "pinyin": "kàn fǎ",
+  "meaning": "ความคิดเห็น",
+  "example": "你对这件事有什么看法？",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_314",
+  "chinese": "考生",
+  "pinyin": "kǎoshēng",
+  "meaning": "ผู้เข้าสอบ",
+  "example": "考场里有许多考生。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_315",
+  "chinese": "靠",
+  "pinyin": "kào",
+  "meaning": "พิง, ใกล้กับ",
+  "example": "请不要靠墙坐。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_316",
+  "chinese": "科",
+  "pinyin": "kē",
+  "meaning": "วิชา, แขนงวิชา",
+  "example": "他最喜欢科学课。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_317",
+  "chinese": "科学",
+  "pinyin": "kēxué",
+  "meaning": "วิทยาศาสตร์",
+  "example": "我们要用科学的方法解决问题。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_318",
+  "chinese": "可爱",
+  "pinyin": "kě ài",
+  "meaning": "น่ารัก",
+  "example": "这只小猫真可爱。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_319",
+  "chinese": "可能",
+  "pinyin": "kěnéng",
+  "meaning": "เป็นไปได้, อาจจะ",
+  "example": "明天可能会下雨。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_320",
+  "chinese": "可怕",
+  "pinyin": "kěpà",
+  "meaning": "น่ากลัว",
+  "example": "昨晚的噩梦太可怕了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_321",
+  "chinese": "可是",
+  "pinyin": "kěshì",
+  "meaning": "แต่",
+  "example": "我很想去，可是没有时间。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_322",
+  "chinese": "可以",
+  "pinyin": "kěyǐ",
+  "meaning": "ได้, สามารถ",
+  "example": "请问我可以借用一下笔吗？",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_323",
+  "chinese": "克",
+  "pinyin": "kè",
+  "meaning": "กรัม",
+  "example": "这块肉重五百克。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_324",
+  "chinese": "刻",
+  "pinyin": "kè",
+  "meaning": "15 นาที, ขณะ",
+  "example": "现在是八点一刻。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_325",
+  "chinese": "客人",
+  "pinyin": "kè rén",
+  "meaning": "แขก",
+  "example": "家里来了许多客人。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_326",
+  "chinese": "课堂",
+  "pinyin": "kètáng",
+  "meaning": "ชั้นเรียน",
+  "example": "课堂上要认真听讲。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_327",
+  "chinese": "空气",
+  "pinyin": "kōngqì",
+  "meaning": "อากาศ",
+  "example": "森林里的空气很新鲜。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_328",
+  "chinese": "哭",
+  "pinyin": "kū",
+  "meaning": "ร้องไห้",
+  "example": "小女孩开心地哭了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_329",
+  "chinese": "快餐",
+  "pinyin": "kuàicān",
+  "meaning": "อาหารจานด่วน",
+  "example": "中午我们吃快餐吧。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_330",
+  "chinese": "快点儿",
+  "pinyin": "kuài diǎnr",
+  "meaning": "เร็วหน่อย",
+  "example": "快点儿，我们要迟到了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_331",
+  "chinese": "快乐",
+  "pinyin": "kuàilè",
+  "meaning": "มีความสุข",
+  "example": "祝你天天快乐。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_332",
+  "chinese": "快要",
+  "pinyin": "kuàiyào",
+  "meaning": "ใกล้จะ...",
+  "example": "快要下雨了，赶快回家。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_333",
+  "chinese": "筷子",
+  "pinyin": "kuàizi",
+  "meaning": "ตะเกียบ",
+  "example": "中国人习惯用筷子吃饭。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_334",
+  "chinese": "拉",
+  "pinyin": "lā",
+  "meaning": "ดึง, จูง",
+  "example": "他拉着我的手过马路。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_335",
+  "chinese": "来自",
+  "pinyin": "láizi",
+  "meaning": "มาจาก",
+  "example": "他来自泰国。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_336",
+  "chinese": "蓝",
+  "pinyin": "lán",
+  "meaning": "สีฟ้า, สีน้ำเงิน",
+  "example": "今天的天空是蓝色的。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_337",
+  "chinese": "蓝色",
+  "pinyin": "lánsè",
+  "meaning": "สีฟ้า, สีน้ำเงิน",
+  "example": "我买了一件蓝色衬衫。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_338",
+  "chinese": "篮球",
+  "pinyin": "lánqiú",
+  "meaning": "บาสเกตบอล",
+  "example": "我喜欢周末打篮球。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_339",
+  "chinese": "老",
+  "pinyin": "lǎo",
+  "meaning": "ค่อนข้าง (ขยายคำ)",
+  "example": "他老犯同样的错误。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_340",
+  "chinese": "老",
+  "pinyin": "lǎo",
+  "meaning": "เจ้า... (คำนำหน้าชื่อเรียกสนิทสนม เช่น พี่หวั่น)",
+  "example": "老王，最近怎么样？",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_341",
+  "chinese": "老年",
+  "pinyin": "lǎonián",
+  "meaning": "วัยชรา, วัยสูงอายุ",
+  "example": "老年人需要多休息。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_342",
+  "chinese": "老朋友",
+  "pinyin": "lǎo péngyou",
+  "meaning": "เพื่อนเก่า",
+  "example": "我们在北京遇到了老朋友。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_343",
+  "chinese": "老是",
+  "pinyin": "lǎo shì",
+  "meaning": "总是, เป็นประจำ",
+  "example": "他老是忘带钥匙。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_344",
+  "chinese": "离",
+  "pinyin": "lí",
+  "meaning": "จาก (ระยะทาง/เวลา)",
+  "example": "我家离学校很近。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_345",
+  "chinese": "离开",
+  "pinyin": "líkāi",
+  "meaning": "จากไป",
+  "example": "他明天就要离开北京了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_346",
+  "chinese": "礼物",
+  "pinyin": "lǐwù",
+  "meaning": "ของขวัญ",
+  "example": "这是送你的生日礼物。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_347",
+  "chinese": "里头",
+  "pinyin": "litou",
+  "meaning": "ข้างใน",
+  "example": "盒子力头装了什么？",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_348",
+  "chinese": "理想",
+  "pinyin": "lǐxiǎng",
+  "meaning": "ความฝัน, อุดมคติ",
+  "example": "我的理想是当一名医生。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_349",
+  "chinese": "例如",
+  "pinyin": "lìrú",
+  "meaning": "ตัวอย่างเช่น",
+  "example": "有很多运动，例如跑步和游泳。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_350",
+  "chinese": "例子",
+  "pinyin": "lìzi",
+  "meaning": "ตัวอย่าง",
+  "example": "老师举了一个很好的例子。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_351",
+  "chinese": "脸",
+  "pinyin": "liǎn",
+  "meaning": "ใบหน้า",
+  "example": "他高兴得脸红了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_352",
+  "chinese": "练",
+  "pinyin": "liàn",
+  "meaning": "ฝึกฝน",
+  "example": "每天早上我都练习书法。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_353",
+  "chinese": "练习",
+  "pinyin": "liànxí",
+  "meaning": "แบบฝึกหัด, ฝึกฝน",
+  "example": "请完成课后练习。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_354",
+  "chinese": "凉",
+  "pinyin": "liáng",
+  "meaning": "เย็น",
+  "example": "秋天的风吹得很凉。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_355",
+  "chinese": "凉快",
+  "pinyin": "liángkuai",
+  "meaning": "เย็นสบาย",
+  "example": "晚上的公园很凉快。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_356",
+  "chinese": "两",
+  "pinyin": "liǎng",
+  "meaning": "สอง (ลักษณนาม)",
+  "example": "这辆车花了两万元。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_357",
+  "chinese": "亮",
+  "pinyin": "liàng",
+  "meaning": "สว่าง",
+  "example": "天亮了，我们出发吧。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_358",
+  "chinese": "辆",
+  "pinyin": "liàng",
+  "meaning": "คัน (ลักษณนามรถ)",
+  "example": "我买了一辆新车。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_359",
+  "chinese": "零下",
+  "pinyin": "líng xià",
+  "meaning": "ต่ำกว่าศูนย์",
+  "example": "今天气温零下十度。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_360",
+  "chinese": "留",
+  "pinyin": "liú",
+  "meaning": "อยู่ต่อ, เหลือไว้",
+  "example": "我在北京多留了两天。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_361",
+  "chinese": "留下",
+  "pinyin": "liúxia",
+  "meaning": "ทิ้งไว้, อยู่ต่อ",
+  "example": "请留下你的联系方式。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_362",
+  "chinese": "留学生",
+  "pinyin": "liúxuéshēng",
+  "meaning": "นักศึกษาแลกเปลี่ยน, นักศึกษาต่างชาติ",
+  "example": "学校里有许多留学生。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_363",
+  "chinese": "流",
+  "pinyin": "liú",
+  "meaning": "ไหล",
+  "example": "切洋葱让我流泪了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_364",
+  "chinese": "流利",
+  "pinyin": "liúli",
+  "meaning": "คล่องแคล่ว",
+  "example": "他说汉语说得很流利。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_365",
+  "chinese": "流行",
+  "pinyin": "liúxíng",
+  "meaning": "เป็นที่นิยม, ฮิต",
+  "example": "这种服装现在很流行。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_366",
+  "chinese": "路边",
+  "pinyin": "lù biān",
+  "meaning": "ริมถนน",
+  "example": "路边停了许多汽车。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_367",
+  "chinese": "旅客",
+  "pinyin": "lükè",
+  "meaning": "นักท่องเที่ยว, ผู้โดยสาร",
+  "example": "火车站里有很多旅客。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_368",
+  "chinese": "旅行",
+  "pinyin": "lüxíng",
+  "meaning": "ท่องเที่ยว",
+  "example": "我非常喜欢独自旅行。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_369",
+  "chinese": "旅游",
+  "pinyin": "lǚyóu",
+  "meaning": "ท่องเที่ยว",
+  "example": "暑假你去哪儿旅游？",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_370",
+  "chinese": "绿",
+  "pinyin": "lù",
+  "meaning": "สีเขียว",
+  "example": "夏天的树叶是绿色的。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_371",
+  "chinese": "绿色",
+  "pinyin": "lüsè",
+  "meaning": "สีเขียว",
+  "example": "绿色代表着生命。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_372",
+  "chinese": "卖",
+  "pinyin": "mài",
+  "meaning": "ขาย",
+  "example": "这家商店卖文具。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_373",
+  "chinese": "满",
+  "pinyin": "mǎn",
+  "meaning": "เต็ม",
+  "example": "瓶子里装满了水。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_374",
+  "chinese": "满意",
+  "pinyin": "mǎnyì",
+  "meaning": "พึงพอใจ",
+  "example": "我对这个结果很满意。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_375",
+  "chinese": "猫",
+  "pinyin": "māo",
+  "meaning": "แมว",
+  "example": "这只猫正在睡觉。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_376",
+  "chinese": "米",
+  "pinyin": "mǐ",
+  "meaning": "เมตร",
+  "example": "这根绳子有两米长。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_377",
+  "chinese": "面",
+  "pinyin": "miàn",
+  "meaning": "ด้าน, หน้า, แป้ง",
+  "example": "我们在公园里见面。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_378",
+  "chinese": "面",
+  "pinyin": "miàn",
+  "meaning": "เส้นบะหมี่",
+  "example": "中午我想吃牛肉面。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_379",
+  "chinese": "面前",
+  "pinyin": "miànqián",
+  "meaning": "ต่อหน้า",
+  "example": "他在大家面前表演唱歌。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_380",
+  "chinese": "名",
+  "pinyin": "míng",
+  "meaning": "ชื่อ, ลักษณนามคน",
+  "example": "他是一名优秀的运动员。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_381",
+  "chinese": "名称",
+  "pinyin": "míngchēng",
+  "meaning": "ชื่อเรียก",
+  "example": "请写上正确的商品名称。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_382",
+  "chinese": "名单",
+  "pinyin": "míngdān",
+  "meaning": "รายชื่อ",
+  "example": "录用名单已经公布了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_383",
+  "chinese": "明星",
+  "pinyin": "míngxīng",
+  "meaning": "ดารานักแสดง, ซูเปอร์สตาร์",
+  "example": "他是一个很有名的电影明星。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_384",
+  "chinese": "目的",
+  "pinyin": "mùdì",
+  "meaning": "เป้าหมาย, จุดประสงค์",
+  "example": "我来这里的目的是学习。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_385",
+  "chinese": "拿出",
+  "pinyin": "náchū",
+  "meaning": "หยิบออกมา",
+  "example": "他从包里拿出了钥匙。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_386",
+  "chinese": "拿到",
+  "pinyin": "nádào",
+  "meaning": "หยิบได้, ได้รับ",
+  "example": "我终于拿到了签证。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_387",
+  "chinese": "那",
+  "pinyin": "nà",
+  "meaning": "ถ้าเช่นนั้น (คำสันธาน)",
+  "example": "你不想去？那就算了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_388",
+  "chinese": "那会儿",
+  "pinyin": "nàhuìr",
+  "meaning": "ตอนนั้น, เวลานั้น",
+  "example": "我那会儿正在开会。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_389",
+  "chinese": "那么",
+  "pinyin": "nàme",
+  "meaning": "ขนาดนั้น, ถ้าอย่างนั้น",
+  "example": "事情没有你想的那么复杂。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_390",
+  "chinese": "那时候",
+  "pinyin": "nà shíhou",
+  "meaning": "ในเวลานั้น",
+  "example": "那时候我还很小。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_391",
+  "chinese": "那样",
+  "pinyin": "nàyàng",
+  "meaning": "เช่นนั้น, แบบนั้น",
+  "example": "不要那样说话。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_392",
+  "chinese": "南方",
+  "pinyin": "nánfāng",
+  "meaning": "ทางใต้, ภาคใต้",
+  "example": "中国南方冬天不太冷。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_393",
+  "chinese": "难过",
+  "pinyin": "nánguò",
+  "meaning": "เศร้าใจ, เสียใจ",
+  "example": "听到这个消息我很难过。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_394",
+  "chinese": "难看",
+  "pinyin": "nánkàn",
+  "meaning": "น่าเกลียด",
+  "example": "这件衣服的颜色真难看。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_395",
+  "chinese": "难受",
+  "pinyin": "nánshòu",
+  "meaning": "อึดอัด, ทรมาน, ไม่สบายตัว",
+  "example": "我今天有点头晕，很不舒服。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_396",
+  "chinese": "难题",
+  "pinyin": "nántí",
+  "meaning": "โจทย์ยาก, ปัญหาที่แก้ปยาก",
+  "example": "这道数学题是一个难题。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_397",
+  "chinese": "难听",
+  "pinyin": "nántīng",
+  "meaning": "ฟังไม่เพราะ",
+  "example": "这首歌唱得真难听。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_398",
+  "chinese": "能够",
+  "pinyin": "nénggòu",
+  "meaning": "สามารถ",
+  "example": "只要努力，就能够成功。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_399",
+  "chinese": "年级",
+  "pinyin": "niánjí",
+  "meaning": "ชั้นปี (การศึกษา)",
+  "example": "我弟弟今年上二年级。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_400",
+  "chinese": "年轻",
+  "pinyin": "niánqīng",
+  "meaning": "อายุน้อย, หนุ่มสาว",
+  "example": "他看起来非常年轻。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_401",
+  "chinese": "鸟",
+  "pinyin": "niǎo",
+  "meaning": "นก",
+  "example": "树上有几只小鸟在唱歌。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_402",
+  "chinese": "弄",
+  "pinyin": "nòng",
+  "meaning": "ทำ, จัดการ",
+  "example": "这台电脑让我弄坏了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_403",
+  "chinese": "努力",
+  "pinyin": "nǔlì",
+  "meaning": "ขยัน, พยายาม",
+  "example": "我们要努力学习汉语。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_404",
+  "chinese": "爬",
+  "pinyin": "pá",
+  "meaning": "ปีน, คลาน",
+  "example": "周末我们去爬山。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_405",
+  "chinese": "爬山",
+  "pinyin": "pá shān",
+  "meaning": "ปีนเขา",
+  "example": "爬山是一项很好的运动。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_406",
+  "chinese": "怕",
+  "pinyin": "pà",
+  "meaning": "กลัว",
+  "example": "小孩子怕打针。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_407",
+  "chinese": "排",
+  "pinyin": "pái",
+  "meaning": "แถว, จัดเรียง",
+  "example": "我们在门口排成了一队。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_408",
+  "chinese": "排队",
+  "pinyin": "pái//duì",
+  "meaning": "เข้าแถว",
+  "example": "买票请自觉排队。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_409",
+  "chinese": "排球",
+  "pinyin": "páiqiú",
+  "meaning": "วอลเลย์บอล",
+  "example": "我们下午打排球。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_410",
+  "chinese": "碰",
+  "pinyin": "pèng",
+  "meaning": "ชน, กระแทก",
+  "example": "小心别碰坏了花瓶。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_411",
+  "chinese": "碰到",
+  "pinyin": "pèngdào",
+  "meaning": "พบเจอโดยบังเอิญ",
+  "example": "我在路上碰到了老朋友。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_412",
+  "chinese": "碰见",
+  "pinyin": "pèng//jiàn",
+  "meaning": "พบเจอ",
+  "example": "真巧，在这里碰见你。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_413",
+  "chinese": "篇",
+  "pinyin": "piān",
+  "meaning": "บท, ชิ้น (ลักษณนามบทความ)",
+  "example": "我写了一篇短文。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_414",
+  "chinese": "便宜",
+  "pinyin": "piányi",
+  "meaning": "ราคาถูก",
+  "example": "这件衣服很便宜。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_415",
+  "chinese": "片",
+  "pinyin": "piàn",
+  "meaning": "แผ่น, ชิ้นบาง (ลักษณนาม)",
+  "example": "地上落满了树叶。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_416",
+  "chinese": "漂亮",
+  "pinyin": "piàoliang",
+  "meaning": "สวย",
+  "example": "她穿了一条漂亮的裙子。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_417",
+  "chinese": "平",
+  "pinyin": "píng",
+  "meaning": "เรียบ, เสมอ",
+  "example": "这张桌子表面很平。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_418",
+  "chinese": "平安",
+  "pinyin": "píng an",
+  "meaning": "ปลอดภัย, สวัสดิภาพ",
+  "example": "祝你一路平安。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_419",
+  "chinese": "平常",
+  "pinyin": "píngcháng",
+  "meaning": "ธรรมดา, ปกติ",
+  "example": "这只是平常的小事。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_420",
+  "chinese": "平等",
+  "pinyin": "píngděng",
+  "meaning": "เท่าเทียมกัน",
+  "example": "法律面前人人平等。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_421",
+  "chinese": "平时",
+  "pinyin": "píngshí",
+  "meaning": "ยามปกติ, ในยามปรกติ",
+  "example": "他平时喜欢看书。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_422",
+  "chinese": "瓶",
+  "pinyin": "píng",
+  "meaning": "ขวด",
+  "example": "买一瓶水。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_423",
+  "chinese": "瓶子",
+  "pinyin": "píngzi",
+  "meaning": "ขวดน้ำ, ขวด",
+  "example": "空瓶子可以回收。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_424",
+  "chinese": "普通",
+  "pinyin": "pǔtōng",
+  "meaning": "ธรรมดา, ทั่วไป",
+  "example": "他是一个普通工人。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_425",
+  "chinese": "普通话",
+  "pinyin": "pǔtōnghuà",
+  "meaning": "ภาษาจีนกลาง",
+  "example": "他的普通话讲得很标准。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_426",
+  "chinese": "其他",
+  "pinyin": "qítá",
+  "meaning": "อื่นๆ",
+  "example": "除了他，其他人都在这里。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_427",
+  "chinese": "其中",
+  "pinyin": "qízhōng",
+  "meaning": "ในจำนวนนั้น",
+  "example": "班里有十个留学生，其中五个来自泰国。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_428",
+  "chinese": "骑",
+  "pinyin": "qí",
+  "meaning": "ขี่",
+  "example": "我每天骑自行车上学。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_429",
+  "chinese": "骑车",
+  "pinyin": "qí chē",
+  "meaning": "ขี่จักรยาน",
+  "example": "周末我喜欢去公园骑车。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_430",
+  "chinese": "起飞",
+  "pinyin": "qǐfēi",
+  "meaning": "เครื่องบิน) ขึ้นบิน",
+  "example": "飞机即将起飞。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_431",
+  "chinese": "气",
+  "pinyin": "qì",
+  "meaning": "ลม, อากาศ, โกรธ",
+  "example": "别为小事生气。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_432",
+  "chinese": "气温",
+  "pinyin": "qìwēn",
+  "meaning": "อุณหภูมิอากาศ",
+  "example": "今天的气温骤降了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_433",
+  "chinese": "千",
+  "pinyin": "qiān",
+  "meaning": "หนึ่งพัน (1000)",
+  "example": "这辆自行车要一千元。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_434",
+  "chinese": "千克",
+  "pinyin": "qiānkè",
+  "meaning": "กิโลกรัม",
+  "example": "西瓜重三千克。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_435",
+  "chinese": "前年",
+  "pinyin": "qiánnián",
+  "meaning": "ปีกลาย, สองปีที่แล้ว",
+  "example": "我前年来到北京。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_436",
+  "chinese": "墙",
+  "pinyin": "qiáng",
+  "meaning": "ผนัง, กำแพง",
+  "example": "墙上挂着一幅画。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_437",
+  "chinese": "青年",
+  "pinyin": "qīngnián",
+  "meaning": "วัยรุ่น, เยาวชน",
+  "example": "青年人应该有理想。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_438",
+  "chinese": "青少年",
+  "pinyin": "qīng-shaonián",
+  "meaning": "วัยรุ่น (เยาวชนอายุ 10-20 ปี)",
+  "example": "我们要关心青少年的成长。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_439",
+  "chinese": "轻",
+  "pinyin": "qīng",
+  "meaning": "เบา",
+  "example": "这个箱子很轻。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_440",
+  "chinese": "清楚",
+  "pinyin": "qīngchu",
+  "meaning": "ชัดเจน",
+  "example": "老师讲得很清楚。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_441",
+  "chinese": "晴",
+  "pinyin": "qíng",
+  "meaning": "ท้องฟ้าแจ่มใส",
+  "example": "今天是个晴天。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_442",
+  "chinese": "晴天",
+  "pinyin": "qíngtiān",
+  "meaning": "วันฟ้าใส",
+  "example": "我喜欢晴天出门。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_443",
+  "chinese": "请客",
+  "pinyin": "qǐng//kè",
+  "meaning": "เป็นเจ้าภาพเลี้ยง, เลี้ยงรับรอง",
+  "example": "今天我请客，大家随便点。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_444",
+  "chinese": "请求",
+  "pinyin": "qǐngqiú",
+  "meaning": "ร้องขอ, คำร้องขอ",
+  "example": "我有一个请求希望你能答应。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_445",
+  "chinese": "秋天",
+  "pinyin": "qiūtiān",
+  "meaning": "ฤดูใบไม้ร่วง",
+  "example": "北京的秋天非常美。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_446",
+  "chinese": "求",
+  "pinyin": "qiú",
+  "meaning": "ขอร้อง, แสวงหา",
+  "example": "他向我求助。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_447",
+  "chinese": "球场",
+  "pinyin": "qiúchǎng",
+  "meaning": "สนามบอล, สนามกีฬา",
+  "example": "他们在球场上踢球。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_448",
+  "chinese": "球队",
+  "pinyin": "qiúduì",
+  "meaning": "ทีมกีฬา",
+  "example": "我们学校有一支篮球队。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_449",
+  "chinese": "球鞋",
+  "pinyin": "qiúxié",
+  "meaning": "รองเท้ากีฬา",
+  "example": "跑步时要穿舒服的球鞋。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_450",
+  "chinese": "取",
+  "pinyin": "qǔ",
+  "meaning": "หยิบ, เบิก, เอา",
+  "example": "我去银行取钱。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_451",
+  "chinese": "取得",
+  "pinyin": "qǔdé",
+  "meaning": "ได้รับ (ความสำเร็จ/ผลงาน)",
+  "example": "他在比赛中取得了第一名。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_452",
+  "chinese": "全",
+  "pinyin": "quán",
+  "meaning": "ทั้งหมด, ทั่ว",
+  "example": "全家人都支持我的决定。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_453",
+  "chinese": "全部",
+  "pinyin": "quánbù",
+  "meaning": "ทั้งหมด, ทั้งสิ้น",
+  "example": "我已经把书全部看完了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_454",
+  "chinese": "全国",
+  "pinyin": "quánguó",
+  "meaning": "ทั่วประเทศ",
+  "example": "各地举行了全国统一考试。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_455",
+  "chinese": "全家",
+  "pinyin": "quánjiā",
+  "meaning": "ทั้งครอบครัว",
+  "example": "全家福照片很温馨。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_456",
+  "chinese": "全年",
+  "pinyin": "quánnián",
+  "meaning": "ตลอดทั้งปี",
+  "example": "这里全年气候温暖。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_457",
+  "chinese": "全身",
+  "pinyin": "quánshēn",
+  "meaning": "ทั่วตัว",
+  "example": "跑完步后我全身是汗。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_458",
+  "chinese": "全体",
+  "pinyin": "quántǐ",
+  "meaning": "ส่วนรวม, ทั้งหมด",
+  "example": "请全体起立。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_459",
+  "chinese": "然后",
+  "pinyin": "ránhòu",
+  "meaning": "หลังจากนั้น, แล้วก็",
+  "example": "我先洗了个澡，然后吃晚饭。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_460",
+  "chinese": "让",
+  "pinyin": "ràng",
+  "meaning": "ให้, ทำให้, ยอม",
+  "example": "请让我在前面过去。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_461",
+  "chinese": "热情",
+  "pinyin": "rèqíng",
+  "meaning": "กระตือรือร้น, อัธยาศัยดี",
+  "example": "当地人对游客非常热情。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_462",
+  "chinese": "人口",
+  "pinyin": "rénkǒu",
+  "meaning": "ประชากร",
+  "example": "这个城市的人口有一千万。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_463",
+  "chinese": "人们",
+  "pinyin": "rénmen",
+  "meaning": "ผู้คน, ประชาชน",
+  "example": "人们在广场上庆祝节日。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_464",
+  "chinese": "人数",
+  "pinyin": "rénshu",
+  "meaning": "จำนวนคน",
+  "example": "参加比赛的人数有限。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_465",
+  "chinese": "认为",
+  "pinyin": "rènwéi",
+  "meaning": "คิดว่า, เห็นว่า",
+  "example": "我认为这个计划可行。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_466",
+  "chinese": "日报",
+  "pinyin": "rìbào",
+  "meaning": "หนังสือพิมพ์รายวัน",
+  "example": "他每天都读人民日报。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_467",
+  "chinese": "日子",
+  "pinyin": "rizi",
+  "meaning": "วันเวลา, ชีวิตความเป็นอยู่",
+  "example": "我们在北京过着幸福的日子。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_468",
+  "chinese": "如果",
+  "pinyin": "rúguǒ",
+  "meaning": "ถ้า, หากว่า",
+  "example": "如果下雨，我们就不去公园了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_469",
+  "chinese": "入口",
+  "pinyin": "rùkǒu",
+  "meaning": "ทางเข้า",
+  "example": "公园的入口在东边。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_470",
+  "chinese": "商量",
+  "pinyin": "shāngliang",
+  "meaning": "ปรึกษาหารือ",
+  "example": "这件事情我们得商量一下。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_471",
+  "chinese": "商人",
+  "pinyin": "shāngrén",
+  "meaning": "พ่อค้า, นักธุรกิจ",
+  "example": "他是一位成功的商人。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_472",
+  "chinese": "上周",
+  "pinyin": "shàng zhōu",
+  "meaning": "สัปดาห์ที่แล้ว",
+  "example": "上周我去了上海出差。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_473",
+  "chinese": "少数",
+  "pinyin": "shǎoshù",
+  "meaning": "ส่วนน้อย",
+  "example": "只有少数人同意这个意见。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_474",
+  "chinese": "少年",
+  "pinyin": "shaonián",
+  "meaning": "วัยเด็ก, วัยรุ่นตอนต้น",
+  "example": "他从小立志当一名科学家。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_475",
+  "chinese": "身边",
+  "pinyin": "shēnbiān",
+  "meaning": "ข้างกาย, รอบตัว",
+  "example": "感谢有朋友陪伴在我身边。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_476",
+  "chinese": "什么样",
+  "pinyin": "shénmeyàng",
+  "meaning": "แบบไหน, อย่างไร",
+  "example": "你喜欢什么样的电影？",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_477",
+  "chinese": "生",
+  "pinyin": "shēng",
+  "meaning": "กำเนิด, ดิบ",
+  "example": "她生了一个可爱的宝宝。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_478",
+  "chinese": "生词",
+  "pinyin": "shēngcí",
+  "meaning": "คำศัพท์ใหม่",
+  "example": "课文里有很多生词。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_479",
+  "chinese": "生活",
+  "pinyin": "shēnghuó",
+  "meaning": "ชีวิต, ใช้ชีวิต",
+  "example": "我在北京生活得很习惯。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_480",
+  "chinese": "声音",
+  "pinyin": "shēngyin",
+  "meaning": "เสียง",
+  "example": "隔壁传来了美妙的歌声。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_481",
+  "chinese": "省",
+  "pinyin": "shěng",
+  "meaning": "มณฑล",
+  "example": "四川省成都市是个美丽的城市。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_482",
+  "chinese": "省",
+  "pinyin": "shěng",
+  "meaning": "ประหยัด",
+  "example": "坐地铁可以省不少钱。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_483",
+  "chinese": "十分",
+  "pinyin": "shífēn",
+  "meaning": "มากๆ (ระดับสูง)",
+  "example": "听到这个消息我十分高兴。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_484",
+  "chinese": "实际",
+  "pinyin": "shíji",
+  "meaning": "ความเป็นจริง, ตามความเป็นจริง",
+  "example": "理论要结合实际。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_485",
+  "chinese": "实习",
+  "pinyin": "shixí",
+  "meaning": "ฝึกงาน",
+  "example": "暑假我去一家公司实习。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_486",
+  "chinese": "实现",
+  "pinyin": "shíxiàn",
+  "meaning": "ทำให้เป็นจริง",
+  "example": "我们要努力实现梦想。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_487",
+  "chinese": "实在",
+  "pinyin": "shízài",
+  "meaning": "จริงๆ แล้ว, แท้จริง",
+  "example": "这件事情实在太难了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_488",
+  "chinese": "实在",
+  "pinyin": "shízai",
+  "meaning": "ซื่อสัตย์, จริงใจ",
+  "example": "他是一个很实在的人。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_489",
+  "chinese": "食物",
+  "pinyin": "shíwù",
+  "meaning": "อาหาร, ของกิน",
+  "example": "冰箱里储存了很多食物。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_490",
+  "chinese": "使用",
+  "pinyin": "shiyòng",
+  "meaning": "ใช้งาน",
+  "example": "请正确使用这台机器。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_491",
+  "chinese": "市",
+  "pinyin": "shì",
+  "meaning": "เมือง, ตลาด",
+  "example": "成都市是中国西部的中心城市。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_492",
+  "chinese": "市长",
+  "pinyin": "shìzhăng",
+  "meaning": "นายกเทศมนตรี",
+  "example": "市长发表了讲话。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_493",
+  "chinese": "事情",
+  "pinyin": "shiqing",
+  "meaning": "เรื่องราว, ธุระ",
+  "example": "这件事我会处理好的。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_494",
+  "chinese": "收",
+  "pinyin": "shōu",
+  "meaning": "รับ (จดหมาย/ของ)",
+  "example": "我收到了你的礼物。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_495",
+  "chinese": "收到",
+  "pinyin": "shōudào",
+  "meaning": "ได้รับ",
+  "example": "你收到我的邮件了吗？",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_496",
+  "chinese": "收入",
+  "pinyin": "shourù",
+  "meaning": "รายได้",
+  "example": "他的月收入很高。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_497",
+  "chinese": "手表",
+  "pinyin": "shoubičo",
+  "meaning": "นาฬิกาข้อมือ",
+  "example": "这块手表是我生日送的。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_498",
+  "chinese": "受到",
+  "pinyin": "shòudào",
+  "meaning": "ได้รับ (ผลกระทบ/การต้อนรับ)",
+  "example": "他在学校受到了表扬。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_499",
+  "chinese": "舒服",
+  "pinyin": "shūfu",
+  "meaning": "สบาย",
+  "example": "洗个热水澡真舒服。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_500",
+  "chinese": "熟",
+  "pinyin": "shú / shóu",
+  "meaning": "สุก, คุ้นเคย",
+  "example": "米饭煮熟了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_501",
+  "chinese": "数",
+  "pinyin": "shǔ",
+  "meaning": "นับ",
+  "example": "请数一数钱够不够。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_502",
+  "chinese": "数字",
+  "pinyin": "shuzì",
+  "meaning": "ตัวเลข",
+  "example": "请在纸上写下这些数字。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_503",
+  "chinese": "水平",
+  "pinyin": "shuǐpíng",
+  "meaning": "ระดับความสามารถ",
+  "example": "他的汉语水平提高了很多。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_504",
+  "chinese": "顺利",
+  "pinyin": "shùnli",
+  "meaning": "ราบรื่น, เรียบร้อยดี",
+  "example": "祝你考试顺利。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_505",
+  "chinese": "说明",
+  "pinyin": "shuōmíng",
+  "meaning": "อธิบาย, คำชี้แจง",
+  "example": "请阅读产品说明书。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_506",
+  "chinese": "司机",
+  "pinyin": "sīji",
+  "meaning": "คนขับรถ",
+  "example": "出租车司机开车很稳。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_507",
+  "chinese": "送到",
+  "pinyin": "sòngdào",
+  "meaning": "ส่งถึง",
+  "example": "请把包裹送到这个地址。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_508",
+  "chinese": "送给",
+  "pinyin": "sòng gěi",
+  "meaning": "มอบให้แก่",
+  "example": "这束花是送给你的。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_509",
+  "chinese": "算",
+  "pinyin": "suan",
+  "meaning": "คำนวณ, นับว่า",
+  "example": "这道题你算对了吗？",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_510",
+  "chinese": "虽然",
+  "pinyin": "suīrán",
+  "meaning": "ถึงแม้ว่า",
+  "example": "虽然很累，但是很开心。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_511",
+  "chinese": "随便",
+  "pinyin": "suíbian",
+  "meaning": "ตามสบาย, ตามใจ",
+  "example": "你随便坐，不用客气。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_512",
+  "chinese": "随时",
+  "pinyin": "suíshí",
+  "meaning": "ได้ตลอดเวลา",
+  "example": "有困难随时来找我。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_513",
+  "chinese": "所以",
+  "pinyin": "suǒyǐ",
+  "meaning": "ดังนั้น",
+  "example": "今天下雨，所以我没去。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_514",
+  "chinese": "所有",
+  "pinyin": "suǒyǒu",
+  "meaning": "ทั้งหมด",
+  "example": "所有的学生都通过了考试。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_515",
+  "chinese": "它",
+  "pinyin": "tā",
+  "meaning": "มัน (สรรพนามแทนสัตว์/สิ่งของ)",
+  "example": "这只狗真可爱，它叫什么名字？",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_516",
+  "chinese": "它们",
+  "pinyin": "tāmen",
+  "meaning": "พวกมัน",
+  "example": "树上有两只鸟，它们在唱歌。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_517",
+  "chinese": "太太",
+  "pinyin": "tàitai",
+  "meaning": "คุณนาย, ภรรยา",
+  "example": "王太太是一位画家。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_518",
+  "chinese": "太阳",
+  "pinyin": "tài yáng",
+  "meaning": "ดวงอาทิตย์",
+  "example": "太阳从东边升起。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_519",
+  "chinese": "态度",
+  "pinyin": "tài dù",
+  "meaning": "ทัศนคติ,ท่าที",
+  "example": "他对工作的态度很认真。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_520",
+  "chinese": "讨论",
+  "pinyin": "tăolùn",
+  "meaning": "อภิปราย, ถกกัน",
+  "example": "我们在讨论明年的计划。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_521",
+  "chinese": "套",
+  "pinyin": "tào",
+  "meaning": "ชุด (ลักษณนามชุดสูท/บ้าน)",
+  "example": "我买了一套新西装。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_522",
+  "chinese": "特别",
+  "pinyin": "tèbié",
+  "meaning": "เป็นพิเศษ, พิเศษ",
+  "example": "今天的天气特别好。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_523",
+  "chinese": "特点",
+  "pinyin": "tèdiăn",
+  "meaning": "จุดเด่น, ลักษณะพิเศษ",
+  "example": "这座城市最大的特点是历史悠久。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_524",
+  "chinese": "疼",
+  "pinyin": "téng",
+  "meaning": "เจ็บ, ปวด",
+  "example": "我今天头疼。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_525",
+  "chinese": "提",
+  "pinyin": "tí",
+  "meaning": "ถือ, ยก, เสนอ",
+  "example": "他手里提着一个箱子。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_526",
+  "chinese": "提出",
+  "pinyin": "tíchū",
+  "meaning": "เสนอ, ยกประเด็นขึ้นมา",
+  "example": "他在会上提出了一个好建议。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_527",
+  "chinese": "提到",
+  "pinyin": "tídào",
+  "meaning": "เอ่ยถึง",
+  "example": "他在信里提到了你。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_528",
+  "chinese": "提高",
+  "pinyin": "tí//gāo",
+  "meaning": "ยกระดับ, พัฒนาให้สูงขึ้น",
+  "example": "我们要努力提高汉语水平。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_529",
+  "chinese": "题",
+  "pinyin": "tí",
+  "meaning": "โจทย์, ข้อสอบ",
+  "example": "这张试卷一共有五十道题。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_530",
+  "chinese": "体育",
+  "pinyin": "tiyù",
+  "meaning": "พลศึกษา, กีฬา",
+  "example": "我最喜欢的学科是体育。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_531",
+  "chinese": "体育场",
+  "pinyin": "tiyùchăng",
+  "meaning": "สนามกีฬากลางแจ้ง",
+  "example": "周末体育场里有足球赛。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_532",
+  "chinese": "体育馆",
+  "pinyin": "tiyùguǎn",
+  "meaning": "โรงยิม, สนามกีฬาในร่ม",
+  "example": "我们在体育馆打篮球。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_533",
+  "chinese": "天上",
+  "pinyin": "tiānshàng",
+  "meaning": "บนท้องฟ้า",
+  "example": "天上有许多星星。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_534",
+  "chinese": "条",
+  "pinyin": "tiáo",
+  "meaning": "เส้น, สาย (ลักษณนามถนน/ปลา)",
+  "example": "这条路通往公园。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_535",
+  "chinese": "条件",
+  "pinyin": "tiáojiàn",
+  "meaning": "เงื่อนไข, สภาพ",
+  "example": "这里的居住条件很好。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_536",
+  "chinese": "听讲",
+  "pinyin": "tīng/jiăng",
+  "meaning": "ตั้งใจฟังการบรรยาย",
+  "example": "同学们在课堂上认真听讲。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_537",
+  "chinese": "听说",
+  "pinyin": "tīngshuō",
+  "meaning": "ได้ยินมาว่า",
+  "example": "听说明天要下雨。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_538",
+  "chinese": "停",
+  "pinyin": "tíng",
+  "meaning": "หยุด, จอด",
+  "example": "车子在路边停了下来。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_539",
+  "chinese": "停车",
+  "pinyin": "tíng//chē",
+  "meaning": "จอดรถ",
+  "example": "这里禁止停车。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_540",
+  "chinese": "停车场",
+  "pinyin": "tíngchēchăng",
+  "meaning": "ลานจอดรถ",
+  "example": "停车场里停满了车。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_541",
+  "chinese": "挺",
+  "pinyin": "tĩng",
+  "meaning": "ค่อนข้าง (มาก)",
+  "example": "这本书挺好看的。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_542",
+  "chinese": "挺好",
+  "pinyin": "tĩng hão",
+  "meaning": "ค่อนข้างดีทีเดียว",
+  "example": "今天的天气挺好的。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_543",
+  "chinese": "通",
+  "pinyin": "tōng",
+  "meaning": "เชื่อมต่อ, ผ่าน",
+  "example": "这条电话线不通。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_544",
+  "chinese": "通过",
+  "pinyin": "tôngguò",
+  "meaning": "ผ่าน (ข้อสอบ/ด่าน), โดยผ่าน",
+  "example": "他顺利通过了考试。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_545",
+  "chinese": "通知",
+  "pinyin": "tōngzhī",
+  "meaning": "ประกาศ, แจ้งให้ทราบ",
+  "example": "我收到了开会通知。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_546",
+  "chinese": "同时",
+  "pinyin": "tóngshí",
+  "meaning": "ในเวลาเดียวกัน, พร้อมกัน",
+  "example": "他们俩同时举起了手。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_547",
+  "chinese": "同事",
+  "pinyin": "tóngshì",
+  "meaning": "เพื่อนร่วมงาน",
+  "example": "我和同事相处得很融洽。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_548",
+  "chinese": "同样",
+  "pinyin": "tóngyàng",
+  "meaning": "เหมือนกัน",
+  "example": "我们有着同样的梦想。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_549",
+  "chinese": "头",
+  "pinyin": "tóu",
+  "meaning": "หัว, ศีรษะ",
+  "example": "他轻轻摇了摇头。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_550",
+  "chinese": "里头",
+  "pinyin": "tou (litou)",
+  "meaning": "ข้างใน (คำเสริม)",
+  "example": "屋子力头很温暖。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_551",
+  "chinese": "头发",
+  "pinyin": "tóufa",
+  "meaning": "เส้นผม",
+  "example": "她留着一头长发。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_552",
+  "chinese": "图片",
+  "pinyin": "túpiàn",
+  "meaning": "รูปภาพ",
+  "example": "书里有很多精美的图片。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_553",
+  "chinese": "推",
+  "pinyin": "tui",
+  "meaning": "ผลัก, ดัน",
+  "example": "请推门进入。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_554",
+  "chinese": "腿",
+  "pinyin": "tui",
+  "meaning": "ขา",
+  "example": "跑步时把腿拉伤了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_555",
+  "chinese": "外地",
+  "pinyin": "waidì",
+  "meaning": "ต่างถิ่น, ต่างจังหวัด",
+  "example": "他是一个外地人。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_556",
+  "chinese": "外卖",
+  "pinyin": "wàimài",
+  "meaning": "อาหารเดลิเวอรี, สั่งกลับบ้าน",
+  "example": "今天中午我们点外卖吧。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_557",
+  "chinese": "完",
+  "pinyin": "wán",
+  "meaning": "เสร็จ, หมด",
+  "example": "这本书我已经看完了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_558",
+  "chinese": "完成",
+  "pinyin": "wán/chéng",
+  "meaning": "ทำสำเร็จ, เสร็จสิ้น",
+  "example": "我们按时完成了任务。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_559",
+  "chinese": "完全",
+  "pinyin": "wánquán",
+  "meaning": "อย่างสิ้นเชิง, โดยสมบูรณ์",
+  "example": "我完全同意你的看法。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_560",
+  "chinese": "晚安",
+  "pinyin": "wăn 'an",
+  "meaning": "ราตรีสวัสดิ์",
+  "example": "时间不早了，大家晚安。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_561",
+  "chinese": "晚报",
+  "pinyin": "wănbào",
+  "meaning": "หนังสือพิมพ์ภาคค่ำ",
+  "example": "爷爷喜欢看晚报。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_562",
+  "chinese": "晚餐",
+  "pinyin": "wancān",
+  "meaning": "อาหารมื้อค่ำ",
+  "example": "今晚我们吃丰盛的晚餐。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_563",
+  "chinese": "晚会",
+  "pinyin": "wănhui",
+  "meaning": "งานเลี้ยงสังสรรค์ภาคค่ำ",
+  "example": "学校今晚举办新年晚会。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_564",
+  "chinese": "碗",
+  "pinyin": "wăn",
+  "meaning": "ชาม, ถ้วย (ลักษณนาม)",
+  "example": "我吃了一碗面条。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_565",
+  "chinese": "万",
+  "pinyin": "wan",
+  "meaning": "หมื่น (10000)",
+  "example": "这辆汽车价值十万元。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_566",
+  "chinese": "网",
+  "pinyin": "wăng",
+  "meaning": "อินเทอร์เน็ต, ตาข่าย",
+  "example": "家里刚装了宽带网。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_567",
+  "chinese": "网球",
+  "pinyin": "wangqiú",
+  "meaning": "เทนนิส",
+  "example": "周末我去打网球。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_568",
+  "chinese": "网站",
+  "pinyin": "wăngzhàn",
+  "meaning": "เว็บไซต์",
+  "example": "这是一个学习汉语的网站。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_569",
+  "chinese": "往",
+  "pinyin": "wăng",
+  "meaning": "ไปทาง..., มุ่งหน้า",
+  "example": "向前走，往右拐。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_570",
+  "chinese": "为",
+  "pinyin": "wèi",
+  "meaning": "เพื่อ",
+  "example": "为了健康，我们要多运动。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_571",
+  "chinese": "为什么",
+  "pinyin": "wèi shénme",
+  "meaning": "ทำไม, เพราะเหตุใด",
+  "example": "你为什么学汉语？",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_572",
+  "chinese": "位",
+  "pinyin": "wèi",
+  "meaning": "ท่าน (ลักษณนามยกย่องคน)",
+  "example": "这位是我们的老师。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_573",
+  "chinese": "味道",
+  "pinyin": "wèi dào",
+  "meaning": "รสชาติ",
+  "example": "这家菜馆的菜味道很好。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_574",
+  "chinese": "喂",
+  "pinyin": "wèi",
+  "meaning": "ฮัลโหล (โทรศัพท์)",
+  "example": "喂，请问王经理在吗？",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_575",
+  "chinese": "温度",
+  "pinyin": "wendù",
+  "meaning": "อุณหภูมิ",
+  "example": "今天的温度只有十度。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_576",
+  "chinese": "闻",
+  "pinyin": "wén",
+  "meaning": "ดมกลิ่น",
+  "example": "花闻起来很香。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_577",
+  "chinese": "问路",
+  "pinyin": "wènlù",
+  "meaning": "ถามทาง",
+  "example": "他在向警察问路。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_578",
+  "chinese": "问题",
+  "pinyin": "wèntí",
+  "meaning": "คำถาม, ปัญหา",
+  "example": "谁有什么问题可以提出来。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_579",
+  "chinese": "午餐",
+  "pinyin": "wucān",
+  "meaning": "อาหารกลางวัน",
+  "example": "我们在公司吃午餐。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_580",
+  "chinese": "午睡",
+  "pinyin": "wŭshuì",
+  "meaning": "นอนกลางวัน",
+  "example": "爷爷习惯午睡一会儿。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_581",
+  "chinese": "西北",
+  "pinyin": "xīběi",
+  "meaning": "ตะวันตกเฉียงเหนือ",
+  "example": "中国西北地区景色很美。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_582",
+  "chinese": "西餐",
+  "pinyin": "xīcān",
+  "meaning": "อาหารตะวันตก",
+  "example": "今晚我们去吃西餐。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_583",
+  "chinese": "西方",
+  "pinyin": "xīfāng",
+  "meaning": "ตะวันตก",
+  "example": "西方文化与东方文化有很大不同。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_584",
+  "chinese": "西南",
+  "pinyin": "xīnán",
+  "meaning": "ตะวันตกเฉียงใต้",
+  "example": "昆明位于中国西南。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_585",
+  "chinese": "西医",
+  "pinyin": "xīyī",
+  "meaning": "แพทย์แผนตะวันตก",
+  "example": "他去看了西医。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_586",
+  "chinese": "习惯",
+  "pinyin": "xíguàn",
+  "meaning": "นิสัย, ความเคยชิน",
+  "example": "我已经习惯早睡早起了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_587",
+  "chinese": "洗衣机",
+  "pinyin": "xiyīji",
+  "meaning": "เครื่องซักผ้า",
+  "example": "我在用洗衣机洗衣服。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_588",
+  "chinese": "洗澡",
+  "pinyin": "xi/zão",
+  "meaning": "อาบน้ำ",
+  "example": "运动后洗个澡很舒服。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_589",
+  "chinese": "下",
+  "pinyin": "xià",
+  "meaning": "ครั้ง, เที่ยว (ลักษณนาม)",
+  "example": "请让我试一下。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_590",
+  "chinese": "下雪",
+  "pinyin": "xia xuě",
+  "meaning": "หิมะตก",
+  "example": "北方冬天经常下雪。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_591",
+  "chinese": "下周",
+  "pinyin": "xia zhōu",
+  "meaning": "สัปดาห์หน้า",
+  "example": "下周我要去北京出差。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_592",
+  "chinese": "夏天",
+  "pinyin": "xiatiān",
+  "meaning": "ฤดูร้อน",
+  "example": "我最喜欢夏天的海滩。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_593",
+  "chinese": "相同",
+  "pinyin": "xiangtong",
+  "meaning": "เหมือนกัน",
+  "example": "我们俩的意见完全相同。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_594",
+  "chinese": "相信",
+  "pinyin": "xiāngxìn",
+  "meaning": "เชื่อมั่น, เชื่อใจ",
+  "example": "我相信你一定能行。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_595",
+  "chinese": "响",
+  "pinyin": "xiǎng",
+  "meaning": "ดัง (เสียง)",
+  "example": "电话铃响了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_596",
+  "chinese": "想到",
+  "pinyin": "xiǎngdào",
+  "meaning": "นึกถึง, คิดถึง",
+  "example": "我突然想到了一个好主意。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_597",
+  "chinese": "想法",
+  "pinyin": "xiăng  fă",
+  "meaning": "ความคิด",
+  "example": "你对这个项目有什么想法？",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_598",
+  "chinese": "想起",
+  "pinyin": "xiǎngqi",
+  "meaning": "นึกออก, คิดออก",
+  "example": "我想起他的名字了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_599",
+  "chinese": "向",
+  "pinyin": "xiàng",
+  "meaning": "ทาง, ไปทาง, หันไป",
+  "example": "向前走，向右拐。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_600",
+  "chinese": "相机",
+  "pinyin": "xiangji",
+  "meaning": "กล้องถ่ายรูป",
+  "example": "我买了一部新相机。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_601",
+  "chinese": "像",
+  "pinyin": "xiàng",
+  "meaning": "เหมือน, คล้าย",
+  "example": "他长得跟他父亲很像。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_602",
+  "chinese": "小",
+  "pinyin": "xiǎo (Xiǎo Wáng)",
+  "meaning": "เสี่ยว (คำนำหน้าชื่อเรียกสนิทสนม เช่น น้องหวาง)",
+  "example": "小王，你来一下。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_603",
+  "chinese": "小声",
+  "pinyin": "xiǎo shēng",
+  "meaning": "เสียงเบา",
+  "example": "在图书馆请小声说话。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_604",
+  "chinese": "小时候",
+  "pinyin": "xiǎoshíhou",
+  "meaning": "ตอนเด็กๆ",
+  "example": "我小时候在北京长大。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_605",
+  "chinese": "小说",
+  "pinyin": "xiǎoshuō",
+  "meaning": "นวนิยาย",
+  "example": "我很喜欢看历史小说。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_606",
+  "chinese": "小心",
+  "pinyin": "xiǎoxīn",
+  "meaning": "ระมัดระวัง",
+  "example": "路上小心，注意安全。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_607",
+  "chinese": "小组",
+  "pinyin": "xiǎozů",
+  "meaning": "กลุ่มย่อย",
+  "example": "我们在课上分成几个小组讨论。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_608",
+  "chinese": "校园",
+  "pinyin": "xiàoyuán",
+  "meaning": "1.บริเวณโรงเรียน, 2.มหาวิทยาลัย",
+  "example": "校园里到处都是绿树。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_609",
+  "chinese": "校长",
+  "pinyin": "xiàozhăng",
+  "meaning": "อาจารย์ใหญ่, อธิการบดี",
+  "example": "校长发表了开学演讲。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_610",
+  "chinese": "笑话",
+  "pinyin": "xiaohua",
+  "meaning": "เรื่องตลก, มุกตลก",
+  "example": "他讲了一个很有趣的笑话。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_611",
+  "chinese": "笑话儿",
+  "pinyin": "xiaohuar",
+  "meaning": "เรื่องตลก",
+  "example": "大家被他的笑话儿逗笑了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_612",
+  "chinese": "鞋",
+  "pinyin": "xié",
+  "meaning": "รองเท้า",
+  "example": "这双鞋穿起来很舒服。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_613",
+  "chinese": "心里",
+  "pinyin": "xīn lǐ",
+  "meaning": "ในใจ",
+  "example": "我心里非常感谢你。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_614",
+  "chinese": "心情",
+  "pinyin": "xīnging",
+  "meaning": "อารมณ์, ความรู้สึก",
+  "example": "今天天气好，我的心情也很好。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_615",
+  "chinese": "心中",
+  "pinyin": "xīnzhōng",
+  "meaning": "ในใจ",
+  "example": "他在我心中是一位英雄。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_616",
+  "chinese": "新闻",
+  "pinyin": "xīnwén",
+  "meaning": "ข่าว",
+  "example": "我每天晚上都看电视新闻。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_617",
+  "chinese": "信",
+  "pinyin": "xìn",
+  "meaning": "จดหมาย",
+  "example": "我给妈妈写了一封信。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_618",
+  "chinese": "信号",
+  "pinyin": "xìnhào",
+  "meaning": "สัญญาณ",
+  "example": "这里手机没有信号。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_619",
+  "chinese": "信息",
+  "pinyin": "xìnxī",
+  "meaning": "ข้อมูล, ข่าวสาร",
+  "example": "网络给我们带来了大量信息。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_620",
+  "chinese": "信心",
+  "pinyin": "xinxīn",
+  "meaning": "ຄວາມมั่นใจ",
+  "example": "我对这次考试很有信心。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_621",
+  "chinese": "信用卡",
+  "pinyin": "xìnyòngkă",
+  "meaning": "บัตรเครดิต",
+  "example": "现在很多人出门不带现金，只带信用卡。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_622",
+  "chinese": "星星",
+  "pinyin": "xīngxing",
+  "meaning": "ดวงดาว",
+  "example": "夜空中有许多闪烁的星星。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_623",
+  "chinese": "行动",
+  "pinyin": "xíngdòng",
+  "meaning": "การกระทำ, ลงมือทำ",
+  "example": "我们要用实际行动来证明。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_624",
+  "chinese": "行人",
+  "pinyin": "xíngrén",
+  "meaning": "คนเดินถนน",
+  "example": "过马路要注意行人。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_625",
+  "chinese": "行为",
+  "pinyin": "xíngwéi",
+  "meaning": "พฤติกรรม",
+  "example": "我们要规范自己的行为。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_626",
+  "chinese": "姓",
+  "pinyin": "xìng",
+  "meaning": "แซ่, นามสกุล",
+  "example": "请问您贵姓？",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_627",
+  "chinese": "姓名",
+  "pinyin": "xìngmíng",
+  "meaning": "ชื่อและนามสกุล",
+  "example": "请在试卷上写上姓名。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_628",
+  "chinese": "休假",
+  "pinyin": "xiū jià",
+  "meaning": "ลาพักร้อน, หยุดพักผ่อน",
+  "example": "我下周打算休假去旅游。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_629",
+  "chinese": "许多",
+  "pinyin": "xůduō",
+  "meaning": "มากมาย",
+  "example": "公园里有许多人在跑步。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_630",
+  "chinese": "选",
+  "pinyin": "xuăn",
+  "meaning": "เลือก",
+  "example": "你在这些衣服里选一件吧。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_631",
+  "chinese": "学期",
+  "pinyin": "xuéqī",
+  "meaning": "ภาคเรียน, เทอม",
+  "example": "这个学期很快就要结束了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_632",
+  "chinese": "雪",
+  "pinyin": "xuě",
+  "meaning": "หิมะ",
+  "example": "冬天下了好大一场雪。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_633",
+  "chinese": "颜色",
+  "pinyin": "yánsè",
+  "meaning": "สี",
+  "example": "你喜欢什么颜色的衣服？",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_634",
+  "chinese": "眼",
+  "pinyin": "yǎn",
+  "meaning": "ตา",
+  "example": "他闭上眼睛休息一会儿。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_635",
+  "chinese": "眼睛",
+  "pinyin": "yǎnjing",
+  "meaning": "ดวงตา",
+  "example": "她的眼睛很大很漂亮。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_636",
+  "chinese": "养",
+  "pinyin": "yăng",
+  "meaning": "เลี้ยง (สัตว์/คน)",
+  "example": "我家里养了一只猫。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_637",
+  "chinese": "样子",
+  "pinyin": "yangzi",
+  "meaning": "หน้าตา, รูปร่าง",
+  "example": "看他的样子好像很累。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_638",
+  "chinese": "要求",
+  "pinyin": "yāoqiú",
+  "meaning": "ข้อเรียกร้อง, เรียกร้อง",
+  "example": "老师对我们的要求很严格。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_639",
+  "chinese": "药",
+  "pinyin": "yào",
+  "meaning": "ยา",
+  "example": "生病了要按时吃药。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_640",
+  "chinese": "药店",
+  "pinyin": "yàodian",
+  "meaning": "ร้านขายยา",
+  "example": "街角有一家24小时药店。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_641",
+  "chinese": "药片",
+  "pinyin": "yàopiàn",
+  "meaning": "ยาเม็ด",
+  "example": "这种药一次吃两片。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_642",
+  "chinese": "药水",
+  "pinyin": "yàoshui",
+  "meaning": "ยาน้ำ",
+  "example": "医生给我开了一瓶药水。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_643",
+  "chinese": "也许",
+  "pinyin": "yěxů",
+  "meaning": "บางที, อาจจะ",
+  "example": "明天他也许会来。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_644",
+  "chinese": "夜",
+  "pinyin": "ye",
+  "meaning": "กลางคืน, ค่ำคืน",
+  "example": "长夜漫漫。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_645",
+  "chinese": "夜里",
+  "pinyin": "yè lĩ",
+  "meaning": "กลางดึก",
+  "example": "夜里下起了大雨。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_646",
+  "chinese": "一部分",
+  "pinyin": "yí bùfen",
+  "meaning": "บางส่วน",
+  "example": "我只看了书的一部分。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_647",
+  "chinese": "一定",
+  "pinyin": "yídìng",
+  "meaning": "แน่นอน, ต้อง...",
+  "example": "明天我一定会去。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_648",
+  "chinese": "一共",
+  "pinyin": "yigòng",
+  "meaning": "ทั้งหมด (รวมกัน)",
+  "example": "这些东西一共多少钱？",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_649",
+  "chinese": "一会儿",
+  "pinyin": "yíhuir",
+  "meaning": "สักครู่",
+  "example": "请等一会儿，马上就好。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_650",
+  "chinese": "一路平安",
+  "pinyin": "yílù-píng'an",
+  "meaning": "เดินทางโดยสวัสดิภาพ",
+  "example": "祝你一路平安，到达后给我打电话。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_651",
+  "chinese": "一路顺风",
+  "pinyin": "yílù-shùnfēng",
+  "meaning": "เดินทางโดยสวัสดิภาพ (ขอให้ลมส่งท้ายราบรื่น)",
+  "example": "祝你旅途愉快，一路顺风。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_652",
+  "chinese": "已经",
+  "pinyin": "yijīng",
+  "meaning": "แล้ว",
+  "example": "他已经离开公司了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_653",
+  "chinese": "以后",
+  "pinyin": "yìhòu",
+  "meaning": "หลังจากนี้, ในอนาคต",
+  "example": "以后请多关照。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_654",
+  "chinese": "以前",
+  "pinyin": "yiqián",
+  "meaning": "ก่อนหน้านี้, แต่ก่อน",
+  "example": "我以前来过北京。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_655",
+  "chinese": "以上",
+  "pinyin": "yishàng",
+  "meaning": "ตั้งแต่...ขึ้นไป",
+  "example": "年满十八岁以上可以考驾照。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_656",
+  "chinese": "以外",
+  "pinyin": "yīwài",
+  "meaning": "นอกเหนือจาก",
+  "example": "除了他以外，大家都来了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_657",
+  "chinese": "以为",
+  "pinyin": "yǐwéi",
+  "meaning": "เข้าใจว่า, นึกว่า",
+  "example": "我以为你今天不来呢。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_658",
+  "chinese": "以下",
+  "pinyin": "yīxià",
+  "meaning": "ต่ำกว่า, ดังต่อไปนี้",
+  "example": "请看以下几个问题。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_659",
+  "chinese": "椅子",
+  "pinyin": "yizi",
+  "meaning": "เก้าอี้",
+  "example": "请坐在椅子上。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_660",
+  "chinese": "一般",
+  "pinyin": "yìbān",
+  "meaning": "ทั่วไป, ปรกติ",
+  "example": "我一般七点起床。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_661",
+  "chinese": "一点点",
+  "pinyin": "yì diǎndiǎn",
+  "meaning": "นิดหน่อย",
+  "example": "我懂一点点汉语。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_662",
+  "chinese": "一生",
+  "pinyin": "yìshēng",
+  "meaning": "ตลอดชีวิต",
+  "example": "老师奉献了自己的一生。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_663",
+  "chinese": "一直",
+  "pinyin": "yìzhí",
+  "meaning": "มาโดยตลอด, ตรงไป",
+  "example": "他一直在努力工作。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_664",
+  "chinese": "亿",
+  "pinyin": "yì",
+  "meaning": "ร้อยล้าน",
+  "example": "中国的人口超过十四亿。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_665",
+  "chinese": "意见",
+  "pinyin": "yì jiàn",
+  "meaning": "ความคิดเห็น",
+  "example": "大家有什么意见请提出来。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_666",
+  "chinese": "意思",
+  "pinyin": "yìsi",
+  "meaning": "ความหมาย, ความสนุก",
+  "example": "这个词是什么意思？",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_667",
+  "chinese": "因为",
+  "pinyin": "yīn wèi",
+  "meaning": "เพราะว่า",
+  "example": "因为下雨，所以比赛取消了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_668",
+  "chinese": "阴",
+  "pinyin": "yīn",
+  "meaning": "มืดครึ้ม",
+  "example": "今天天气阴沉沉的。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_669",
+  "chinese": "阴天",
+  "pinyin": "yīntiān",
+  "meaning": "วันฟ้าครึ้ม",
+  "example": "今天是个阴天，没有太阳。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_670",
+  "chinese": "音节",
+  "pinyin": "yīnjié",
+  "meaning": "พยางค์",
+  "example": "这个词有两个音节。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_671",
+  "chinese": "音乐",
+  "pinyin": "yīnyuè",
+  "meaning": "ดนตรี, เพลง",
+  "example": "我喜欢听轻音乐。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_672",
+  "chinese": "音乐会",
+  "pinyin": "yīnyuèhuì",
+  "meaning": "คอนเสิร์ตดนตรี",
+  "example": "今晚我去听了一场音乐会。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_673",
+  "chinese": "银行",
+  "pinyin": "yínháng",
+  "meaning": "ธนาคาร",
+  "example": "我去银行存钱。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_674",
+  "chinese": "银行卡",
+  "pinyin": "yínhóngkă",
+  "meaning": "บัตรธนาคาร, บัตรเอทีเอ็ม",
+  "example": "我的银行卡丢了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_675",
+  "chinese": "应该",
+  "pinyin": "yìnggai",
+  "meaning": "ควรจะ",
+  "example": "我们应该按时完成作业。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_676",
+  "chinese": "英文",
+  "pinyin": "Yīngwén",
+  "meaning": "ภาษาอังกฤษ",
+  "example": "他会说流利的英文。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_677",
+  "chinese": "英语",
+  "pinyin": "Yīngyű",
+  "meaning": "ภาษาอังกฤษ",
+  "example": "学校开设了英语课。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_678",
+  "chinese": "影片",
+  "pinyin": "yingpiàn",
+  "meaning": "ภาพยนตร์",
+  "example": "这部影片非常感人。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_679",
+  "chinese": "影响",
+  "pinyin": "yingxiăng",
+  "meaning": "ผลกระทบ, ส่งผลกระทบ",
+  "example": "噪音会影响睡眠。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_680",
+  "chinese": "永远",
+  "pinyin": "yǒngyuǎn",
+  "meaning": "ตลอดไป",
+  "example": "我们永远是好朋友。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_681",
+  "chinese": "油",
+  "pinyin": "yóu",
+  "meaning": "น้ำมัน",
+  "example": "做菜要放适量的油。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_682",
+  "chinese": "游客",
+  "pinyin": "yóukè",
+  "meaning": "นักท่องเที่ยว",
+  "example": "景区里有很多外国游客。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_683",
+  "chinese": "友好",
+  "pinyin": "yǒuhão",
+  "meaning": "เป็นมิตร",
+  "example": "这里的居民非常友好。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_684",
+  "chinese": "有空儿",
+  "pinyin": "yõukongr",
+  "meaning": "มีเวลาว่าง",
+  "example": "你周末有空儿吗？",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_685",
+  "chinese": "有人",
+  "pinyin": "yǒu rén",
+  "meaning": "มีคน",
+  "example": "请进，房间里有人吗？",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_686",
+  "chinese": "有点儿",
+  "pinyin": "you(yì)diǎnr",
+  "meaning": "E0kนิดหน่อย",
+  "example": "我今天有点儿累。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_687",
+  "chinese": "有意思",
+  "pinyin": "yǒu yìsi",
+  "meaning": "น่าสนใจ, สนุก",
+  "example": "这本书很有意思。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_688",
+  "chinese": "又",
+  "pinyin": "you",
+  "meaning": "อีก (ครั้ง/รอบ)",
+  "example": "他今天又迟到了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_689",
+  "chinese": "鱼",
+  "pinyin": "yú",
+  "meaning": "ปลา",
+  "example": "猫很喜欢吃鱼。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_690",
+  "chinese": "语言",
+  "pinyin": "yŭyán",
+  "meaning": "ภาษา",
+  "example": "汉语是一门很难学的语言。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_691",
+  "chinese": "原来",
+  "pinyin": "yuánlái",
+  "meaning": "แท้จริงแล้ว, แต่เดิม",
+  "example": "原来他是你的哥哥呀。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_692",
+  "chinese": "原因",
+  "pinyin": "yuányīn",
+  "meaning": "สาเหตุ, เหตุผล",
+  "example": "请告诉我迟到的原因。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_693",
+  "chinese": "院",
+  "pinyin": "yuàn",
+  "meaning": "ลาน, สถาบัน, โรงพยาบาล",
+  "example": "院子里种了许多花。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_694",
+  "chinese": "院长",
+  "pinyin": "yuànzhăng",
+  "meaning": "คณบดี, ผู้อำนวยการโรงพยาบาล",
+  "example": "他是我们学院的院长。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_695",
+  "chinese": "院子",
+  "pinyin": "yuanzi",
+  "meaning": "ลานบ้าน",
+  "example": "孩子们在院子里玩耍。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_696",
+  "chinese": "愿意",
+  "pinyin": "yuànyì",
+  "meaning": "ยินดี",
+  "example": "你愿意嫁给我吗？",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_697",
+  "chinese": "月份",
+  "pinyin": "yuèfèn",
+  "meaning": "เดือน",
+  "example": "你出生在哪个月份？",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_698",
+  "chinese": "月亮",
+  "pinyin": "yuèliang",
+  "meaning": "ดวงจันทร์",
+  "example": "今晚的月亮很圆。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_699",
+  "chinese": "越",
+  "pinyin": "yuè",
+  "meaning": "ยิ่ง...",
+  "example": "雨越下越大。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_700",
+  "chinese": "越来越",
+  "pinyin": "yuè lái yuè",
+  "meaning": "นับวันยิ่ง...",
+  "example": "他的汉语说得越来越好了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_701",
+  "chinese": "云",
+  "pinyin": "yún",
+  "meaning": "เมฆ",
+  "example": "天空中飘着几朵白云。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_702",
+  "chinese": "运动",
+  "pinyin": "yùndòng",
+  "meaning": "ออกกำลังกาย, กีฬา",
+  "example": "多运动对身体健康有益。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_703",
+  "chinese": "咱",
+  "pinyin": "zán",
+  "meaning": "พวกเรา (รวมผู้ฟัง)",
+  "example": "咱俩一起去吧。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_704",
+  "chinese": "咱们",
+  "pinyin": "zánmen",
+  "meaning": "พวกเรา",
+  "example": "咱们什么时候出发？",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_705",
+  "chinese": "脏",
+  "pinyin": "zăng",
+  "meaning": "สกปรก",
+  "example": "这件衣服洗干净了，刚才很脏。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_706",
+  "chinese": "早餐",
+  "pinyin": "zǎocān",
+  "meaning": "อาหารเช้า",
+  "example": "吃早餐是一天中很重要的部分。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_707",
+  "chinese": "早晨",
+  "pinyin": "zǎochen",
+  "meaning": "ยามเช้า",
+  "example": "早晨的空气非常清新。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_708",
+  "chinese": "早就",
+  "pinyin": "zǎo jiù",
+  "meaning": "ตั้งแต่เช้า, มานานแล้ว",
+  "example": "这件事我早就知道了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_709",
+  "chinese": "怎么办",
+  "pinyin": "zěnme bàn",
+  "meaning": "จะทำอย่างไรดี",
+  "example": "手机丢了，这可怎么办？",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_710",
+  "chinese": "怎么样",
+  "pinyin": "zěnmeyàng",
+  "meaning": "เป็นอย่างไรบ้าง",
+  "example": "你觉得这家餐厅怎么样？",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_711",
+  "chinese": "怎样",
+  "pinyin": "zěnyàng",
+  "meaning": "อย่างไร, แบบไหน",
+  "example": "请告诉我怎样去车站。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_712",
+  "chinese": "占",
+  "pinyin": "zhàn",
+  "meaning": "ครอบครอง, กินพื้นที่",
+  "example": "这幅画占了很大一面墙。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_713",
+  "chinese": "站",
+  "pinyin": "zhàn",
+  "meaning": "ยืน",
+  "example": "请大家站起来。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_714",
+  "chinese": "站住",
+  "pinyin": "zhàn zhù",
+  "meaning": "หยุดยืน, ยืนหยัด",
+  "example": "前面危险，请站住！",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_715",
+  "chinese": "长",
+  "pinyin": "zhăng",
+  "meaning": "เติบโต, งอกขึ้น",
+  "example": "小树长成了大树。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_716",
+  "chinese": "长大",
+  "pinyin": "zhǎngdà",
+  "meaning": "เติบโตขึ้น",
+  "example": "孩子长大了许多。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_717",
+  "chinese": "找出",
+  "pinyin": "zhǎochū",
+  "meaning": "หาให้พบ, ค้นพบ",
+  "example": "请把错别字找出来。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_718",
+  "chinese": "照顾",
+  "pinyin": "zhào gù",
+  "meaning": "ดูแล",
+  "example": "谢谢你照顾我生病的孩子。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_719",
+  "chinese": "照片",
+  "pinyin": "zhàopiàn",
+  "meaning": "รูปถ่าย",
+  "example": "这张照片拍得很美。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_720",
+  "chinese": "照相",
+  "pinyin": "zhào//xiàng",
+  "meaning": "ถ่ายรูป",
+  "example": "我们一起照张相吧。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_721",
+  "chinese": "这么",
+  "pinyin": "zhème",
+  "meaning": "ขนาดนี้, เช่นนี้",
+  "example": "今天的天气怎么这么冷？",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_722",
+  "chinese": "这时候",
+  "pinyin": "zhè shíhou zhè shí",
+  "meaning": "ในเวลานี้",
+  "example": "这时候门铃响了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_723",
+  "chinese": "这样",
+  "pinyin": "zhèyàng",
+  "meaning": "แบบนี้, เช่นนี้",
+  "example": "如果这样的话，那就好办了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_724",
+  "chinese": "真正",
+  "pinyin": "zhēnzhèng",
+  "meaning": "แท้จริง",
+  "example": "这才是真正的艺术。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_725",
+  "chinese": "正常",
+  "pinyin": "zhèngcháng",
+  "meaning": "ปกติ",
+  "example": "体温一切正常。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_726",
+  "chinese": "正好",
+  "pinyin": "zhenghão",
+  "meaning": "พอดี",
+  "example": "这双鞋我穿正好。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_727",
+  "chinese": "正确",
+  "pinyin": "zhèngquè",
+  "meaning": "ถูกต้อง",
+  "example": "请选择正确的答案。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_728",
+  "chinese": "正是",
+  "pinyin": "zhèng shì",
+  "meaning": "ใช่เลย, พอดีเป๊ะ",
+  "example": "这正是我想要的书。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_729",
+  "chinese": "直接",
+  "pinyin": "zhíjiē",
+  "meaning": "โดยตรง",
+  "example": "坐飞机可以直接到达。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_730",
+  "chinese": "只",
+  "pinyin": "zhi",
+  "meaning": "เพียงแค่",
+  "example": "我只是开个玩笑。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_731",
+  "chinese": "只能",
+  "pinyin": "zhǐ néng",
+  "meaning": "ทำได้แค่...เท่านั้น",
+  "example": "今天下雨，我们只能在家里。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_732",
+  "chinese": "只要",
+  "pinyin": "zhǐyào",
+  "meaning": "ขอแค่เพียง...",
+  "example": "只要努力，就一定能成功。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_733",
+  "chinese": "纸",
+  "pinyin": "zhǐ",
+  "meaning": "กระดาษ",
+  "example": "请给我一张白纸。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_734",
+  "chinese": "中餐",
+  "pinyin": "zhōngcăn",
+  "meaning": "อาหารจีน",
+  "example": "我非常喜欢吃中餐。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_735",
+  "chinese": "中级",
+  "pinyin": "zhōngjí",
+  "meaning": "ระดับกลาง",
+  "example": "他在读汉语中级班。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_736",
+  "chinese": "中年",
+  "pinyin": "zhōngnián",
+  "meaning": "วัยกลางคน",
+  "example": "中年人肩上的担子很重。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_737",
+  "chinese": "中小学",
+  "pinyin": "zhōng-xiǎoxué",
+  "meaning": "โรงเรียนประถมและมัธยม",
+  "example": "国家重视中小学教育。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_738",
+  "chinese": "中心",
+  "pinyin": "zhōngxīn",
+  "meaning": "ศูนย์กลาง",
+  "example": "这里是城市的商业中心。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_739",
+  "chinese": "中医",
+  "pinyin": "zhōngyi",
+  "meaning": "แพทย์แผนจีน",
+  "example": "他去看了中医调理身体。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_740",
+  "chinese": "重点",
+  "pinyin": "zhongdiăn",
+  "meaning": "จุดสำคัญ",
+  "example": "老师讲的这是考试重点。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_741",
+  "chinese": "重视",
+  "pinyin": "zhòngshì",
+  "meaning": "ให้ความสำคัญ",
+  "example": "学校十分重视体育教育。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_742",
+  "chinese": "周",
+  "pinyin": "zhōu",
+  "meaning": "สัปดาห์",
+  "example": "这个项目需要三周时间。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_743",
+  "chinese": "周末",
+  "pinyin": "zhōumò",
+  "meaning": "วันหยุดสุดสัปดาห์",
+  "example": "周末你有什么安排？",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_744",
+  "chinese": "周年",
+  "pinyin": "zhōunián",
+  "meaning": "วันครบรอบปี",
+  "example": "公司今天迎来了十周年庆典。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_745",
+  "chinese": "主人",
+  "pinyin": "zhůrén",
+  "meaning": "เจ้าของบ้าน, เจ้าภาพ",
+  "example": "主人热情地招待了我们。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_746",
+  "chinese": "主要",
+  "pinyin": "zhūyào",
+  "meaning": "หลัก, สำคัญหลัก",
+  "example": "这是今天的主要任务。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_747",
+  "chinese": "住房",
+  "pinyin": "zhùfáng",
+  "meaning": "ที่อยู่อาศัย, บ้านพัก",
+  "example": "政府解决了许多人的住房问题。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_748",
+  "chinese": "住院",
+  "pinyin": "zhù//yuàn",
+  "meaning": "นอนรักษาตัวในโรงพยาบาล",
+  "example": "他生病住院了。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_749",
+  "chinese": "装",
+  "pinyin": "zhuāng",
+  "meaning": "บรรจุ, ใส่, แกล้ง",
+  "example": "箱子里装满了衣服。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_750",
+  "chinese": "准确",
+  "pinyin": "zhunquè",
+  "meaning": "แม่นยำ",
+  "example": "请提供准确的数据。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_751",
+  "chinese": "自己",
+  "pinyin": "zìjǐ",
+  "meaning": "ตัวเอง",
+  "example": "凡事要靠自己。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_752",
+  "chinese": "自行车",
+  "pinyin": "zixíngchē",
+  "meaning": "รถจักรยาน",
+  "example": "我骑自行车去上学。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_753",
+  "chinese": "自由",
+  "pinyin": "ziyóu",
+  "meaning": "อิสระ",
+  "example": "鸟儿在天空中自由地飞翔。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_754",
+  "chinese": "字典",
+  "pinyin": "zìdiăn",
+  "meaning": "พจนานุกรม (ตัวอักษร)",
+  "example": "不懂的字可以查字典。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_755",
+  "chinese": "走过",
+  "pinyin": "zõuguò",
+  "meaning": "เดินผ่าน",
+  "example": "他从我身边走过。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_756",
+  "chinese": "走进",
+  "pinyin": "zõujìn",
+  "meaning": "เดินเข้าไป",
+  "example": "他走进了教室。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_757",
+  "chinese": "走开",
+  "pinyin": "zõukāi",
+  "meaning": "เดินออกไป",
+  "example": "请让他走开。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_758",
+  "chinese": "租",
+  "pinyin": "zū",
+  "meaning": "เช่า",
+  "example": "我在学校附近租了一套房。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_759",
+  "chinese": "组",
+  "pinyin": "zů",
+  "meaning": "กลุ่ม",
+  "example": "同学们分成了四个组。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_760",
+  "chinese": "组成",
+  "pinyin": "zűchéng",
+  "meaning": "ประกอบเป็น",
+  "example": "这些零件组成了机器。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_761",
+  "chinese": "组长",
+  "pinyin": "zűzhăng",
+  "meaning": "หัวหน้ากลุ่ม",
+  "example": "他是我们小组的组长。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_762",
+  "chinese": "嘴",
+  "pinyin": "zui",
+  "meaning": "ปาก",
+  "example": "小鸟张开嘴要吃的。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_763",
+  "chinese": "最近",
+  "pinyin": "zuìjìn",
+  "meaning": "ช่วงนี้, เร็วๆ นี้",
+  "example": "你最近在忙什么？",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_764",
+  "chinese": "作家",
+  "pinyin": "zuòjiā",
+  "meaning": "นักเขียน",
+  "example": "鲁迅是一位著名的作家。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_765",
+  "chinese": "作文",
+  "pinyin": "zuowén",
+  "meaning": "เรียงความ",
+  "example": "今天语文课要写一篇作文。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_766",
+  "chinese": "作业",
+  "pinyin": "zuòyè",
+  "meaning": "การบ้าน",
+  "example": "放学后我要先写作业。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_767",
+  "chinese": "作用",
+  "pinyin": "zuòyòng",
+  "meaning": "บทบาท, ผลลัพธ์",
+  "example": "多喝水对身体有积极的作用。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_768",
+  "chinese": "座",
+  "pinyin": "zuò",
+  "meaning": "หลัง, ภูเขา/อาคาร (ลักษณนาม)",
+  "example": "前面有一座高山。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_769",
+  "chinese": "座位",
+  "pinyin": "zuò wèi",
+  "meaning": "ที่นั่ง",
+  "example": "请对号入座，找到你的座位。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_770",
+  "chinese": "做到",
+  "pinyin": "zuòdào",
+  "meaning": "ทำได้สำเร็จ",
+  "example": "只要坚持，就一定能做到。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_771",
+  "chinese": "做法",
+  "pinyin": "zuò fă",
+  "meaning": "วิธีทำ, แนวทางปฏิบัติ",
+  "example": "这道菜的做法很简单。",
+  "level": "HSK 2",
+  "mastered": false
+ },
+ {
+  "id": "h2_772",
+  "chinese": "ทำอาหาร",
+  "pinyin": "zuò fàn",
+  "meaning": "ทำอาหาร",
+  "example": "妈妈正在厨房做饭。",
+  "level": "HSK 2",
+  "mastered": false
+ }
+]
