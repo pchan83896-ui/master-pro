@@ -1,80 +1,101 @@
 import React, { useState } from 'react';
-import { Volume2, ArrowRight } from '../components/Icons.jsx';
+import { readings } from '../data/readings';
 
-export default function ReadingRoomView({ articles, speakChinese, setSelectedWordPopup }) {
-  const [selectedArticle, setSelectedArticle] = useState(null);
-  const [showPinyin, setShowPinyin] = useState(true);
+export default function ReadingRoomView() {
+  const [selectedStory, setSelectedStory] = useState(readings[0]);
+  const [activeWord, setActiveWord] = useState(null);
 
-  if (!selectedArticle) {
-    return (
-      <div className="space-y-6 animate-fadeIn">
-        <div>
-          <h2 className="text-2xl font-black text-slate-900">ห้องอ่านภาษาจีน (Reading Room)</h2>
-          <p className="text-sm text-slate-500">บทความ เรื่องสั้น พร้อมระบบแตะคำศัพท์เพื่อดูความหมายทันที</p>
-        </div>
+  // พจนานุกรมตัวอย่างสำหรับคำศัพท์ในบทอ่าน (สามารถเพิ่มคำอื่นๆ ได้ตามต้องการ)
+  const dict = {
+    "你好": { pinyin: "nǐ hǎo", meaning: "สวัสดี" },
+    "中国": { pinyin: "Zhōngguó", meaning: "ประเทศจีน" },
+    "学习": { pinyin: "xuéxí", meaning: "เรียนรู้ / ศึกษา" },
+    "汉语": { pinyin: "Hànyǔ", meaning: "ภาษาจีน" },
+    "朋友": { pinyin: "péngyou", meaning: "เพื่อน" },
+    "喜欢": { pinyin: "xǐhuan", meaning: "ชอบ" },
+    "书": { pinyin: "shū", meaning: "หนังสือ" },
+    "看书": { pinyin: "kàn shū", meaning: "อ่านหนังสือ" },
+  };
 
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-          {articles.map(art => (
-            <div key={art.id} className="bg-white p-6 rounded-3xl border border-slate-100 shadow-sm flex flex-col justify-between hover:shadow-md transition-all">
-              <div>
-                <span className="text-xs font-bold px-3 py-1 rounded-full bg-emerald-100 text-emerald-800">{art.level}</span>
-                <h3 className="text-lg font-black text-slate-900 my-2">{art.title}</h3>
-                <p className="text-xs text-slate-400 mb-4">{art.charsCount} ตัวอักษร • อ่านประมาณ {art.timeMin} นาที</p>
-              </div>
-              <button
-                onClick={() => setSelectedArticle(art)}
-                className="w-full bg-emerald-600 hover:bg-emerald-700 text-white font-bold py-3 rounded-2xl shadow-md text-sm flex items-center justify-center space-x-2"
-              >
-                <span>เริ่มอ่านบทความ</span>
-                <ArrowRight className="w-4 h-4" />
-              </button>
-            </div>
-          ))}
-        </div>
-      </div>
-    );
-  }
+  const handleWordClick = (word) => {
+    // ตัดเครื่องหมายวรรคตอนออกเพื่อให้ค้นหาในดิกชันนารีได้
+    const cleanWord = word.replace(/[.,\/#!$%\^&\*;:{}=\-_`~()，。！？]/g,"");
+    if (dict[cleanWord]) {
+      setActiveWord({ word: cleanWord, ...dict[cleanWord] });
+    } else {
+      setActiveWord({ word: cleanWord, pinyin: "cūn zài / คำศัพท์ทั่วไป", meaning: "คำศัพท์นี้กำลังอัปเดตความหมาย" });
+    }
+  };
 
   return (
-    <div className="max-w-2xl mx-auto space-y-6 animate-fadeIn">
-      <div className="flex items-center justify-between">
-        <button onClick={() => setSelectedArticle(null)} className="text-xs font-bold text-emerald-600 hover:underline">
-          ← กลับสู่หน้ารายการบทความ
-        </button>
-        <div className="flex items-center space-x-3">
-          <label className="text-xs font-bold text-slate-600 flex items-center space-x-1 cursor-pointer">
-            <input type="checkbox" checked={showPinyin} onChange={() => setShowPinyin(!showPinyin)} />
-            <span>แสดง Pinyin</span>
-          </label>
-          <button onClick={() => speakChinese(selectedArticle.content)} className="p-2 bg-emerald-600 text-white rounded-xl shadow-sm">
-            <Volume2 className="w-4 h-4" />
-          </button>
-        </div>
+    <div className="p-6 max-w-6xl mx-auto space-y-6">
+      <div className="bg-gradient-to-r from-emerald-600 to-teal-700 rounded-2xl p-6 text-white shadow-lg">
+        <h1 className="text-2xl font-bold mb-2">ห้องอ่านบทความภาษาจีน (Reading Room)</h1>
+        <p className="text-emerald-100">แตะที่ตัวอักษรจีนแต่ละคำในบทความเพื่อดูพินอินและคำแปลไทยทันที</p>
       </div>
 
-      <div className="bg-white rounded-3xl p-6 md:p-8 border border-slate-100 shadow-xl space-y-6">
-        <h3 className="text-2xl font-black text-slate-900">{selectedArticle.title}</h3>
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+        {/* รายการบทความ */}
+        <div className="space-y-3">
+          <h2 className="font-semibold text-gray-700">เลือกบทความ</h2>
+          {readings.map((item, idx) => (
+            <button
+              key={idx}
+              onClick={() => { setSelectedStory(item); setActiveWord(null); }}
+              className={`w-full text-left p-4 rounded-xl transition-all border ${
+                selectedStory.title === item.title
+                  ? 'bg-emerald-50 border-emerald-500 text-emerald-900 shadow-sm'
+                  : 'bg-white border-gray-200 hover:bg-gray-50 text-gray-800'
+              }`}
+            >
+              <div className="font-semibold">{item.title}</div>
+              <div className="text-xs text-gray-500 mt-1">ระดับ: HSK {item.level || 1}</div>
+            </button>
+          ))}
+        </div>
 
-        <div className="text-xl leading-loose font-medium text-slate-800 space-y-4">
-          <p>
-            {selectedArticle.content.split('').map((char, idx) => (
-              <span
-                key={idx}
-                onClick={() => {
-                  setSelectedWordPopup({
-                    chinese: char,
-                    pinyin: 'pīnyīn',
-                    meaning: 'คำแปลตัวอักษรจีนจากบทความ',
-                    level: selectedArticle.level
-                  });
-                }}
-                className="hover:bg-emerald-100 cursor-pointer rounded px-0.5 transition-colors"
-                title="แตะเพื่อดูความหมายและ Pinyin"
-              >
-                {char}
-              </span>
-            ))}
-          </p>
+        {/* เนื้อหาบทความและกล่องแสดงผลคำศัพท์ที่คลิก */}
+        <div className="md:col-span-2 space-y-6">
+          <div className="bg-white rounded-2xl p-6 border border-gray-200 shadow-sm">
+            <h2 className="text-xl font-bold text-gray-800 mb-4">{selectedStory.title}</h2>
+            
+            {/* พื้นแสดงข้อความแบบแยกคำเพื่อให้กดได้ */}
+            <div className="text-2xl leading-relaxed text-gray-900 tracking-wide bg-gray-50 p-6 rounded-xl border border-gray-100 mb-6 flex flex-wrap gap-2">
+              {selectedStory.content ? (
+                selectedStory.content.split('').map((char, index) => (
+                  <span
+                    key={index}
+                    onClick={() => handleWordClick(char)}
+                    className="cursor-pointer hover:bg-emerald-200 hover:text-emerald-900 px-1 rounded transition-colors"
+                    title="แตะเพื่อดูคำแปล"
+                  >
+                    {char}
+                  </span>
+                ))
+              ) : (
+                <p>ไม่มีเนื้อหาบทความ</p>
+              )}
+            </div>
+
+            {/* กล่องแสดง Pinyin และคำแปลไทยเมื่อผู้ใช้กดที่ตัวจีน */}
+            {activeWord ? (
+              <div className="bg-emerald-50 border border-emerald-200 rounded-xl p-4 flex items-center justify-between">
+                <div>
+                  <span className="text-xs text-emerald-600 font-semibold uppercase tracking-wider">คำศัพท์ที่เลือก</span>
+                  <div className="text-3xl font-bold text-emerald-900 mt-1">{activeWord.word}</div>
+                  <div className="text-emerald-700 font-medium">{activeWord.pinyin}</div>
+                </div>
+                <div className="text-right bg-white px-4 py-3 rounded-lg border border-emerald-100 shadow-sm">
+                  <span className="text-xs text-gray-400">คำแปลภาษาไทย</span>
+                  <div className="text-lg font-bold text-gray-800">{activeWord.meaning}</div>
+                </div>
+              </div>
+            ) : (
+              <div className="bg-gray-50 border border-dashed border-gray-300 rounded-xl p-4 text-center text-gray-400">
+                แตะที่ตัวอักษรจีนด้านบนเพื่อดูพินอินและคำแปลไทย
+              </div>
+            )}
+          </div>
         </div>
       </div>
     </div>
