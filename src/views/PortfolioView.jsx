@@ -8,13 +8,6 @@ export default function PortfolioView() {
       description: "รวมภาพฝึกเขียนอักษรจีนพื้นฐานกว่า 150 ตัว พร้อมลำดับขีดที่ถูกต้อง",
       image: "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=600&q=80",
       tag: "Writing"
-    },
-    {
-      id: 2,
-      title: "บันทึกคำศัพท์ HSK บทที่ 1-3",
-      description: "สรุปคำศัพท์พร้อมตัวอย่างประโยคสนทนาในชีวิตประจำวัน",
-      image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?auto=format&fit=crop&w=600&q=80",
-      tag: "Vocab"
     }
   ]);
 
@@ -47,7 +40,6 @@ export default function PortfolioView() {
         <p className="text-sky-100">อัปโหลดและจัดเก็บผลงานการเรียนภาษาจีนของคุณไว้ในที่เดียว</p>
       </div>
 
-      {/* ฟอร์มเพิ่มผลงานใหม่ */}
       <div className="bg-white rounded-2xl p-6 border border-gray-200 shadow-sm">
         <h2 className="text-lg font-bold text-gray-800 mb-4">อัปโหลดผลงานใหม่</h2>
         <form onSubmit={handleAddProject} className="grid grid-cols-1 md:grid-cols-3 gap-4">
@@ -82,7 +74,6 @@ export default function PortfolioView() {
         </form>
       </div>
 
-      {/* แสดงรายการผลงานทั้งหมด */}
       <div>
         <h2 className="text-xl font-bold text-gray-800 mb-4">ผลงานทั้งหมดของฉัน</h2>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
