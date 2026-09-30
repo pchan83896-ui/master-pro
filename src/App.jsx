@@ -22,7 +22,6 @@ import { READING_ARTICLES } from './data/readings.js';
 import { HSK_LEVELS, fetchHskLevel, normalizeVocab, parseHskText } from './utils/hskLoader.js';
 import { speakChinese } from './utils/speech.js';
 
-// แท็บมังฮวาโหลดเมื่อเปิดใช้งานเท่านั้น (แยก bundle Firebase ออกจากหน้าหลัก)
 const ManhwaApp = lazy(() => import('./manhwa/ManhwaApp.jsx'));
 
 export default function App() {
@@ -35,7 +34,6 @@ export default function App() {
 
   const setLevelStatus = (n, s) => setHskStatus(prev => ({ ...prev, [n]: s }));
 
-  // แทนที่คำศัพท์ของระดับ n ด้วยข้อมูลใหม่ (คงสถานะการเรียนเดิม + คำที่ผู้ใช้เพิ่มเอง)
   const applyLevel = (n, words) => {
     setVocabList(prev => {
       const level = `HSK ${n}`;
@@ -69,7 +67,6 @@ export default function App() {
     }
   };
 
-  // โหลดทุกระดับพร้อมกันตอนเปิดหน้า แต่ละระดับสำเร็จ/ล้มเหลวเป็นอิสระต่อกัน
   useEffect(() => { HSK_LEVELS.forEach(loadLevel); }, []);
   const [userWritings, setUserWritings] = useState([
     { id: 'w1', title: 'บันทึกของฉัน (My Diary)', content: '我今天很高兴，因为我学会了很多汉语。', level: 'HSK 2', date: '2026-06-06' }
